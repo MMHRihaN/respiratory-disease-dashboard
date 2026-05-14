@@ -1,0 +1,2101 @@
+target_class,hidden_severity_state,age,sex,smoking_status,heart_rate,respiratory_rate,temperature,spo2,cough_severity,dyspnea_severity,fev1_fvc_ratio,symptom_duration_days,sex_label,smoking_status_label,hidden_severity_label
+Healthy,0,57,1,0,68,13,36.4,99,1,1,73.4,1,Male,Never,Asymptomatic
+Healthy,0,29,0,0,75,14,36.9,97,0,0,81.6,0,Female,Never,Asymptomatic
+Healthy,0,41,0,0,69,12,37.2,100,1,0,76.1,1,Female,Never,Asymptomatic
+Healthy,0,21,1,0,79,14,36.8,98,0,1,85.8,2,Male,Never,Asymptomatic
+Healthy,0,22,0,0,71,17,36.7,97,0,0,86.3,0,Female,Never,Asymptomatic
+Healthy,1,47,0,0,83,16,36.9,99,1,0,76.5,1,Female,Never,Mildly symptomatic
+Healthy,0,43,1,0,71,15,36.7,100,1,1,78.7,0,Male,Never,Asymptomatic
+Healthy,0,45,0,0,70,17,36.8,98,1,0,83.4,0,Female,Never,Asymptomatic
+Healthy,1,41,1,2,79,14,36.5,98,0,0,87.9,0,Male,Current smoker,Mildly symptomatic
+Healthy,1,33,0,0,75,17,37.0,95,1,0,78.4,0,Female,Never,Mildly symptomatic
+Healthy,0,28,0,0,74,12,36.6,97,1,1,77.2,0,Female,Never,Asymptomatic
+Healthy,1,36,0,0,79,16,36.8,98,1,0,75.6,0,Female,Never,Mildly symptomatic
+Healthy,0,35,1,0,77,13,37.0,97,0,0,83.2,0,Male,Never,Asymptomatic
+Healthy,0,30,1,0,80,14,37.1,97,0,0,89.1,0,Male,Never,Asymptomatic
+Healthy,0,49,1,0,71,13,37.1,99,1,0,80.2,2,Male,Never,Asymptomatic
+Healthy,0,53,1,0,66,16,36.2,97,0,0,84.0,0,Male,Never,Asymptomatic
+Healthy,0,31,0,1,79,17,36.9,98,0,0,79.1,0,Female,Ex-smoker,Asymptomatic
+Healthy,1,35,1,0,82,15,36.8,98,0,1,79.3,0,Male,Never,Mildly symptomatic
+Healthy,0,63,0,0,85,16,37.2,97,1,0,91.9,0,Female,Never,Asymptomatic
+Healthy,0,29,0,0,73,15,37.0,99,0,0,84.3,0,Female,Never,Asymptomatic
+Healthy,0,33,0,1,68,16,36.8,97,0,0,83.5,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,42,0,0,74,12,37.1,96,1,0,84.3,0,Female,Never,Asymptomatic
+Healthy,0,61,1,2,71,12,36.7,98,0,1,79.2,2,Male,Current smoker,Asymptomatic
+Healthy,0,44,0,0,90,16,36.4,98,0,1,78.9,0,Female,Never,Asymptomatic
+Healthy,0,37,1,0,87,15,36.6,96,0,1,83.8,1,Male,Never,Asymptomatic
+Healthy,0,22,1,0,67,14,36.5,96,0,1,77.7,0,Male,Never,Asymptomatic
+Healthy,1,48,0,0,79,12,37.2,99,1,0,89.4,2,Female,Never,Mildly symptomatic
+Healthy,0,21,1,2,78,14,36.9,98,0,1,80.7,1,Male,Current smoker,Asymptomatic
+Healthy,0,25,0,0,80,12,36.7,99,0,1,79.3,0,Female,Never,Asymptomatic
+Healthy,0,42,1,1,83,14,36.6,99,1,1,81.0,0,Male,Ex-smoker,Asymptomatic
+Healthy,1,34,1,2,75,16,37.0,96,1,0,86.7,0,Male,Current smoker,Mildly symptomatic
+Healthy,0,22,1,1,73,18,36.9,98,0,0,75.9,1,Male,Ex-smoker,Asymptomatic
+Healthy,1,47,0,2,91,20,36.4,99,1,1,91.0,3,Female,Current smoker,Mildly symptomatic
+Healthy,0,49,1,0,66,19,36.7,98,1,1,92.5,1,Male,Never,Asymptomatic
+Healthy,1,40,0,2,67,15,36.2,98,0,0,76.5,3,Female,Current smoker,Mildly symptomatic
+Healthy,0,39,0,1,91,15,36.7,96,1,1,78.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,30,0,2,80,14,36.9,99,1,0,80.8,0,Female,Current smoker,Asymptomatic
+Healthy,0,28,1,0,70,14,36.7,97,0,0,79.3,0,Male,Never,Asymptomatic
+Healthy,0,32,0,0,88,15,36.8,99,0,1,82.7,0,Female,Never,Asymptomatic
+Healthy,0,47,0,2,74,16,36.7,99,1,0,74.2,0,Female,Current smoker,Asymptomatic
+Healthy,0,24,1,0,81,18,36.8,99,1,0,78.7,0,Male,Never,Asymptomatic
+Healthy,0,32,0,2,81,12,36.6,96,0,0,86.8,0,Female,Current smoker,Asymptomatic
+Healthy,1,59,0,1,78,15,36.7,99,1,1,88.4,3,Female,Ex-smoker,Mildly symptomatic
+Healthy,1,34,1,1,74,16,37.1,100,1,1,82.0,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,42,0,0,78,14,36.8,98,1,0,84.6,0,Female,Never,Asymptomatic
+Healthy,0,36,1,0,90,16,36.6,99,0,0,73.9,1,Male,Never,Asymptomatic
+Healthy,1,26,0,0,66,15,36.9,98,0,0,72.2,0,Female,Never,Mildly symptomatic
+Healthy,0,30,0,0,78,14,36.8,99,0,0,84.9,1,Female,Never,Asymptomatic
+Healthy,0,37,1,0,71,14,36.3,97,0,0,76.6,2,Male,Never,Asymptomatic
+Healthy,0,40,1,1,75,13,36.7,98,1,0,80.3,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,28,0,0,69,14,36.6,99,0,0,81.0,0,Female,Never,Asymptomatic
+Healthy,0,59,1,1,71,13,36.9,99,1,0,79.3,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,36,1,0,67,16,36.7,98,0,0,82.5,0,Male,Never,Asymptomatic
+Healthy,0,27,0,2,72,17,36.6,98,1,0,81.8,0,Female,Current smoker,Asymptomatic
+Healthy,0,55,1,2,67,16,37.1,97,0,1,83.0,0,Male,Current smoker,Asymptomatic
+Healthy,1,29,0,0,83,16,36.8,98,1,0,86.5,0,Female,Never,Mildly symptomatic
+Healthy,1,42,1,0,78,14,36.7,98,0,0,82.6,0,Male,Never,Mildly symptomatic
+Healthy,0,34,0,1,78,15,37.1,99,0,0,78.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,47,1,0,83,13,37.0,97,0,1,77.2,0,Male,Never,Asymptomatic
+Healthy,0,45,1,1,77,14,36.7,97,1,0,80.9,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,39,1,0,85,18,36.8,99,1,1,77.3,1,Male,Never,Asymptomatic
+Healthy,0,55,1,0,67,19,37.0,97,1,1,82.3,1,Male,Never,Asymptomatic
+Healthy,0,48,0,0,74,15,37.1,97,0,1,81.5,0,Female,Never,Asymptomatic
+Healthy,0,27,0,0,74,18,36.7,98,1,0,84.2,0,Female,Never,Asymptomatic
+Healthy,1,27,0,0,94,15,36.9,96,1,0,88.3,0,Female,Never,Mildly symptomatic
+Healthy,0,35,1,0,72,16,36.8,98,0,0,85.6,0,Male,Never,Asymptomatic
+Healthy,0,24,1,0,86,15,37.0,100,1,1,81.0,0,Male,Never,Asymptomatic
+Healthy,0,39,1,0,77,17,36.8,99,1,1,83.4,2,Male,Never,Asymptomatic
+Healthy,0,33,0,0,81,17,36.5,99,1,1,88.7,1,Female,Never,Asymptomatic
+Healthy,0,21,1,0,82,14,37.1,97,1,1,76.5,2,Male,Never,Asymptomatic
+Healthy,0,39,1,1,74,14,36.9,98,0,1,84.6,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,36,0,1,66,13,36.6,97,1,0,83.8,2,Female,Ex-smoker,Asymptomatic
+Healthy,1,36,0,2,69,13,37.0,96,1,0,88.8,2,Female,Current smoker,Mildly symptomatic
+Healthy,1,46,0,0,71,16,36.4,98,1,0,85.7,0,Female,Never,Mildly symptomatic
+Healthy,0,36,1,0,75,12,36.4,95,1,0,76.2,0,Male,Never,Asymptomatic
+Healthy,1,58,1,1,76,13,37.2,99,1,1,85.0,4,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,45,1,0,77,18,36.3,99,0,1,91.2,2,Male,Never,Asymptomatic
+Healthy,1,21,1,0,67,12,36.9,97,1,0,79.8,1,Male,Never,Mildly symptomatic
+Healthy,0,36,1,0,75,19,36.0,97,0,1,75.3,0,Male,Never,Asymptomatic
+Healthy,0,25,0,0,78,14,36.7,96,0,0,85.1,0,Female,Never,Asymptomatic
+Healthy,0,33,1,1,78,14,37.1,96,0,0,76.7,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,61,1,0,86,19,37.0,96,0,1,78.6,0,Male,Never,Asymptomatic
+Healthy,0,35,0,2,83,17,36.9,97,0,0,82.4,0,Female,Current smoker,Asymptomatic
+Healthy,0,38,1,2,75,16,37.0,96,1,1,81.6,0,Male,Current smoker,Asymptomatic
+Healthy,0,38,0,2,63,14,37.1,99,0,0,72.4,0,Female,Current smoker,Asymptomatic
+Healthy,0,58,0,2,93,12,37.1,98,1,0,84.2,2,Female,Current smoker,Asymptomatic
+Healthy,0,28,0,0,71,18,36.5,99,0,1,90.6,1,Female,Never,Asymptomatic
+Healthy,1,30,1,0,77,16,36.6,97,1,0,82.8,0,Male,Never,Mildly symptomatic
+Healthy,0,40,1,0,82,15,37.2,97,1,1,76.2,1,Male,Never,Asymptomatic
+Healthy,0,45,0,0,73,16,36.4,99,1,1,85.4,0,Female,Never,Asymptomatic
+Healthy,1,20,0,0,76,16,36.9,98,0,1,81.2,0,Female,Never,Mildly symptomatic
+Healthy,1,33,1,1,70,13,37.1,100,1,1,88.6,3,Male,Ex-smoker,Mildly symptomatic
+Healthy,1,30,0,0,79,14,37.1,98,2,0,87.6,4,Female,Never,Mildly symptomatic
+Healthy,1,59,0,0,58,16,36.9,97,1,0,77.4,1,Female,Never,Mildly symptomatic
+Healthy,0,37,0,0,74,15,36.9,97,1,1,85.9,0,Female,Never,Asymptomatic
+Healthy,0,25,0,2,68,15,36.9,99,1,0,79.9,0,Female,Current smoker,Asymptomatic
+Healthy,0,21,0,0,67,15,36.9,99,0,0,76.2,1,Female,Never,Asymptomatic
+Healthy,1,22,1,1,85,16,37.0,97,1,0,88.2,2,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,37,1,0,79,15,36.9,97,0,1,87.6,0,Male,Never,Asymptomatic
+Healthy,0,28,0,1,73,15,36.8,96,0,0,81.1,0,Female,Ex-smoker,Asymptomatic
+Healthy,1,28,1,0,84,16,36.9,99,1,0,82.3,0,Male,Never,Mildly symptomatic
+Healthy,0,51,1,0,71,15,37.1,97,1,0,85.2,0,Male,Never,Asymptomatic
+Healthy,0,54,0,0,90,13,37.0,98,0,1,81.4,1,Female,Never,Asymptomatic
+Healthy,0,35,1,0,79,14,37.0,97,1,0,78.7,0,Male,Never,Asymptomatic
+Healthy,0,39,0,1,75,14,36.9,99,0,0,74.2,2,Female,Ex-smoker,Asymptomatic
+Healthy,1,41,1,0,67,14,36.4,98,2,0,76.6,1,Male,Never,Mildly symptomatic
+Healthy,0,44,0,0,80,11,36.7,100,1,0,82.4,0,Female,Never,Asymptomatic
+Healthy,0,26,0,0,88,16,36.6,97,1,0,78.6,0,Female,Never,Asymptomatic
+Healthy,0,60,0,0,71,17,37.1,99,0,1,88.9,2,Female,Never,Asymptomatic
+Healthy,0,28,1,0,85,19,37.0,96,0,0,84.0,2,Male,Never,Asymptomatic
+Healthy,1,35,0,0,73,16,36.9,98,0,0,83.3,1,Female,Never,Mildly symptomatic
+Healthy,0,43,1,0,74,17,36.8,98,0,0,80.6,0,Male,Never,Asymptomatic
+Healthy,0,39,1,1,83,16,37.2,96,0,0,84.0,0,Male,Ex-smoker,Asymptomatic
+Healthy,1,23,1,0,66,15,36.6,97,1,1,82.6,0,Male,Never,Mildly symptomatic
+Healthy,0,36,1,1,76,13,37.0,99,0,0,86.1,0,Male,Ex-smoker,Asymptomatic
+Healthy,1,36,0,1,74,15,36.5,95,1,0,83.3,1,Female,Ex-smoker,Mildly symptomatic
+Healthy,1,53,0,0,82,14,37.0,98,1,0,83.7,1,Female,Never,Mildly symptomatic
+Healthy,1,38,1,0,72,14,36.6,98,1,0,75.0,0,Male,Never,Mildly symptomatic
+Healthy,0,44,0,0,81,16,37.3,97,0,1,83.1,0,Female,Never,Asymptomatic
+Healthy,0,24,1,0,72,14,36.7,96,0,0,86.2,0,Male,Never,Asymptomatic
+Healthy,0,52,1,0,72,14,36.9,100,1,0,85.1,0,Male,Never,Asymptomatic
+Healthy,0,58,0,1,70,15,36.5,98,1,0,84.2,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,28,1,2,77,17,36.8,98,0,1,76.8,2,Male,Current smoker,Asymptomatic
+Healthy,0,32,0,0,88,15,36.7,98,0,0,82.3,2,Female,Never,Asymptomatic
+Healthy,1,26,1,0,85,17,37.0,99,1,0,80.9,0,Male,Never,Mildly symptomatic
+Healthy,0,57,1,2,78,15,36.7,98,0,1,86.8,0,Male,Current smoker,Asymptomatic
+Healthy,1,49,1,0,76,15,36.6,96,1,0,83.3,1,Male,Never,Mildly symptomatic
+Healthy,0,30,1,1,68,12,37.0,98,0,1,74.9,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,26,0,0,80,12,36.8,100,1,0,79.7,1,Female,Never,Asymptomatic
+Healthy,0,52,0,0,73,15,37.0,99,1,0,81.1,0,Female,Never,Asymptomatic
+Healthy,0,47,0,0,70,11,36.6,100,1,1,82.0,0,Female,Never,Asymptomatic
+Healthy,0,37,1,0,76,13,36.7,99,0,0,80.8,2,Male,Never,Asymptomatic
+Healthy,0,37,0,1,63,18,36.8,98,1,1,83.8,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,27,1,0,80,12,36.5,99,0,0,72.9,1,Male,Never,Asymptomatic
+Healthy,0,34,1,1,69,13,36.5,98,1,0,73.4,0,Male,Ex-smoker,Asymptomatic
+Healthy,1,33,1,0,74,13,36.5,98,1,0,82.5,0,Male,Never,Mildly symptomatic
+Healthy,0,26,0,0,76,18,36.8,98,0,0,76.4,0,Female,Never,Asymptomatic
+Healthy,0,40,0,0,71,18,36.9,98,0,1,84.3,0,Female,Never,Asymptomatic
+Healthy,1,31,1,0,70,19,37.0,98,1,0,79.9,0,Male,Never,Mildly symptomatic
+Healthy,0,28,0,1,83,14,36.8,99,1,0,83.2,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,44,1,0,82,13,36.8,95,0,1,93.2,0,Male,Never,Asymptomatic
+Healthy,0,48,0,0,81,16,36.6,98,1,0,72.4,0,Female,Never,Asymptomatic
+Healthy,0,29,1,0,73,13,36.7,99,1,0,81.5,2,Male,Never,Asymptomatic
+Healthy,0,44,0,0,73,17,36.5,98,0,0,75.2,2,Female,Never,Asymptomatic
+Healthy,0,48,0,1,76,12,36.4,97,1,1,86.0,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,37,0,0,78,16,37.3,99,1,0,83.8,0,Female,Never,Asymptomatic
+Healthy,0,50,0,0,78,13,36.7,97,0,0,86.8,0,Female,Never,Asymptomatic
+Healthy,0,33,1,0,75,17,37.0,97,1,0,81.9,0,Male,Never,Asymptomatic
+Healthy,0,45,0,0,81,16,36.5,98,0,1,84.1,0,Female,Never,Asymptomatic
+Healthy,0,32,0,0,86,14,36.6,99,0,1,75.2,0,Female,Never,Asymptomatic
+Healthy,0,53,0,0,74,14,37.1,96,1,1,82.9,0,Female,Never,Asymptomatic
+Healthy,0,31,1,2,71,16,36.6,98,0,1,83.5,0,Male,Current smoker,Asymptomatic
+Healthy,0,27,0,0,84,15,36.8,97,1,1,75.3,1,Female,Never,Asymptomatic
+Healthy,0,38,0,2,84,16,36.8,98,1,0,75.1,2,Female,Current smoker,Asymptomatic
+Healthy,1,29,0,0,73,16,36.8,97,1,1,87.6,0,Female,Never,Mildly symptomatic
+Healthy,0,46,1,0,66,14,36.7,98,1,0,81.5,0,Male,Never,Asymptomatic
+Healthy,0,37,0,0,66,14,37.0,97,0,0,78.0,1,Female,Never,Asymptomatic
+Healthy,0,28,1,0,86,13,36.8,98,0,0,85.1,1,Male,Never,Asymptomatic
+Healthy,1,51,0,1,72,19,36.8,97,1,0,94.2,1,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,39,1,2,65,16,36.6,99,1,0,84.8,0,Male,Current smoker,Asymptomatic
+Healthy,0,49,0,0,76,17,36.7,97,1,1,76.1,0,Female,Never,Asymptomatic
+Healthy,0,34,0,1,79,16,36.7,99,0,1,83.8,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,33,1,0,69,17,36.6,99,0,0,84.6,1,Male,Never,Asymptomatic
+Healthy,0,33,1,2,85,16,37.0,98,0,1,84.3,0,Male,Current smoker,Asymptomatic
+Healthy,0,37,1,0,74,19,36.5,98,0,1,88.9,0,Male,Never,Asymptomatic
+Healthy,1,32,1,1,83,12,37.2,99,1,1,79.3,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,23,0,0,77,14,37.0,96,0,1,83.3,0,Female,Never,Asymptomatic
+Healthy,1,52,0,0,93,16,36.8,99,0,0,79.1,2,Female,Never,Mildly symptomatic
+Healthy,0,26,0,2,79,17,37.1,98,0,0,79.8,0,Female,Current smoker,Asymptomatic
+Healthy,1,41,1,0,78,16,36.8,99,0,0,76.2,0,Male,Never,Mildly symptomatic
+Healthy,1,32,0,0,92,14,36.7,99,1,0,83.4,0,Female,Never,Mildly symptomatic
+Healthy,1,34,0,0,78,14,36.6,98,1,0,78.4,0,Female,Never,Mildly symptomatic
+Healthy,0,37,0,0,74,12,36.6,99,0,1,82.5,1,Female,Never,Asymptomatic
+Healthy,0,22,0,2,68,15,36.9,99,1,0,84.3,0,Female,Current smoker,Asymptomatic
+Healthy,0,57,1,2,58,16,37.0,96,1,0,84.2,1,Male,Current smoker,Asymptomatic
+Healthy,0,40,1,0,72,16,36.7,98,1,1,83.3,0,Male,Never,Asymptomatic
+Healthy,0,28,0,0,81,15,37.0,100,1,0,82.5,0,Female,Never,Asymptomatic
+Healthy,0,36,1,1,70,15,37.0,96,0,1,80.9,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,51,1,0,74,15,36.8,99,0,1,72.9,0,Male,Never,Asymptomatic
+Healthy,0,35,1,0,69,16,36.4,99,1,0,82.3,0,Male,Never,Asymptomatic
+Healthy,0,35,1,0,66,17,36.8,99,1,0,76.3,0,Male,Never,Asymptomatic
+Healthy,1,30,1,0,68,13,36.6,99,0,0,79.8,0,Male,Never,Mildly symptomatic
+Healthy,0,53,0,2,72,17,36.9,99,1,0,90.6,0,Female,Current smoker,Asymptomatic
+Healthy,0,34,1,0,77,15,37.0,99,0,0,79.0,0,Male,Never,Asymptomatic
+Healthy,0,34,0,2,77,14,36.8,97,0,0,82.0,0,Female,Current smoker,Asymptomatic
+Healthy,1,52,1,0,78,13,36.7,96,0,0,78.5,4,Male,Never,Mildly symptomatic
+Healthy,0,23,1,0,63,19,37.2,98,0,1,82.0,0,Male,Never,Asymptomatic
+Healthy,0,39,1,0,78,18,36.7,99,1,0,81.4,2,Male,Never,Asymptomatic
+Healthy,1,23,0,0,72,14,36.7,97,0,1,78.4,2,Female,Never,Mildly symptomatic
+Healthy,0,27,0,0,83,14,36.6,100,0,1,84.4,0,Female,Never,Asymptomatic
+Healthy,0,46,1,1,68,16,37.0,98,1,1,83.5,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,24,0,0,65,14,36.5,99,1,0,90.3,0,Female,Never,Asymptomatic
+Healthy,0,39,1,1,64,12,36.7,97,0,0,86.3,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,30,1,2,78,14,36.9,97,1,0,81.5,1,Male,Current smoker,Asymptomatic
+Healthy,0,31,1,1,83,15,36.8,97,1,0,82.1,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,42,0,1,72,11,36.8,96,0,1,75.1,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,46,0,0,73,14,37.0,97,1,1,81.3,2,Female,Never,Asymptomatic
+Healthy,0,38,0,0,80,11,36.6,99,1,1,85.6,1,Female,Never,Asymptomatic
+Healthy,0,47,1,0,73,18,36.8,98,0,0,80.5,0,Male,Never,Asymptomatic
+Healthy,0,47,0,1,84,14,36.9,98,1,0,84.4,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,43,1,0,79,15,36.9,97,1,0,80.5,0,Male,Never,Asymptomatic
+Healthy,0,39,0,1,61,14,36.7,96,0,0,82.0,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,41,0,0,90,15,36.9,97,1,1,82.4,0,Female,Never,Asymptomatic
+Healthy,0,47,1,0,71,11,36.7,99,0,0,80.5,0,Male,Never,Asymptomatic
+Healthy,0,43,1,1,62,18,37.0,99,0,0,79.6,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,31,0,1,76,12,37.2,100,1,1,82.7,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,30,0,0,78,17,36.8,97,1,0,80.7,0,Female,Never,Asymptomatic
+Healthy,0,54,0,0,86,16,36.4,97,0,0,81.5,0,Female,Never,Asymptomatic
+Healthy,1,39,0,0,80,12,36.6,99,1,0,81.3,0,Female,Never,Mildly symptomatic
+Healthy,1,38,1,1,68,20,36.8,98,1,0,83.8,2,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,37,1,0,78,19,36.6,99,1,1,90.6,2,Male,Never,Asymptomatic
+Healthy,0,45,0,0,79,13,36.8,99,0,0,72.7,0,Female,Never,Asymptomatic
+Healthy,1,30,1,0,72,17,36.9,96,0,0,81.9,0,Male,Never,Mildly symptomatic
+Healthy,0,62,1,0,76,15,36.9,96,0,0,81.4,0,Male,Never,Asymptomatic
+Healthy,0,63,0,0,74,17,37.1,99,1,0,87.0,0,Female,Never,Asymptomatic
+Healthy,1,27,1,0,75,16,36.8,98,0,1,77.1,0,Male,Never,Mildly symptomatic
+Healthy,1,53,0,1,76,15,36.6,98,0,0,87.3,0,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,33,1,0,66,17,36.4,99,1,0,86.7,1,Male,Never,Asymptomatic
+Healthy,0,55,0,0,77,15,36.4,98,1,0,78.2,0,Female,Never,Asymptomatic
+Healthy,0,52,0,0,72,16,36.9,98,1,0,88.2,0,Female,Never,Asymptomatic
+Healthy,0,26,0,2,74,14,37.0,98,0,0,81.1,0,Female,Current smoker,Asymptomatic
+Healthy,0,39,0,0,76,14,37.2,98,0,0,85.9,0,Female,Never,Asymptomatic
+Healthy,1,37,0,0,66,17,36.5,97,1,0,73.9,0,Female,Never,Mildly symptomatic
+Healthy,0,34,1,2,80,16,36.8,100,0,0,77.4,1,Male,Current smoker,Asymptomatic
+Healthy,0,50,0,1,90,15,36.6,99,1,0,91.0,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,45,1,0,83,15,36.7,97,1,0,79.7,0,Male,Never,Asymptomatic
+Healthy,1,44,1,0,79,15,37.0,99,0,0,74.7,0,Male,Never,Mildly symptomatic
+Healthy,0,36,1,0,85,16,36.6,98,0,0,84.4,0,Male,Never,Asymptomatic
+Healthy,0,35,1,1,81,13,37.0,99,1,1,79.9,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,60,0,0,91,15,36.6,98,0,0,75.4,2,Female,Never,Asymptomatic
+Healthy,0,44,0,0,69,18,36.4,98,1,0,75.9,2,Female,Never,Asymptomatic
+Healthy,0,37,1,0,77,14,36.1,97,0,0,83.5,0,Male,Never,Asymptomatic
+Healthy,1,19,1,0,74,12,36.9,98,1,0,89.6,0,Male,Never,Mildly symptomatic
+Healthy,1,29,1,2,66,11,36.8,96,1,1,81.3,0,Male,Current smoker,Mildly symptomatic
+Healthy,0,37,1,0,77,16,36.9,97,1,1,74.7,0,Male,Never,Asymptomatic
+Healthy,0,20,0,2,73,15,36.6,98,1,0,80.0,1,Female,Current smoker,Asymptomatic
+Healthy,0,48,0,0,71,19,36.7,99,0,0,86.2,0,Female,Never,Asymptomatic
+Healthy,1,54,1,0,82,15,37.1,98,1,0,82.5,0,Male,Never,Mildly symptomatic
+Healthy,0,49,0,0,61,14,36.8,96,0,1,76.3,1,Female,Never,Asymptomatic
+Healthy,0,28,0,0,69,16,37.1,99,1,0,79.4,0,Female,Never,Asymptomatic
+Healthy,0,39,1,0,73,17,37.0,97,1,1,79.9,0,Male,Never,Asymptomatic
+Healthy,0,56,1,0,74,15,36.8,97,1,0,86.9,2,Male,Never,Asymptomatic
+Healthy,0,44,0,1,70,13,36.6,95,1,1,82.3,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,20,0,2,71,14,36.5,97,0,0,78.8,0,Female,Current smoker,Asymptomatic
+Healthy,0,31,0,2,78,15,36.7,98,0,0,84.7,0,Female,Current smoker,Asymptomatic
+Healthy,0,36,1,0,77,13,36.9,97,0,0,84.6,0,Male,Never,Asymptomatic
+Healthy,0,53,0,0,74,12,37.0,96,0,0,83.7,0,Female,Never,Asymptomatic
+Healthy,0,45,1,1,83,17,36.8,97,1,0,77.8,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,48,1,0,65,17,36.7,98,1,0,84.0,0,Male,Never,Asymptomatic
+Healthy,0,48,0,2,77,14,36.6,97,0,0,80.5,2,Female,Current smoker,Asymptomatic
+Healthy,0,43,0,0,83,16,36.8,96,1,0,85.9,2,Female,Never,Asymptomatic
+Healthy,0,42,1,0,69,17,37.0,99,1,0,84.0,2,Male,Never,Asymptomatic
+Healthy,0,45,0,0,72,14,36.6,98,1,0,77.9,0,Female,Never,Asymptomatic
+Healthy,0,35,1,1,82,14,36.9,97,1,0,79.9,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,44,0,0,71,16,37.0,99,1,0,75.8,1,Female,Never,Asymptomatic
+Healthy,0,31,0,2,71,15,36.4,98,0,1,88.0,0,Female,Current smoker,Asymptomatic
+Healthy,1,64,1,1,71,15,36.4,96,2,0,85.4,2,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,33,1,2,84,15,36.3,96,0,0,73.2,1,Male,Current smoker,Asymptomatic
+Healthy,0,39,0,2,74,15,36.7,96,1,1,84.3,0,Female,Current smoker,Asymptomatic
+Healthy,0,41,1,0,73,16,36.9,98,0,0,87.4,2,Male,Never,Asymptomatic
+Healthy,1,26,1,0,64,16,37.2,96,1,1,86.4,0,Male,Never,Mildly symptomatic
+Healthy,0,37,1,1,69,12,37.0,98,1,1,86.3,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,28,1,0,87,15,36.9,98,0,0,81.2,0,Male,Never,Asymptomatic
+Healthy,0,52,1,1,70,17,37.1,97,1,0,86.3,0,Male,Ex-smoker,Asymptomatic
+Healthy,1,42,1,0,84,12,36.7,96,1,1,87.2,0,Male,Never,Mildly symptomatic
+Healthy,1,36,0,0,64,18,36.4,98,1,1,77.5,0,Female,Never,Mildly symptomatic
+Healthy,0,48,0,0,70,13,36.6,98,1,0,78.3,0,Female,Never,Asymptomatic
+Healthy,0,51,0,0,76,14,36.8,99,0,0,82.2,0,Female,Never,Asymptomatic
+Healthy,0,32,0,0,75,14,37.0,96,0,0,85.0,2,Female,Never,Asymptomatic
+Healthy,0,50,1,2,73,13,36.8,99,0,0,86.9,0,Male,Current smoker,Asymptomatic
+Healthy,1,36,0,0,82,13,36.6,100,0,0,83.1,1,Female,Never,Mildly symptomatic
+Healthy,1,46,0,0,84,13,37.0,98,1,1,83.4,1,Female,Never,Mildly symptomatic
+Healthy,0,48,0,0,77,17,37.0,97,1,0,78.4,0,Female,Never,Asymptomatic
+Healthy,0,18,1,1,79,16,36.5,98,0,0,81.9,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,30,0,2,75,15,37.0,97,0,0,83.3,2,Female,Current smoker,Asymptomatic
+Healthy,0,21,0,0,76,16,37.1,98,0,0,74.1,2,Female,Never,Asymptomatic
+Healthy,0,37,0,0,81,13,36.9,97,0,0,86.2,0,Female,Never,Asymptomatic
+Healthy,1,26,1,0,80,15,37.1,98,0,0,86.7,1,Male,Never,Mildly symptomatic
+Healthy,0,34,0,0,79,16,36.9,97,0,0,83.3,2,Female,Never,Asymptomatic
+Healthy,0,44,1,0,75,17,36.6,97,0,1,75.8,2,Male,Never,Asymptomatic
+Healthy,0,28,0,1,71,14,36.8,99,0,0,75.0,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,33,0,2,82,15,37.1,97,1,1,80.3,0,Female,Current smoker,Asymptomatic
+Healthy,0,25,0,1,88,16,37.1,99,0,0,76.5,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,42,1,0,73,12,36.6,96,1,0,87.7,1,Male,Never,Asymptomatic
+Healthy,0,56,0,0,82,13,36.4,98,0,0,78.5,2,Female,Never,Asymptomatic
+Healthy,0,51,1,1,77,14,36.7,99,0,1,78.7,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,21,1,0,93,15,36.5,98,1,1,75.5,1,Male,Never,Asymptomatic
+Healthy,0,40,0,1,73,18,36.8,97,0,0,85.6,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,20,1,0,74,16,37.1,97,0,0,83.6,0,Male,Never,Asymptomatic
+Healthy,1,50,0,0,76,17,36.4,99,1,0,84.4,0,Female,Never,Mildly symptomatic
+Healthy,0,35,0,0,73,15,36.9,98,0,0,77.8,0,Female,Never,Asymptomatic
+Healthy,1,22,0,0,85,15,36.6,98,1,1,78.4,4,Female,Never,Mildly symptomatic
+Healthy,0,22,1,0,75,17,36.9,95,1,0,76.3,1,Male,Never,Asymptomatic
+Healthy,0,40,0,2,70,17,36.8,99,1,0,79.9,0,Female,Current smoker,Asymptomatic
+Healthy,0,51,1,0,67,14,36.9,98,1,1,77.9,1,Male,Never,Asymptomatic
+Healthy,0,23,1,0,76,18,37.0,97,1,0,86.2,1,Male,Never,Asymptomatic
+Healthy,1,22,0,0,65,14,37.0,100,0,0,79.3,0,Female,Never,Mildly symptomatic
+Healthy,0,22,0,0,74,12,36.8,95,1,0,74.3,2,Female,Never,Asymptomatic
+Healthy,0,45,0,2,74,15,36.4,98,1,1,78.5,0,Female,Current smoker,Asymptomatic
+Healthy,1,55,0,0,73,17,36.5,97,1,0,82.0,0,Female,Never,Mildly symptomatic
+Healthy,0,44,1,0,70,14,37.1,98,1,0,81.0,0,Male,Never,Asymptomatic
+Healthy,0,49,1,0,83,14,37.2,97,0,0,76.6,0,Male,Never,Asymptomatic
+Healthy,0,52,1,0,77,13,36.4,98,0,0,74.1,0,Male,Never,Asymptomatic
+Healthy,0,39,0,0,73,16,36.8,98,1,1,81.3,0,Female,Never,Asymptomatic
+Healthy,0,43,1,0,62,15,36.6,97,0,0,82.4,0,Male,Never,Asymptomatic
+Healthy,0,38,0,1,82,17,36.9,98,0,0,76.0,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,52,1,1,59,11,36.7,97,0,0,89.8,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,43,0,1,70,13,36.9,97,1,0,83.3,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,21,1,1,84,15,37.0,98,1,0,83.8,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,20,0,0,84,13,37.0,99,0,1,93.1,2,Female,Never,Asymptomatic
+Healthy,1,42,1,0,81,12,37.1,97,1,0,74.4,2,Male,Never,Mildly symptomatic
+Healthy,0,25,1,2,79,13,36.7,99,1,0,72.0,1,Male,Current smoker,Asymptomatic
+Healthy,0,40,1,2,77,15,36.5,98,0,0,80.7,0,Male,Current smoker,Asymptomatic
+Healthy,0,33,0,0,92,15,36.8,99,1,0,86.4,0,Female,Never,Asymptomatic
+Healthy,0,36,1,1,72,13,36.9,97,1,0,84.7,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,20,0,0,78,17,36.6,97,1,0,81.9,1,Female,Never,Asymptomatic
+Healthy,0,25,1,0,70,16,37.0,96,0,0,78.9,0,Male,Never,Asymptomatic
+Healthy,0,53,1,0,81,14,36.9,98,0,1,82.8,0,Male,Never,Asymptomatic
+Healthy,1,20,0,0,82,16,36.7,98,1,1,81.6,0,Female,Never,Mildly symptomatic
+Healthy,0,48,0,0,73,17,36.8,96,0,0,82.1,0,Female,Never,Asymptomatic
+Healthy,0,56,1,0,92,11,36.9,98,0,0,81.6,0,Male,Never,Asymptomatic
+Healthy,0,27,0,0,71,15,36.5,99,0,0,84.3,0,Female,Never,Asymptomatic
+Healthy,0,44,0,0,73,13,36.5,97,0,0,84.4,0,Female,Never,Asymptomatic
+Healthy,0,52,1,2,73,16,36.8,97,0,0,78.1,0,Male,Current smoker,Asymptomatic
+Healthy,1,54,0,0,69,16,36.7,100,1,0,83.4,1,Female,Never,Mildly symptomatic
+Healthy,1,44,0,1,89,12,37.2,96,1,0,76.8,0,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,26,0,0,75,16,37.1,99,0,0,78.1,0,Female,Never,Asymptomatic
+Healthy,0,23,0,2,75,15,36.3,97,1,0,81.1,0,Female,Current smoker,Asymptomatic
+Healthy,0,20,1,1,82,14,37.0,98,0,0,72.9,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,31,1,0,84,18,37.1,97,0,0,72.6,0,Male,Never,Asymptomatic
+Healthy,0,39,1,0,71,13,37.1,99,1,1,82.4,1,Male,Never,Asymptomatic
+Healthy,0,37,1,2,83,16,36.9,97,0,0,85.1,0,Male,Current smoker,Asymptomatic
+Healthy,1,25,0,1,69,12,36.7,99,0,0,83.1,0,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,57,1,1,72,15,36.6,96,0,1,84.4,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,34,1,2,71,17,37.0,97,0,0,91.7,0,Male,Current smoker,Asymptomatic
+Healthy,1,34,1,0,78,17,37.0,99,1,0,77.0,0,Male,Never,Mildly symptomatic
+Healthy,0,42,1,0,79,16,37.3,95,1,0,81.3,0,Male,Never,Asymptomatic
+Healthy,0,34,0,1,80,15,37.1,97,0,0,78.1,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,23,1,0,76,12,36.9,97,1,0,78.0,0,Male,Never,Asymptomatic
+Healthy,0,33,1,0,80,13,36.7,98,1,0,75.9,0,Male,Never,Asymptomatic
+Healthy,0,26,1,0,62,16,36.7,97,0,0,79.2,0,Male,Never,Asymptomatic
+Healthy,0,33,1,1,78,14,36.6,97,0,0,86.1,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,41,1,0,84,13,36.9,99,1,0,73.1,0,Male,Never,Asymptomatic
+Healthy,0,35,1,0,72,14,36.7,98,1,0,86.4,1,Male,Never,Asymptomatic
+Healthy,0,30,0,0,72,12,36.5,95,1,0,78.2,0,Female,Never,Asymptomatic
+Healthy,0,54,0,0,80,18,36.9,99,0,0,80.6,0,Female,Never,Asymptomatic
+Healthy,0,34,0,0,90,15,36.9,99,0,0,78.2,0,Female,Never,Asymptomatic
+Healthy,0,36,0,0,87,17,37.0,99,0,1,77.1,1,Female,Never,Asymptomatic
+Healthy,1,53,0,1,65,16,36.8,98,1,1,86.0,0,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,56,1,0,76,16,36.8,97,0,1,87.4,0,Male,Never,Asymptomatic
+Healthy,1,34,1,1,83,18,36.7,99,0,1,85.3,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,33,1,2,70,13,36.6,99,1,0,80.9,1,Male,Current smoker,Asymptomatic
+Healthy,1,61,1,2,74,15,36.9,99,0,0,77.0,1,Male,Current smoker,Mildly symptomatic
+Healthy,1,44,1,0,71,18,36.7,99,0,0,72.8,2,Male,Never,Mildly symptomatic
+Healthy,0,28,0,0,67,15,36.4,98,0,0,87.6,1,Female,Never,Asymptomatic
+Healthy,1,53,1,1,68,14,36.4,99,1,1,79.7,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,23,0,0,70,11,37.1,99,1,0,76.6,0,Female,Never,Asymptomatic
+Healthy,0,55,0,0,76,14,36.7,98,1,0,74.1,0,Female,Never,Asymptomatic
+Healthy,0,29,0,0,83,14,36.8,98,0,1,87.5,0,Female,Never,Asymptomatic
+Healthy,1,37,1,0,92,16,36.6,98,2,1,76.1,1,Male,Never,Mildly symptomatic
+Healthy,1,26,0,2,65,19,37.2,97,1,0,81.2,0,Female,Current smoker,Mildly symptomatic
+Healthy,0,35,1,2,76,14,36.5,100,0,0,79.6,0,Male,Current smoker,Asymptomatic
+Healthy,0,47,0,0,67,12,37.1,97,1,0,75.5,0,Female,Never,Asymptomatic
+Healthy,1,28,1,0,76,16,37.1,99,1,1,78.1,0,Male,Never,Mildly symptomatic
+Healthy,1,57,1,0,78,16,36.6,98,1,0,81.0,0,Male,Never,Mildly symptomatic
+Healthy,0,35,0,0,71,18,37.2,98,0,0,80.8,0,Female,Never,Asymptomatic
+Healthy,1,26,1,0,82,14,36.9,97,0,1,88.9,2,Male,Never,Mildly symptomatic
+Healthy,0,44,1,0,83,16,36.8,97,0,1,84.1,2,Male,Never,Asymptomatic
+Healthy,1,45,0,0,75,14,36.8,98,0,0,75.4,2,Female,Never,Mildly symptomatic
+Healthy,0,24,0,0,66,18,36.2,98,0,0,89.1,0,Female,Never,Asymptomatic
+Healthy,1,30,1,0,85,15,36.8,97,0,1,80.0,0,Male,Never,Mildly symptomatic
+Healthy,0,18,1,0,78,12,36.7,98,0,1,75.8,1,Male,Never,Asymptomatic
+Healthy,0,49,0,2,77,14,36.8,97,1,1,86.8,2,Female,Current smoker,Asymptomatic
+Healthy,0,22,1,0,61,12,36.7,98,0,0,81.9,0,Male,Never,Asymptomatic
+Healthy,0,41,0,0,74,13,36.8,98,1,1,79.6,2,Female,Never,Asymptomatic
+Healthy,0,39,0,0,61,14,36.7,98,0,1,87.3,2,Female,Never,Asymptomatic
+Healthy,0,33,1,0,76,13,36.5,99,1,0,78.0,1,Male,Never,Asymptomatic
+Healthy,1,24,0,1,71,17,36.9,99,0,0,79.4,5,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,55,1,0,64,16,36.5,97,0,0,83.4,0,Male,Never,Asymptomatic
+Healthy,0,42,1,1,87,16,36.8,97,1,0,83.4,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,29,1,0,66,15,36.9,98,0,0,80.2,2,Male,Never,Asymptomatic
+Healthy,0,21,0,0,87,11,36.8,99,0,0,91.3,1,Female,Never,Asymptomatic
+Healthy,0,37,0,0,84,14,36.6,98,1,0,83.1,0,Female,Never,Asymptomatic
+Healthy,0,22,1,0,63,15,37.0,97,0,0,81.5,1,Male,Never,Asymptomatic
+Healthy,0,25,0,0,82,19,37.2,99,1,1,79.4,1,Female,Never,Asymptomatic
+Healthy,1,32,0,2,64,15,37.1,98,1,0,80.2,1,Female,Current smoker,Mildly symptomatic
+Healthy,1,46,1,2,80,11,36.7,99,0,0,85.3,0,Male,Current smoker,Mildly symptomatic
+Healthy,0,53,1,0,72,13,37.1,99,1,0,77.8,1,Male,Never,Asymptomatic
+Healthy,0,22,0,0,68,19,36.6,97,0,1,81.2,0,Female,Never,Asymptomatic
+Healthy,0,37,1,2,66,15,37.1,98,1,0,89.5,2,Male,Current smoker,Asymptomatic
+Healthy,1,32,0,1,82,18,36.6,99,1,0,80.7,0,Female,Ex-smoker,Mildly symptomatic
+Healthy,1,54,0,0,74,14,36.9,98,1,1,82.6,0,Female,Never,Mildly symptomatic
+Healthy,0,42,0,1,70,12,36.7,98,0,0,80.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,52,0,0,79,15,36.9,98,0,0,84.6,0,Female,Never,Asymptomatic
+Healthy,0,60,0,0,86,16,36.8,99,1,0,81.8,0,Female,Never,Asymptomatic
+Healthy,1,44,0,2,76,12,36.8,98,1,0,86.7,0,Female,Current smoker,Mildly symptomatic
+Healthy,0,36,1,1,79,16,36.6,98,1,1,78.1,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,35,1,0,75,14,36.4,98,0,0,84.8,0,Male,Never,Asymptomatic
+Healthy,1,42,1,0,63,12,36.6,98,1,0,79.5,0,Male,Never,Mildly symptomatic
+Healthy,1,37,1,0,74,17,37.1,97,1,1,90.7,1,Male,Never,Mildly symptomatic
+Healthy,0,38,0,2,83,16,36.8,99,0,0,85.1,0,Female,Current smoker,Asymptomatic
+Healthy,0,24,0,2,75,16,36.7,97,0,1,83.7,2,Female,Current smoker,Asymptomatic
+Healthy,1,48,0,0,80,16,36.6,99,1,0,87.9,0,Female,Never,Mildly symptomatic
+Healthy,1,50,0,0,70,15,36.9,98,1,0,80.5,0,Female,Never,Mildly symptomatic
+Healthy,1,21,0,0,73,15,37.0,97,1,0,85.4,0,Female,Never,Mildly symptomatic
+Healthy,0,43,1,0,90,15,37.1,97,1,1,83.1,1,Male,Never,Asymptomatic
+Healthy,0,36,1,0,90,18,36.6,97,1,1,81.4,0,Male,Never,Asymptomatic
+Healthy,0,44,0,1,64,12,36.7,98,0,0,79.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,60,0,0,78,19,36.6,98,1,0,75.8,0,Female,Never,Asymptomatic
+Healthy,0,46,0,1,62,17,36.8,97,0,1,75.4,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,42,1,0,72,14,36.6,98,1,0,80.5,0,Male,Never,Asymptomatic
+Healthy,1,57,1,0,65,14,36.6,98,1,1,87.1,0,Male,Never,Mildly symptomatic
+Healthy,0,31,1,2,82,14,36.6,99,0,0,87.4,2,Male,Current smoker,Asymptomatic
+Healthy,0,41,1,0,74,15,36.8,95,0,0,85.0,0,Male,Never,Asymptomatic
+Healthy,0,45,0,0,75,14,37.1,97,1,0,81.5,0,Female,Never,Asymptomatic
+Healthy,0,28,0,0,72,18,36.9,98,0,0,85.6,0,Female,Never,Asymptomatic
+Healthy,1,31,1,0,85,15,36.7,97,1,1,78.4,0,Male,Never,Mildly symptomatic
+Healthy,0,52,1,0,66,16,37.1,99,1,0,76.4,0,Male,Never,Asymptomatic
+Healthy,0,27,0,0,88,16,37.0,99,0,1,79.2,2,Female,Never,Asymptomatic
+Healthy,0,55,0,1,81,17,37.2,100,0,1,83.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,61,1,0,63,14,37.0,99,0,0,81.2,2,Male,Never,Asymptomatic
+Healthy,0,23,1,0,76,14,36.9,98,1,0,79.8,0,Male,Never,Asymptomatic
+Healthy,0,22,1,2,86,15,36.8,96,1,1,78.8,0,Male,Current smoker,Asymptomatic
+Healthy,1,52,0,0,69,13,37.1,99,1,0,87.0,0,Female,Never,Mildly symptomatic
+Healthy,0,41,1,1,81,17,36.6,98,1,0,76.7,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,64,1,0,94,19,36.8,97,1,1,84.5,1,Male,Never,Asymptomatic
+Healthy,0,33,1,0,65,15,36.7,97,1,0,85.8,0,Male,Never,Asymptomatic
+Healthy,0,48,1,0,89,14,36.3,98,0,1,78.3,1,Male,Never,Asymptomatic
+Healthy,0,22,0,0,87,19,36.6,97,1,0,88.2,1,Female,Never,Asymptomatic
+Healthy,0,54,1,0,59,19,37.1,96,1,0,79.0,0,Male,Never,Asymptomatic
+Healthy,1,30,1,0,77,16,36.6,98,0,0,86.6,0,Male,Never,Mildly symptomatic
+Healthy,0,36,1,0,67,16,36.6,96,0,1,86.6,0,Male,Never,Asymptomatic
+Healthy,0,40,1,1,79,14,36.4,98,1,0,86.8,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,44,1,2,80,14,37.0,97,1,1,80.7,1,Male,Current smoker,Asymptomatic
+Healthy,0,47,1,2,69,17,36.9,97,0,0,88.7,1,Male,Current smoker,Asymptomatic
+Healthy,0,21,0,0,68,17,36.6,98,0,0,76.3,0,Female,Never,Asymptomatic
+Healthy,1,32,1,2,70,14,36.9,100,1,0,86.1,0,Male,Current smoker,Mildly symptomatic
+Healthy,0,23,1,0,70,17,36.6,97,0,0,81.1,2,Male,Never,Asymptomatic
+Healthy,0,20,0,1,81,17,36.6,97,0,0,83.5,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,26,1,0,63,16,37.0,97,0,1,86.5,0,Male,Never,Asymptomatic
+Healthy,1,28,1,0,79,14,36.8,97,1,0,87.9,0,Male,Never,Mildly symptomatic
+Healthy,1,36,1,0,60,12,36.8,98,0,0,81.2,2,Male,Never,Mildly symptomatic
+Healthy,0,29,0,0,65,15,36.9,99,0,0,74.8,0,Female,Never,Asymptomatic
+Healthy,1,45,1,0,67,14,37.1,99,1,0,84.9,0,Male,Never,Mildly symptomatic
+Healthy,0,54,0,2,77,16,36.8,97,0,0,83.6,0,Female,Current smoker,Asymptomatic
+Healthy,1,30,0,0,87,16,36.7,98,0,1,84.2,0,Female,Never,Mildly symptomatic
+Healthy,0,37,0,2,90,14,36.8,100,0,0,76.1,0,Female,Current smoker,Asymptomatic
+Healthy,0,30,1,2,83,17,36.9,96,0,1,80.5,0,Male,Current smoker,Asymptomatic
+Healthy,0,33,0,2,84,15,37.2,98,1,0,76.6,2,Female,Current smoker,Asymptomatic
+Healthy,0,50,0,0,63,12,36.9,98,0,0,86.5,0,Female,Never,Asymptomatic
+Healthy,0,59,0,2,69,15,36.7,100,0,0,92.1,1,Female,Current smoker,Asymptomatic
+Healthy,0,19,0,0,73,18,37.1,99,1,0,76.7,0,Female,Never,Asymptomatic
+Healthy,0,49,1,2,70,16,36.5,98,1,0,79.1,0,Male,Current smoker,Asymptomatic
+Healthy,0,42,1,0,81,17,36.8,98,1,0,79.5,0,Male,Never,Asymptomatic
+Healthy,1,54,1,0,75,13,36.3,98,1,1,84.6,0,Male,Never,Mildly symptomatic
+Healthy,0,45,1,0,85,16,36.5,98,0,1,85.5,0,Male,Never,Asymptomatic
+Healthy,0,49,1,0,89,15,36.7,99,0,0,82.0,2,Male,Never,Asymptomatic
+Healthy,0,41,0,1,76,14,36.5,97,1,0,77.6,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,40,1,0,75,19,36.7,97,0,0,85.6,0,Male,Never,Asymptomatic
+Healthy,0,20,0,1,73,15,36.6,99,0,1,78.1,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,53,0,0,76,12,36.6,100,1,0,89.0,0,Female,Never,Asymptomatic
+Healthy,0,43,1,0,80,12,36.5,95,1,1,86.0,0,Male,Never,Asymptomatic
+Healthy,0,32,0,1,77,12,36.3,96,0,1,83.8,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,52,1,0,76,15,36.9,100,1,0,74.7,0,Male,Never,Asymptomatic
+Healthy,0,21,1,1,68,17,36.5,97,0,0,78.9,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,22,1,0,84,15,36.8,98,0,0,79.8,0,Male,Never,Asymptomatic
+Healthy,0,59,0,1,82,14,36.5,97,1,0,85.9,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,50,0,0,80,15,37.1,98,0,1,79.0,0,Female,Never,Asymptomatic
+Healthy,0,22,0,0,74,14,37.0,99,0,0,80.5,0,Female,Never,Asymptomatic
+Healthy,1,45,0,0,66,16,36.5,100,1,0,83.1,1,Female,Never,Mildly symptomatic
+Healthy,1,28,0,0,74,16,36.6,97,1,0,81.1,0,Female,Never,Mildly symptomatic
+Healthy,1,45,0,0,69,14,36.3,98,1,0,84.2,0,Female,Never,Mildly symptomatic
+Healthy,0,39,0,0,86,12,37.1,97,1,1,84.3,2,Female,Never,Asymptomatic
+Healthy,0,42,1,0,83,15,36.4,98,0,0,76.2,0,Male,Never,Asymptomatic
+Healthy,0,46,1,1,93,16,36.7,98,1,0,73.2,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,28,1,0,60,14,36.9,99,1,0,85.1,0,Male,Never,Asymptomatic
+Healthy,0,29,1,0,66,16,36.9,98,0,0,81.4,1,Male,Never,Asymptomatic
+Healthy,1,31,1,0,71,15,36.5,97,1,1,88.4,0,Male,Never,Mildly symptomatic
+Healthy,0,49,0,0,71,19,36.9,99,0,0,74.2,2,Female,Never,Asymptomatic
+Healthy,1,44,0,0,71,15,36.8,98,1,0,82.2,1,Female,Never,Mildly symptomatic
+Healthy,0,44,1,1,78,18,36.4,97,0,0,83.9,2,Male,Ex-smoker,Asymptomatic
+Healthy,1,36,1,1,79,13,36.8,98,1,0,88.9,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,1,29,1,0,85,14,36.7,98,2,0,80.3,1,Male,Never,Mildly symptomatic
+Healthy,1,47,1,1,71,17,36.5,97,1,0,85.1,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,41,1,2,85,15,37.0,98,1,0,76.7,0,Male,Current smoker,Asymptomatic
+Healthy,0,45,0,0,77,19,36.8,96,1,1,94.1,0,Female,Never,Asymptomatic
+Healthy,0,53,0,0,74,12,36.7,97,1,1,79.1,0,Female,Never,Asymptomatic
+Healthy,0,24,1,1,79,17,36.9,100,1,1,82.3,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,26,1,0,78,11,36.6,98,1,0,81.2,1,Male,Never,Asymptomatic
+Healthy,0,30,1,0,73,12,36.6,99,0,0,81.8,0,Male,Never,Asymptomatic
+Healthy,0,48,1,2,84,16,36.4,99,1,1,82.2,0,Male,Current smoker,Asymptomatic
+Healthy,1,45,1,0,70,14,37.0,97,1,1,73.6,2,Male,Never,Mildly symptomatic
+Healthy,0,34,0,2,85,15,36.4,99,1,1,82.8,0,Female,Current smoker,Asymptomatic
+Healthy,0,60,1,1,71,16,37.0,97,0,0,79.0,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,40,0,0,85,16,36.9,98,1,0,86.6,0,Female,Never,Asymptomatic
+Healthy,0,34,1,0,75,13,36.9,100,1,0,80.6,2,Male,Never,Asymptomatic
+Healthy,0,37,0,1,72,14,36.7,97,1,0,81.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,1,21,1,2,75,15,37.2,97,0,0,79.0,2,Male,Current smoker,Mildly symptomatic
+Healthy,1,31,0,0,81,13,36.7,98,1,0,81.0,2,Female,Never,Mildly symptomatic
+Healthy,0,34,1,0,83,15,37.1,100,0,0,83.5,0,Male,Never,Asymptomatic
+Healthy,0,44,0,0,80,13,36.8,97,1,0,88.1,0,Female,Never,Asymptomatic
+Healthy,0,37,0,0,78,15,36.5,96,1,0,80.4,2,Female,Never,Asymptomatic
+Healthy,0,55,0,1,71,16,37.1,96,1,0,83.4,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,52,1,0,76,15,36.7,97,1,0,86.2,1,Male,Never,Asymptomatic
+Healthy,0,38,1,0,78,14,36.7,96,0,0,81.0,1,Male,Never,Asymptomatic
+Healthy,0,30,0,0,75,14,36.5,95,0,1,78.8,2,Female,Never,Asymptomatic
+Healthy,0,48,0,0,84,15,36.2,95,0,0,84.2,0,Female,Never,Asymptomatic
+Healthy,1,37,0,1,82,16,37.0,99,1,0,85.4,1,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,24,0,0,84,15,37.3,97,0,0,77.5,0,Female,Never,Asymptomatic
+Healthy,1,53,1,0,85,14,36.5,99,1,0,81.3,0,Male,Never,Mildly symptomatic
+Healthy,0,33,1,0,75,15,36.9,97,0,1,89.7,1,Male,Never,Asymptomatic
+Healthy,0,26,0,1,71,14,37.3,97,0,0,83.1,1,Female,Ex-smoker,Asymptomatic
+Healthy,1,49,1,1,77,13,36.5,96,1,1,82.2,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,1,51,1,0,76,19,37.2,97,1,0,78.3,2,Male,Never,Mildly symptomatic
+Healthy,0,55,0,0,66,16,36.7,98,1,1,85.3,1,Female,Never,Asymptomatic
+Healthy,0,39,0,2,75,14,36.9,98,0,0,85.2,1,Female,Current smoker,Asymptomatic
+Healthy,0,51,1,0,70,16,36.7,97,0,0,81.2,1,Male,Never,Asymptomatic
+Healthy,0,38,0,0,80,12,36.2,96,0,1,72.4,0,Female,Never,Asymptomatic
+Healthy,1,38,1,0,76,17,37.0,98,1,0,86.2,2,Male,Never,Mildly symptomatic
+Healthy,0,32,0,0,83,17,36.8,98,1,0,78.3,0,Female,Never,Asymptomatic
+Healthy,0,35,1,0,74,18,36.4,97,1,0,74.3,0,Male,Never,Asymptomatic
+Healthy,0,44,1,0,66,15,36.5,100,0,0,85.7,1,Male,Never,Asymptomatic
+Healthy,1,44,0,0,82,13,36.6,99,0,1,81.8,0,Female,Never,Mildly symptomatic
+Healthy,0,52,1,0,72,14,36.8,97,1,1,87.6,0,Male,Never,Asymptomatic
+Healthy,0,53,1,0,67,12,36.8,98,1,0,77.5,0,Male,Never,Asymptomatic
+Healthy,0,27,1,0,81,14,36.7,98,1,0,86.3,0,Male,Never,Asymptomatic
+Healthy,1,48,0,1,68,17,36.7,98,1,1,78.7,1,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,35,1,0,71,13,36.6,99,0,0,82.2,0,Male,Never,Asymptomatic
+Healthy,0,34,1,0,83,18,37.0,98,0,0,92.3,0,Male,Never,Asymptomatic
+Healthy,0,43,0,0,78,15,37.0,97,0,0,84.2,1,Female,Never,Asymptomatic
+Healthy,0,55,0,1,61,13,36.8,99,0,1,81.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,1,31,1,2,88,15,36.9,99,0,0,74.1,0,Male,Current smoker,Mildly symptomatic
+Healthy,0,19,0,2,70,17,36.4,99,1,0,72.7,0,Female,Current smoker,Asymptomatic
+Healthy,0,37,0,0,78,15,36.7,96,1,0,85.5,0,Female,Never,Asymptomatic
+Healthy,0,33,1,1,71,19,36.7,100,1,0,79.8,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,25,1,0,82,14,36.7,95,1,0,85.8,2,Male,Never,Asymptomatic
+Healthy,1,23,0,0,81,18,36.8,98,1,0,88.9,0,Female,Never,Mildly symptomatic
+Healthy,0,26,1,0,82,14,37.1,99,1,0,81.4,1,Male,Never,Asymptomatic
+Healthy,1,52,0,1,76,15,36.7,98,1,0,83.7,1,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,46,0,2,83,14,37.0,98,0,1,84.0,1,Female,Current smoker,Asymptomatic
+Healthy,1,27,0,0,76,15,36.6,97,0,1,76.4,3,Female,Never,Mildly symptomatic
+Healthy,1,55,1,0,68,15,36.5,99,1,0,81.0,0,Male,Never,Mildly symptomatic
+Healthy,1,53,1,0,84,17,36.5,97,1,0,82.7,1,Male,Never,Mildly symptomatic
+Healthy,1,59,1,0,88,15,36.2,98,1,0,80.1,3,Male,Never,Mildly symptomatic
+Healthy,1,20,1,1,83,12,36.8,98,0,0,81.4,2,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,22,1,0,71,13,36.9,95,1,0,78.0,0,Male,Never,Asymptomatic
+Healthy,0,34,0,2,79,12,36.8,99,0,0,85.5,1,Female,Current smoker,Asymptomatic
+Healthy,0,42,0,0,77,14,37.2,99,1,0,76.3,0,Female,Never,Asymptomatic
+Healthy,1,28,0,0,79,13,36.8,97,1,0,88.7,0,Female,Never,Mildly symptomatic
+Healthy,0,27,0,1,71,11,36.9,100,1,0,79.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,36,0,1,81,16,36.6,96,1,0,77.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,63,1,2,69,18,36.5,98,1,0,81.2,0,Male,Current smoker,Asymptomatic
+Healthy,0,42,1,1,77,16,36.2,97,1,0,84.4,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,45,0,0,79,15,36.6,99,0,1,82.3,0,Female,Never,Asymptomatic
+Healthy,0,39,0,0,72,14,36.6,98,0,0,84.4,2,Female,Never,Asymptomatic
+Healthy,0,53,0,0,81,12,36.6,98,1,1,86.4,0,Female,Never,Asymptomatic
+Healthy,0,44,0,0,68,15,36.8,98,0,0,80.0,0,Female,Never,Asymptomatic
+Healthy,0,37,0,0,72,16,37.1,97,0,0,83.6,0,Female,Never,Asymptomatic
+Healthy,0,43,0,0,77,16,36.4,99,1,0,77.8,0,Female,Never,Asymptomatic
+Healthy,1,50,1,2,59,12,37.1,99,0,1,90.3,2,Male,Current smoker,Mildly symptomatic
+Healthy,0,40,0,0,78,17,37.3,98,0,0,79.0,2,Female,Never,Asymptomatic
+Healthy,0,35,1,1,78,14,37.0,96,1,0,80.9,1,Male,Ex-smoker,Asymptomatic
+Healthy,1,37,0,0,75,15,36.7,98,1,1,83.3,0,Female,Never,Mildly symptomatic
+Healthy,0,28,0,0,78,15,37.1,100,0,0,91.2,0,Female,Never,Asymptomatic
+Healthy,1,30,1,0,85,15,36.6,97,0,1,85.7,1,Male,Never,Mildly symptomatic
+Healthy,1,23,0,0,77,16,36.7,98,1,0,83.9,0,Female,Never,Mildly symptomatic
+Healthy,0,50,0,0,76,12,36.6,99,1,0,87.7,2,Female,Never,Asymptomatic
+Healthy,0,31,1,0,66,15,36.8,99,0,0,84.3,0,Male,Never,Asymptomatic
+Healthy,0,49,0,0,73,14,36.7,97,1,0,85.2,0,Female,Never,Asymptomatic
+Healthy,1,42,1,0,74,14,37.1,98,1,1,80.5,2,Male,Never,Mildly symptomatic
+Healthy,0,46,1,0,69,17,36.9,99,0,1,78.2,0,Male,Never,Asymptomatic
+Healthy,1,32,1,0,78,18,36.7,98,0,0,80.1,0,Male,Never,Mildly symptomatic
+Healthy,0,52,1,0,63,16,36.4,99,1,0,84.3,0,Male,Never,Asymptomatic
+Healthy,0,34,1,0,68,15,36.5,98,0,0,88.0,2,Male,Never,Asymptomatic
+Healthy,0,40,1,2,63,14,36.6,99,1,0,81.9,1,Male,Current smoker,Asymptomatic
+Healthy,1,41,1,1,69,13,36.9,97,1,1,87.0,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,32,1,1,85,14,37.0,98,1,0,82.3,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,56,1,0,76,13,37.0,99,0,0,86.9,0,Male,Never,Asymptomatic
+Healthy,1,31,1,2,80,15,36.9,97,1,1,85.4,1,Male,Current smoker,Mildly symptomatic
+Healthy,0,19,0,0,66,14,36.8,97,1,0,77.1,0,Female,Never,Asymptomatic
+Healthy,0,23,0,0,67,15,37.1,96,0,1,81.7,0,Female,Never,Asymptomatic
+Healthy,1,35,0,2,77,15,36.9,98,1,0,76.9,2,Female,Current smoker,Mildly symptomatic
+Healthy,0,33,1,0,80,13,36.7,97,1,0,87.9,0,Male,Never,Asymptomatic
+Healthy,0,24,0,1,79,16,36.7,98,0,1,82.2,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,34,0,0,83,17,36.8,98,0,1,73.0,1,Female,Never,Asymptomatic
+Healthy,1,20,1,0,70,15,36.9,99,1,1,77.5,0,Male,Never,Mildly symptomatic
+Healthy,0,48,0,1,72,14,37.3,97,0,1,78.7,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,38,0,0,78,16,36.9,96,1,1,82.6,2,Female,Never,Asymptomatic
+Healthy,0,35,0,0,83,12,36.8,98,0,1,86.9,1,Female,Never,Asymptomatic
+Healthy,0,27,1,1,70,17,36.3,99,0,0,78.9,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,36,1,2,74,14,36.3,98,0,0,77.8,0,Male,Current smoker,Asymptomatic
+Healthy,1,33,1,1,81,14,36.9,99,1,0,78.5,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,37,1,2,66,17,36.6,98,0,0,77.2,2,Male,Current smoker,Asymptomatic
+Healthy,1,45,0,0,85,15,36.6,97,1,0,93.2,0,Female,Never,Mildly symptomatic
+Healthy,1,24,1,1,81,15,36.9,98,1,0,81.8,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,29,0,2,71,17,37.1,99,0,1,85.7,1,Female,Current smoker,Asymptomatic
+Healthy,0,39,1,0,76,14,36.9,99,0,0,77.0,2,Male,Never,Asymptomatic
+Healthy,1,23,1,0,86,15,36.9,99,1,0,87.8,0,Male,Never,Mildly symptomatic
+Healthy,1,53,0,0,80,16,37.1,97,0,0,73.3,0,Female,Never,Mildly symptomatic
+Healthy,0,54,1,1,80,13,36.6,98,0,0,85.9,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,30,0,0,67,14,36.6,98,1,0,85.0,0,Female,Never,Asymptomatic
+Healthy,1,40,0,1,71,16,36.4,99,1,0,78.4,2,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,30,0,0,78,15,37.0,97,0,1,86.6,0,Female,Never,Asymptomatic
+Healthy,0,35,1,2,84,17,36.6,99,0,0,81.6,1,Male,Current smoker,Asymptomatic
+Healthy,0,48,0,0,80,15,36.5,99,1,0,85.8,0,Female,Never,Asymptomatic
+Healthy,0,43,0,2,67,15,36.7,99,0,0,78.7,0,Female,Current smoker,Asymptomatic
+Healthy,0,27,1,0,73,14,36.8,99,0,1,90.1,0,Male,Never,Asymptomatic
+Healthy,1,46,1,0,77,15,37.0,97,1,0,78.6,0,Male,Never,Mildly symptomatic
+Healthy,1,24,0,0,78,17,37.3,98,1,1,83.4,0,Female,Never,Mildly symptomatic
+Healthy,0,42,1,0,82,12,36.8,97,1,0,86.7,2,Male,Never,Asymptomatic
+Healthy,0,26,0,1,62,15,36.8,98,0,1,76.9,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,44,0,2,74,15,36.4,98,1,0,79.7,1,Female,Current smoker,Asymptomatic
+Healthy,0,29,1,0,80,15,37.1,97,1,0,81.9,2,Male,Never,Asymptomatic
+Healthy,0,48,0,2,78,16,36.6,97,1,1,92.1,0,Female,Current smoker,Asymptomatic
+Healthy,0,23,1,0,58,14,36.7,100,0,0,80.1,0,Male,Never,Asymptomatic
+Healthy,0,27,1,0,70,14,37.0,98,1,0,84.4,0,Male,Never,Asymptomatic
+Healthy,1,26,0,1,75,18,36.8,99,1,1,89.2,1,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,33,0,1,85,13,36.5,99,0,0,80.4,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,39,0,0,83,15,36.5,98,1,1,83.7,0,Female,Never,Asymptomatic
+Healthy,0,44,0,0,73,16,36.6,98,1,1,89.0,0,Female,Never,Asymptomatic
+Healthy,0,36,1,0,91,16,37.0,96,0,1,73.5,0,Male,Never,Asymptomatic
+Healthy,0,35,1,1,73,13,36.4,98,0,1,82.2,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,21,0,2,85,14,36.8,99,0,0,75.5,2,Female,Current smoker,Asymptomatic
+Healthy,0,47,1,0,79,12,37.0,99,0,1,78.3,0,Male,Never,Asymptomatic
+Healthy,0,29,0,0,76,15,36.6,96,1,0,79.6,2,Female,Never,Asymptomatic
+Healthy,0,30,0,0,83,13,37.1,99,0,1,83.6,2,Female,Never,Asymptomatic
+Healthy,1,38,0,1,83,15,36.6,98,1,1,86.4,0,Female,Ex-smoker,Mildly symptomatic
+Healthy,0,37,1,1,76,16,37.0,97,1,0,82.5,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,45,1,2,85,15,36.4,98,1,0,82.6,0,Male,Current smoker,Asymptomatic
+Healthy,0,39,0,0,72,15,36.4,99,1,0,84.7,0,Female,Never,Asymptomatic
+Healthy,0,57,1,2,81,13,36.4,98,0,0,86.3,0,Male,Current smoker,Asymptomatic
+Healthy,0,50,1,0,84,17,36.7,96,0,0,80.2,2,Male,Never,Asymptomatic
+Healthy,0,46,0,0,79,18,36.7,99,0,0,72.1,0,Female,Never,Asymptomatic
+Healthy,0,22,0,0,74,13,36.7,99,1,0,85.4,0,Female,Never,Asymptomatic
+Healthy,0,31,1,0,92,14,36.6,97,1,0,85.1,2,Male,Never,Asymptomatic
+Healthy,1,29,1,1,82,15,36.9,100,1,0,83.5,0,Male,Ex-smoker,Mildly symptomatic
+Healthy,0,37,0,2,80,12,36.9,98,1,0,78.8,2,Female,Current smoker,Asymptomatic
+Healthy,0,30,0,1,68,15,37.1,97,1,1,82.8,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,36,0,0,90,13,36.9,95,1,1,79.4,0,Female,Never,Asymptomatic
+Healthy,0,45,1,0,71,18,37.1,98,1,0,81.2,0,Male,Never,Asymptomatic
+Healthy,0,40,0,0,82,16,36.9,99,0,0,86.0,1,Female,Never,Asymptomatic
+Healthy,1,38,1,0,80,17,36.9,98,1,1,80.6,0,Male,Never,Mildly symptomatic
+Healthy,1,58,0,0,69,19,36.8,98,0,0,84.2,0,Female,Never,Mildly symptomatic
+Healthy,0,52,0,0,87,18,36.8,97,0,0,79.4,0,Female,Never,Asymptomatic
+Healthy,1,23,1,0,73,12,36.6,99,1,0,81.7,3,Male,Never,Mildly symptomatic
+Healthy,0,46,1,1,60,18,36.4,98,0,0,82.1,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,38,0,0,73,15,36.8,99,0,1,85.5,1,Female,Never,Asymptomatic
+Healthy,1,41,1,0,84,17,36.7,97,0,0,78.7,3,Male,Never,Mildly symptomatic
+Healthy,0,42,1,1,75,14,36.6,98,0,0,75.9,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,36,0,0,73,15,36.8,97,0,1,81.3,0,Female,Never,Asymptomatic
+Healthy,0,38,1,0,80,13,36.6,99,1,0,82.1,0,Male,Never,Asymptomatic
+Healthy,0,33,0,1,77,13,36.2,99,0,0,80.1,1,Female,Ex-smoker,Asymptomatic
+Healthy,0,29,0,1,71,11,36.8,98,1,0,81.8,2,Female,Ex-smoker,Asymptomatic
+Healthy,0,32,1,1,76,12,36.9,99,0,0,81.2,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,33,1,0,74,17,36.9,98,0,0,79.4,0,Male,Never,Asymptomatic
+Healthy,0,31,0,0,92,15,36.4,96,1,0,81.1,0,Female,Never,Asymptomatic
+Healthy,0,39,1,0,66,13,36.5,98,0,0,77.6,1,Male,Never,Asymptomatic
+Healthy,0,30,0,0,80,15,37.1,97,1,1,76.7,0,Female,Never,Asymptomatic
+Healthy,0,31,0,0,74,18,36.5,100,0,1,80.1,0,Female,Never,Asymptomatic
+Healthy,1,33,1,0,75,15,36.9,96,1,1,74.9,0,Male,Never,Mildly symptomatic
+Healthy,0,33,0,0,76,13,37.0,98,0,0,82.8,0,Female,Never,Asymptomatic
+Healthy,0,39,0,1,78,13,36.4,98,0,0,85.6,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,31,1,0,90,16,36.5,98,0,0,87.0,0,Male,Never,Asymptomatic
+Healthy,0,19,1,1,72,14,37.0,99,0,0,82.8,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,26,0,0,93,16,36.4,98,0,0,89.0,0,Female,Never,Asymptomatic
+Healthy,1,36,1,0,75,14,37.0,99,1,1,86.8,0,Male,Never,Mildly symptomatic
+Healthy,0,34,1,0,80,11,37.1,97,0,0,80.6,0,Male,Never,Asymptomatic
+Healthy,0,37,0,0,83,16,36.9,99,0,0,79.2,2,Female,Never,Asymptomatic
+Healthy,0,33,1,0,88,14,37.1,99,1,0,83.7,2,Male,Never,Asymptomatic
+Healthy,1,51,0,0,76,15,37.0,98,1,0,74.2,1,Female,Never,Mildly symptomatic
+Healthy,0,41,1,0,67,15,36.9,97,0,0,86.2,0,Male,Never,Asymptomatic
+Healthy,0,35,1,2,67,14,37.0,97,0,1,92.6,0,Male,Current smoker,Asymptomatic
+Healthy,0,28,1,1,85,12,36.8,97,0,1,78.0,2,Male,Ex-smoker,Asymptomatic
+Healthy,0,36,1,1,78,15,36.6,97,1,0,84.5,0,Male,Ex-smoker,Asymptomatic
+Healthy,0,47,1,0,78,14,36.9,99,1,0,81.6,2,Male,Never,Asymptomatic
+Healthy,0,57,1,0,77,12,36.4,97,1,1,82.8,1,Male,Never,Asymptomatic
+Healthy,0,47,1,0,79,18,36.5,99,1,0,79.5,1,Male,Never,Asymptomatic
+Healthy,0,25,1,0,83,14,36.5,96,0,0,82.9,0,Male,Never,Asymptomatic
+Healthy,0,35,1,1,79,19,36.5,98,0,0,84.2,1,Male,Ex-smoker,Asymptomatic
+Healthy,1,55,0,0,84,20,36.7,98,2,1,79.5,4,Female,Never,Mildly symptomatic
+Healthy,0,39,0,0,85,16,36.7,98,0,1,86.0,1,Female,Never,Asymptomatic
+Healthy,0,38,0,1,73,13,36.7,100,0,0,81.3,0,Female,Ex-smoker,Asymptomatic
+Healthy,0,45,1,2,72,13,37.1,98,1,1,79.9,0,Male,Current smoker,Asymptomatic
+Healthy,0,27,1,0,81,18,36.8,98,0,0,81.8,2,Male,Never,Asymptomatic
+Healthy,1,35,1,0,78,16,37.2,97,1,0,79.1,2,Male,Never,Mildly symptomatic
+Healthy,0,56,1,0,62,13,36.9,98,0,0,86.9,0,Male,Never,Asymptomatic
+Healthy,0,49,1,0,79,14,36.7,97,1,0,89.4,0,Male,Never,Asymptomatic
+Healthy,0,38,0,0,73,13,36.6,98,0,1,83.6,2,Female,Never,Asymptomatic
+Healthy,0,29,0,0,80,15,37.3,97,0,1,86.8,2,Female,Never,Asymptomatic
+Healthy,0,49,1,0,76,15,37.1,97,1,0,80.9,0,Male,Never,Asymptomatic
+Healthy,0,55,0,0,77,17,36.1,98,1,0,81.5,0,Female,Never,Asymptomatic
+Healthy,1,42,1,0,72,17,36.8,98,0,0,79.0,0,Male,Never,Mildly symptomatic
+Healthy,0,55,0,1,73,12,36.5,98,1,0,84.6,2,Female,Ex-smoker,Asymptomatic
+Healthy,0,29,0,0,79,14,36.7,99,0,0,77.6,0,Female,Never,Asymptomatic
+Healthy,0,39,1,0,83,12,36.7,97,0,0,79.7,1,Male,Never,Asymptomatic
+Healthy,0,34,0,0,62,12,36.7,100,1,0,87.1,2,Female,Never,Asymptomatic
+Healthy,0,39,1,0,77,18,37.1,99,1,1,76.1,0,Male,Never,Asymptomatic
+Healthy,0,50,1,1,68,14,36.9,97,0,0,80.2,1,Male,Ex-smoker,Asymptomatic
+Healthy,0,48,0,0,81,13,37.1,98,0,0,89.7,0,Female,Never,Asymptomatic
+Healthy,0,48,1,1,75,16,36.7,97,1,1,79.7,2,Male,Ex-smoker,Asymptomatic
+Asthma,0,60,1,2,92,23,36.6,94,3,1,63.1,15,Male,Current smoker,Mild/intermittent
+Asthma,0,42,0,2,82,23,36.8,95,1,2,79.5,9,Female,Current smoker,Mild/intermittent
+Asthma,1,19,1,0,90,25,36.7,94,3,3,58.7,4,Male,Never,Moderate flare
+Asthma,1,39,0,2,96,21,37.4,94,3,3,57.9,6,Female,Current smoker,Moderate flare
+Asthma,2,19,1,1,76,24,37.3,96,3,3,53.6,9,Male,Ex-smoker,Severe flare
+Asthma,2,57,1,0,75,25,36.8,95,3,3,64.5,4,Male,Never,Severe flare
+Asthma,1,55,0,0,95,23,37.5,94,2,1,68.0,5,Female,Never,Moderate flare
+Asthma,0,29,0,2,99,18,36.9,95,3,1,70.3,5,Female,Current smoker,Mild/intermittent
+Asthma,1,20,0,0,84,20,37.0,93,2,3,52.0,14,Female,Never,Moderate flare
+Asthma,2,33,0,0,71,27,36.9,94,2,3,53.0,7,Female,Never,Severe flare
+Asthma,0,28,0,0,96,27,36.4,96,2,2,74.5,15,Female,Never,Mild/intermittent
+Asthma,0,35,0,0,95,20,36.8,95,3,0,72.2,5,Female,Never,Mild/intermittent
+Asthma,1,47,1,0,93,25,37.0,92,2,3,80.9,15,Male,Never,Moderate flare
+Asthma,1,35,1,0,77,21,37.1,98,0,2,63.0,1,Male,Never,Moderate flare
+Asthma,1,29,0,0,75,24,36.8,96,1,3,65.6,11,Female,Never,Moderate flare
+Asthma,1,27,0,0,94,26,37.0,96,2,1,80.1,3,Female,Never,Moderate flare
+Asthma,1,46,1,1,93,13,36.8,95,0,0,72.0,3,Male,Ex-smoker,Moderate flare
+Asthma,0,36,1,0,81,25,37.8,93,2,2,63.4,19,Male,Never,Mild/intermittent
+Asthma,1,29,0,1,81,18,37.2,94,2,3,53.1,3,Female,Ex-smoker,Moderate flare
+Asthma,0,22,1,1,69,20,37.2,97,3,1,63.1,9,Male,Ex-smoker,Mild/intermittent
+Asthma,0,22,0,2,96,25,37.0,94,2,2,82.0,6,Female,Current smoker,Mild/intermittent
+Asthma,0,19,1,0,95,26,37.4,99,1,2,63.6,11,Male,Never,Mild/intermittent
+Asthma,0,49,0,2,97,22,36.1,95,1,2,66.3,5,Female,Current smoker,Mild/intermittent
+Asthma,2,38,1,0,94,25,36.8,92,2,3,51.0,13,Male,Never,Severe flare
+Asthma,1,19,0,1,87,20,36.8,98,1,3,61.5,13,Female,Ex-smoker,Moderate flare
+Asthma,2,51,1,0,80,26,36.8,90,2,2,68.4,4,Male,Never,Severe flare
+Asthma,1,28,0,1,88,23,37.0,95,2,1,71.2,21,Female,Ex-smoker,Moderate flare
+Asthma,1,33,1,0,90,23,36.9,97,2,1,65.7,7,Male,Never,Moderate flare
+Asthma,1,44,0,2,95,29,36.8,98,1,1,73.2,15,Female,Current smoker,Moderate flare
+Asthma,1,38,0,2,91,26,37.5,94,0,0,70.7,13,Female,Current smoker,Moderate flare
+Asthma,1,24,0,0,92,27,37.4,95,3,3,58.7,5,Female,Never,Moderate flare
+Asthma,2,47,1,0,73,24,36.6,92,3,2,53.5,14,Male,Never,Severe flare
+Asthma,1,28,0,2,91,31,36.9,96,1,1,65.2,3,Female,Current smoker,Moderate flare
+Asthma,0,26,0,1,74,27,36.3,94,3,2,59.8,8,Female,Ex-smoker,Mild/intermittent
+Asthma,0,52,1,0,72,25,37.4,97,3,2,65.7,15,Male,Never,Mild/intermittent
+Asthma,2,48,0,1,87,27,37.5,90,2,3,60.5,14,Female,Ex-smoker,Severe flare
+Asthma,1,37,0,2,83,17,36.5,91,2,3,50.2,2,Female,Current smoker,Moderate flare
+Asthma,0,37,0,0,83,17,36.7,97,1,0,75.6,10,Female,Never,Mild/intermittent
+Asthma,1,40,0,0,85,24,37.1,94,3,1,63.6,2,Female,Never,Moderate flare
+Asthma,0,44,0,0,95,28,37.3,98,1,2,80.8,9,Female,Never,Mild/intermittent
+Asthma,0,32,1,1,96,22,37.0,92,2,0,75.0,17,Male,Ex-smoker,Mild/intermittent
+Asthma,0,44,1,0,84,16,37.2,90,0,0,75.4,3,Male,Never,Mild/intermittent
+Asthma,1,27,0,0,107,15,36.7,93,2,1,64.5,5,Female,Never,Moderate flare
+Asthma,1,32,1,0,90,24,37.2,98,2,2,75.3,2,Male,Never,Moderate flare
+Asthma,1,33,0,1,101,28,37.6,96,0,2,73.2,28,Female,Ex-smoker,Moderate flare
+Asthma,0,24,0,1,71,25,37.3,92,3,2,72.0,10,Female,Ex-smoker,Mild/intermittent
+Asthma,0,25,0,2,77,25,37.1,96,1,2,78.1,10,Female,Current smoker,Mild/intermittent
+Asthma,0,44,1,0,82,28,38.0,96,3,2,76.7,5,Male,Never,Mild/intermittent
+Asthma,1,36,1,1,106,27,37.5,96,2,1,64.6,5,Male,Ex-smoker,Moderate flare
+Asthma,1,32,1,0,90,26,37.3,93,2,2,59.8,7,Male,Never,Moderate flare
+Asthma,0,25,1,0,89,20,36.8,92,0,0,77.9,7,Male,Never,Mild/intermittent
+Asthma,1,46,0,0,90,26,36.7,98,2,3,57.2,10,Female,Never,Moderate flare
+Asthma,1,44,1,2,86,29,37.4,94,1,2,62.0,8,Male,Current smoker,Moderate flare
+Asthma,1,60,0,0,85,19,36.8,93,2,2,59.1,6,Female,Never,Moderate flare
+Asthma,0,50,0,1,91,21,37.0,91,1,1,75.7,4,Female,Ex-smoker,Mild/intermittent
+Asthma,1,56,0,0,93,27,36.8,97,2,3,64.5,4,Female,Never,Moderate flare
+Asthma,0,37,0,1,80,25,36.9,98,2,2,77.9,12,Female,Ex-smoker,Mild/intermittent
+Asthma,0,51,1,2,93,27,37.3,97,2,2,82.1,15,Male,Current smoker,Mild/intermittent
+Asthma,1,34,1,0,72,21,37.0,94,2,2,58.0,3,Male,Never,Moderate flare
+Asthma,0,53,0,0,80,25,36.8,99,0,1,65.0,5,Female,Never,Mild/intermittent
+Asthma,2,23,0,1,89,27,36.6,94,3,3,66.8,4,Female,Ex-smoker,Severe flare
+Asthma,1,58,0,0,91,22,37.3,96,3,3,56.5,1,Female,Never,Moderate flare
+Asthma,0,37,0,1,83,22,36.8,96,0,1,74.6,8,Female,Ex-smoker,Mild/intermittent
+Asthma,1,35,1,0,79,28,36.2,94,3,3,58.3,5,Male,Never,Moderate flare
+Asthma,0,26,0,0,84,23,36.5,94,3,1,83.1,13,Female,Never,Mild/intermittent
+Asthma,1,21,1,0,94,23,36.3,98,3,3,58.6,11,Male,Never,Moderate flare
+Asthma,1,36,1,0,87,21,36.6,95,2,2,65.2,5,Male,Never,Moderate flare
+Asthma,0,40,0,0,103,21,37.0,95,1,2,71.7,6,Female,Never,Mild/intermittent
+Asthma,2,32,1,0,72,26,36.6,91,3,2,63.8,7,Male,Never,Severe flare
+Asthma,0,41,0,2,93,23,37.0,95,1,2,79.8,5,Female,Current smoker,Mild/intermittent
+Asthma,0,40,1,0,83,18,37.2,92,3,1,85.0,6,Male,Never,Mild/intermittent
+Asthma,2,41,0,1,102,31,36.9,91,3,3,60.2,3,Female,Ex-smoker,Severe flare
+Asthma,2,24,0,0,97,23,37.2,90,3,3,62.3,7,Female,Never,Severe flare
+Asthma,0,50,0,0,100,20,36.7,97,0,2,60.7,4,Female,Never,Mild/intermittent
+Asthma,0,34,1,1,105,22,36.8,98,2,2,74.8,7,Male,Ex-smoker,Mild/intermittent
+Asthma,2,24,0,0,86,27,36.9,92,2,3,68.0,9,Female,Never,Severe flare
+Asthma,1,43,0,2,90,23,37.1,97,2,0,61.2,11,Female,Current smoker,Moderate flare
+Asthma,0,41,1,0,68,24,37.1,97,3,2,76.2,15,Male,Never,Mild/intermittent
+Asthma,2,33,0,2,96,23,36.8,95,3,3,52.6,7,Female,Current smoker,Severe flare
+Asthma,0,40,0,1,70,27,36.5,95,3,0,71.6,12,Female,Ex-smoker,Mild/intermittent
+Asthma,1,39,0,0,81,23,36.8,92,2,2,62.4,4,Female,Never,Moderate flare
+Asthma,1,24,0,1,83,23,37.5,94,1,2,69.8,5,Female,Ex-smoker,Moderate flare
+Asthma,0,34,1,0,86,16,37.0,96,1,1,79.6,13,Male,Never,Mild/intermittent
+Asthma,0,40,0,0,89,26,37.0,94,1,2,66.2,5,Female,Never,Mild/intermittent
+Asthma,2,31,1,0,85,32,36.8,93,2,3,58.0,7,Male,Never,Severe flare
+Asthma,2,19,1,0,106,24,36.9,95,3,2,64.2,7,Male,Never,Severe flare
+Asthma,1,55,1,1,91,23,36.9,97,2,3,58.7,6,Male,Ex-smoker,Moderate flare
+Asthma,1,31,0,2,85,27,36.7,94,3,2,79.4,5,Female,Current smoker,Moderate flare
+Asthma,1,45,0,1,84,18,37.2,94,3,1,76.6,9,Female,Ex-smoker,Moderate flare
+Asthma,1,42,0,0,70,26,37.8,95,0,1,70.2,12,Female,Never,Moderate flare
+Asthma,1,48,0,0,90,21,36.9,93,3,2,55.7,14,Female,Never,Moderate flare
+Asthma,1,51,0,0,102,21,36.6,93,3,2,66.2,6,Female,Never,Moderate flare
+Asthma,1,25,0,0,85,23,37.5,95,1,2,72.3,21,Female,Never,Moderate flare
+Asthma,1,58,1,1,75,25,36.8,91,2,3,67.8,14,Male,Ex-smoker,Moderate flare
+Asthma,0,31,0,0,91,24,36.9,96,2,2,63.2,3,Female,Never,Mild/intermittent
+Asthma,1,45,0,1,90,25,37.7,91,3,1,62.5,29,Female,Ex-smoker,Moderate flare
+Asthma,1,34,0,2,89,30,36.7,96,3,2,67.9,11,Female,Current smoker,Moderate flare
+Asthma,2,37,1,0,69,32,36.6,95,3,3,59.7,9,Male,Never,Severe flare
+Asthma,2,47,0,1,84,26,36.4,91,3,2,49.1,4,Female,Ex-smoker,Severe flare
+Asthma,1,39,0,0,77,23,36.3,97,2,3,73.7,8,Female,Never,Moderate flare
+Asthma,1,34,0,0,87,28,36.9,95,3,3,58.1,5,Female,Never,Moderate flare
+Asthma,0,31,1,0,80,26,36.8,95,1,2,70.6,11,Male,Never,Mild/intermittent
+Asthma,0,32,0,1,106,31,36.9,95,3,1,75.1,6,Female,Ex-smoker,Mild/intermittent
+Asthma,1,21,0,2,79,25,37.1,93,1,2,62.5,13,Female,Current smoker,Moderate flare
+Asthma,1,39,1,2,83,23,37.6,95,0,3,72.8,10,Male,Current smoker,Moderate flare
+Asthma,1,49,1,0,90,25,37.2,96,3,3,65.8,14,Male,Never,Moderate flare
+Asthma,0,33,0,0,85,30,37.9,93,3,2,58.1,5,Female,Never,Mild/intermittent
+Asthma,0,53,1,0,97,23,36.8,94,3,3,57.6,21,Male,Never,Mild/intermittent
+Asthma,0,23,1,0,86,23,36.9,96,0,2,83.7,13,Male,Never,Mild/intermittent
+Asthma,1,44,1,1,87,22,37.0,91,1,1,75.0,2,Male,Ex-smoker,Moderate flare
+Asthma,2,55,1,0,92,26,36.9,93,3,3,50.4,8,Male,Never,Severe flare
+Asthma,1,24,0,0,90,18,37.2,96,2,3,57.0,14,Female,Never,Moderate flare
+Asthma,0,23,0,0,77,24,36.3,93,3,2,67.5,19,Female,Never,Mild/intermittent
+Asthma,0,39,1,1,89,28,37.1,95,1,2,82.2,12,Male,Ex-smoker,Mild/intermittent
+Asthma,1,25,0,1,85,22,37.6,96,3,2,51.3,8,Female,Ex-smoker,Moderate flare
+Asthma,1,53,0,2,87,31,37.6,94,3,3,59.2,3,Female,Current smoker,Moderate flare
+Asthma,1,35,0,0,84,25,37.0,97,2,1,74.6,11,Female,Never,Moderate flare
+Asthma,1,45,1,0,98,26,36.6,95,3,3,66.2,13,Male,Never,Moderate flare
+Asthma,1,32,0,1,71,21,36.9,93,2,2,73.4,8,Female,Ex-smoker,Moderate flare
+Asthma,0,49,1,0,86,25,36.6,96,1,2,85.0,14,Male,Never,Mild/intermittent
+Asthma,0,45,1,0,99,27,37.6,96,1,2,74.7,2,Male,Never,Mild/intermittent
+Asthma,1,25,1,1,82,28,36.5,93,1,2,66.8,6,Male,Ex-smoker,Moderate flare
+Asthma,1,42,0,1,88,27,36.8,97,2,3,55.1,12,Female,Ex-smoker,Moderate flare
+Asthma,1,57,1,2,104,27,37.3,95,1,2,67.5,4,Male,Current smoker,Moderate flare
+Asthma,1,46,0,0,73,23,36.8,96,3,2,57.5,19,Female,Never,Moderate flare
+Asthma,2,23,0,0,74,23,37.6,95,3,3,61.8,10,Female,Never,Severe flare
+Asthma,0,22,1,1,91,26,37.1,93,2,2,85.0,16,Male,Ex-smoker,Mild/intermittent
+Asthma,2,33,1,2,79,32,37.2,92,3,3,50.2,7,Male,Current smoker,Severe flare
+Asthma,0,39,0,1,97,22,37.5,93,2,2,81.7,3,Female,Ex-smoker,Mild/intermittent
+Asthma,0,41,0,0,93,19,37.3,93,2,1,64.8,11,Female,Never,Mild/intermittent
+Asthma,1,46,0,1,86,19,36.8,91,2,1,73.5,14,Female,Ex-smoker,Moderate flare
+Asthma,1,19,1,2,93,23,37.6,93,2,1,63.3,13,Male,Current smoker,Moderate flare
+Asthma,0,38,0,0,90,23,36.6,93,2,1,71.4,6,Female,Never,Mild/intermittent
+Asthma,0,35,1,1,87,21,36.8,96,3,0,80.9,3,Male,Ex-smoker,Mild/intermittent
+Asthma,0,37,0,1,77,28,37.3,92,2,2,80.0,16,Female,Ex-smoker,Mild/intermittent
+Asthma,0,27,1,1,89,25,36.9,92,2,2,71.4,7,Male,Ex-smoker,Mild/intermittent
+Asthma,1,52,0,1,98,26,37.2,94,1,2,70.9,6,Female,Ex-smoker,Moderate flare
+Asthma,2,46,0,2,92,32,36.9,92,3,2,68.2,6,Female,Current smoker,Severe flare
+Asthma,1,30,0,1,83,22,36.3,96,3,2,56.7,7,Female,Ex-smoker,Moderate flare
+Asthma,1,21,0,0,108,26,36.6,92,2,3,52.4,5,Female,Never,Moderate flare
+Asthma,0,36,0,0,92,27,36.8,95,2,2,74.3,13,Female,Never,Mild/intermittent
+Asthma,1,39,1,1,77,22,36.6,95,2,3,65.8,8,Male,Ex-smoker,Moderate flare
+Asthma,1,20,0,0,94,27,37.2,97,2,2,65.2,12,Female,Never,Moderate flare
+Asthma,1,22,0,0,105,26,37.4,97,2,1,64.9,7,Female,Never,Moderate flare
+Asthma,1,33,1,1,94,17,37.4,92,1,1,65.6,12,Male,Ex-smoker,Moderate flare
+Asthma,1,30,1,0,95,20,36.7,97,2,3,51.2,3,Male,Never,Moderate flare
+Asthma,2,40,0,0,68,27,37.2,90,3,2,48.2,18,Female,Never,Severe flare
+Asthma,1,32,0,0,74,23,36.3,93,3,3,72.2,14,Female,Never,Moderate flare
+Asthma,1,34,1,1,89,24,37.5,93,1,2,68.3,10,Male,Ex-smoker,Moderate flare
+Asthma,1,27,0,0,92,20,36.3,93,2,2,65.4,8,Female,Never,Moderate flare
+Asthma,1,21,1,1,80,21,37.0,94,1,2,63.0,18,Male,Ex-smoker,Moderate flare
+Asthma,0,49,1,0,77,22,37.1,92,3,1,74.3,15,Male,Never,Mild/intermittent
+Asthma,1,25,0,0,105,28,36.5,94,1,2,73.3,2,Female,Never,Moderate flare
+Asthma,0,31,1,0,85,21,37.3,94,1,2,76.8,10,Male,Never,Mild/intermittent
+Asthma,0,45,1,1,88,27,36.5,94,1,2,80.3,9,Male,Ex-smoker,Mild/intermittent
+Asthma,2,30,1,1,90,31,36.8,93,3,2,63.1,13,Male,Ex-smoker,Severe flare
+Asthma,2,35,1,0,84,30,37.2,93,3,2,56.8,4,Male,Never,Severe flare
+Asthma,1,24,0,1,90,23,37.0,98,0,1,69.5,11,Female,Ex-smoker,Moderate flare
+Asthma,0,22,0,2,73,28,37.4,93,1,2,71.7,4,Female,Current smoker,Mild/intermittent
+Asthma,2,19,1,0,64,30,37.7,96,3,3,60.5,19,Male,Never,Severe flare
+Asthma,1,29,1,0,93,21,37.0,93,1,1,70.8,14,Male,Never,Moderate flare
+Asthma,2,32,0,2,78,29,36.6,94,3,3,63.7,6,Female,Current smoker,Severe flare
+Asthma,1,33,1,0,89,28,37.1,96,2,3,78.0,5,Male,Never,Moderate flare
+Asthma,1,29,0,2,100,25,36.6,96,2,3,51.8,5,Female,Current smoker,Moderate flare
+Asthma,0,34,0,0,83,20,37.6,93,2,3,59.1,1,Female,Never,Mild/intermittent
+Asthma,2,49,0,1,68,25,37.2,93,2,3,54.2,5,Female,Ex-smoker,Severe flare
+Asthma,0,52,0,0,91,27,36.6,94,0,2,65.3,3,Female,Never,Mild/intermittent
+Asthma,1,40,0,2,78,22,37.1,96,3,2,55.7,4,Female,Current smoker,Moderate flare
+Asthma,1,39,0,0,88,27,37.0,92,2,3,53.5,9,Female,Never,Moderate flare
+Asthma,1,23,0,0,86,27,36.3,96,3,1,68.8,5,Female,Never,Moderate flare
+Asthma,0,26,0,0,95,19,36.9,94,1,1,63.5,7,Female,Never,Mild/intermittent
+Asthma,2,26,0,0,91,28,36.8,92,3,2,70.2,8,Female,Never,Severe flare
+Asthma,0,57,1,0,74,23,36.7,95,3,2,75.2,12,Male,Never,Mild/intermittent
+Asthma,0,23,0,0,86,27,37.2,94,2,2,71.3,9,Female,Never,Mild/intermittent
+Asthma,1,53,0,0,85,21,37.3,98,3,2,62.7,6,Female,Never,Moderate flare
+Asthma,0,33,0,0,83,28,36.7,97,3,2,81.2,1,Female,Never,Mild/intermittent
+Asthma,2,56,1,1,73,22,37.2,92,2,3,61.3,6,Male,Ex-smoker,Severe flare
+Asthma,0,32,1,2,78,23,36.6,93,0,1,84.4,6,Male,Current smoker,Mild/intermittent
+Asthma,2,46,0,1,81,26,36.6,95,3,3,55.9,12,Female,Ex-smoker,Severe flare
+Asthma,0,39,0,0,95,18,36.9,93,2,1,70.6,11,Female,Never,Mild/intermittent
+Asthma,0,46,1,0,93,16,36.9,97,1,1,72.3,4,Male,Never,Mild/intermittent
+Asthma,0,24,1,1,97,23,37.1,95,3,2,79.2,16,Male,Ex-smoker,Mild/intermittent
+Asthma,1,28,0,2,90,26,37.3,94,2,1,74.8,3,Female,Current smoker,Moderate flare
+Asthma,0,35,1,0,101,22,37.2,95,2,2,61.6,5,Male,Never,Mild/intermittent
+Asthma,0,37,0,0,91,21,36.9,95,1,2,83.7,10,Female,Never,Mild/intermittent
+Asthma,1,33,1,0,68,26,37.3,99,2,3,57.1,7,Male,Never,Moderate flare
+Asthma,0,31,1,0,95,29,38.0,95,3,2,70.5,9,Male,Never,Mild/intermittent
+Asthma,2,51,0,1,94,26,36.7,95,3,3,55.8,7,Female,Ex-smoker,Severe flare
+Asthma,0,40,1,0,101,20,36.8,97,3,3,57.8,11,Male,Never,Mild/intermittent
+Asthma,2,35,0,2,90,29,37.0,96,2,2,61.1,10,Female,Current smoker,Severe flare
+Asthma,0,22,0,1,80,20,37.6,98,3,2,64.1,9,Female,Ex-smoker,Mild/intermittent
+Asthma,2,41,0,0,100,25,36.8,94,2,3,53.7,3,Female,Never,Severe flare
+Asthma,0,43,0,0,102,18,36.8,94,1,1,78.6,8,Female,Never,Mild/intermittent
+Asthma,1,50,1,2,90,28,37.3,96,0,3,66.8,4,Male,Current smoker,Moderate flare
+Asthma,0,39,0,0,88,22,36.6,93,1,2,70.6,2,Female,Never,Mild/intermittent
+Asthma,1,38,1,0,75,28,37.2,93,0,3,80.2,9,Male,Never,Moderate flare
+Asthma,2,22,1,0,86,26,36.8,91,3,3,62.1,7,Male,Never,Severe flare
+Asthma,1,43,0,0,69,21,36.9,94,2,2,76.6,9,Female,Never,Moderate flare
+Asthma,1,48,0,0,104,15,37.4,93,3,1,68.8,7,Female,Never,Moderate flare
+Asthma,0,20,0,1,91,24,37.4,92,3,2,67.1,16,Female,Ex-smoker,Mild/intermittent
+Asthma,0,23,0,0,103,25,36.9,95,3,2,80.0,7,Female,Never,Mild/intermittent
+Asthma,1,37,0,0,96,26,37.3,93,2,2,45.7,4,Female,Never,Moderate flare
+Asthma,0,23,0,1,78,26,37.4,95,3,2,69.6,13,Female,Ex-smoker,Mild/intermittent
+Asthma,2,35,1,1,78,25,37.0,93,2,2,56.6,7,Male,Ex-smoker,Severe flare
+Asthma,0,22,0,2,66,21,36.9,96,2,1,82.1,14,Female,Current smoker,Mild/intermittent
+Asthma,0,46,0,0,78,24,37.5,93,2,2,61.7,9,Female,Never,Mild/intermittent
+Asthma,2,33,0,2,94,30,37.1,98,3,3,61.2,6,Female,Current smoker,Severe flare
+Asthma,0,35,0,0,76,20,37.0,93,3,1,72.1,13,Female,Never,Mild/intermittent
+Asthma,1,35,1,0,83,22,37.2,94,1,2,67.9,15,Male,Never,Moderate flare
+Asthma,2,34,0,1,99,31,37.1,96,3,3,47.7,6,Female,Ex-smoker,Severe flare
+Asthma,0,31,1,0,90,20,37.0,99,1,2,69.8,4,Male,Never,Mild/intermittent
+Asthma,1,38,0,2,96,27,37.3,96,2,3,75.7,4,Female,Current smoker,Moderate flare
+Asthma,1,37,0,0,64,14,36.6,92,2,1,76.5,10,Female,Never,Moderate flare
+Asthma,2,49,0,1,74,23,37.2,94,3,2,62.5,21,Female,Ex-smoker,Severe flare
+Asthma,1,28,0,1,84,27,36.3,93,2,3,71.2,7,Female,Ex-smoker,Moderate flare
+Asthma,1,32,1,1,99,14,36.7,94,1,1,60.1,12,Male,Ex-smoker,Moderate flare
+Asthma,2,47,1,2,93,28,37.1,92,3,3,62.1,11,Male,Current smoker,Severe flare
+Asthma,2,39,1,0,87,28,36.7,91,3,3,45.0,6,Male,Never,Severe flare
+Asthma,2,22,0,2,96,32,37.3,94,3,3,54.9,5,Female,Current smoker,Severe flare
+Asthma,1,47,0,0,96,16,36.6,96,3,1,70.3,8,Female,Never,Moderate flare
+Asthma,1,21,0,0,98,26,37.0,92,1,2,69.7,3,Female,Never,Moderate flare
+Asthma,0,49,1,0,94,23,37.1,94,1,2,63.3,10,Male,Never,Mild/intermittent
+Asthma,1,45,1,1,80,24,37.7,94,1,3,65.8,12,Male,Ex-smoker,Moderate flare
+Asthma,0,38,0,0,72,20,36.4,97,1,1,81.4,9,Female,Never,Mild/intermittent
+Asthma,1,52,1,0,113,25,37.4,92,0,2,73.0,18,Male,Never,Moderate flare
+Asthma,1,34,0,1,87,26,37.2,94,1,2,69.8,15,Female,Ex-smoker,Moderate flare
+Asthma,0,30,0,0,89,20,37.1,96,1,1,78.2,14,Female,Never,Mild/intermittent
+Asthma,1,20,1,0,87,26,37.0,92,3,3,72.9,6,Male,Never,Moderate flare
+Asthma,0,35,0,1,84,27,36.7,95,0,2,85.0,10,Female,Ex-smoker,Mild/intermittent
+Asthma,1,37,1,0,99,25,37.2,95,3,1,61.9,9,Male,Never,Moderate flare
+Asthma,1,31,0,0,100,19,36.8,95,0,1,63.3,24,Female,Never,Moderate flare
+Asthma,1,30,1,0,84,26,37.2,91,0,2,64.0,7,Male,Never,Moderate flare
+Asthma,0,26,1,0,100,22,36.3,96,1,2,64.0,13,Male,Never,Mild/intermittent
+Asthma,2,40,0,0,76,32,36.7,94,3,3,52.9,9,Female,Never,Severe flare
+Asthma,2,39,0,2,104,32,36.6,92,3,3,45.0,8,Female,Current smoker,Severe flare
+Asthma,1,43,0,1,101,28,36.9,98,1,2,79.8,17,Female,Ex-smoker,Moderate flare
+Asthma,0,19,0,2,102,26,37.4,95,2,2,76.4,7,Female,Current smoker,Mild/intermittent
+Asthma,0,27,1,1,90,18,36.4,96,1,1,76.3,8,Male,Ex-smoker,Mild/intermittent
+Asthma,0,31,0,0,76,24,37.2,96,3,2,72.6,6,Female,Never,Mild/intermittent
+Asthma,1,46,0,2,91,22,37.3,96,2,1,64.8,15,Female,Current smoker,Moderate flare
+Asthma,0,39,0,1,95,27,37.2,95,1,2,67.7,3,Female,Ex-smoker,Mild/intermittent
+Asthma,1,32,0,0,105,22,36.5,96,1,1,62.4,3,Female,Never,Moderate flare
+Asthma,0,18,0,0,77,25,36.7,96,3,2,74.6,13,Female,Never,Mild/intermittent
+Asthma,1,52,0,2,92,28,37.3,96,1,1,61.6,8,Female,Current smoker,Moderate flare
+Asthma,0,39,1,2,99,26,36.9,95,2,2,63.3,13,Male,Current smoker,Mild/intermittent
+Asthma,1,27,0,0,90,23,36.7,95,2,1,61.6,11,Female,Never,Moderate flare
+Asthma,0,21,1,0,88,22,37.1,92,1,1,68.5,9,Male,Never,Mild/intermittent
+Asthma,1,26,1,0,89,20,36.8,95,1,3,62.3,29,Male,Never,Moderate flare
+Asthma,1,50,0,0,67,17,37.1,95,2,1,64.9,8,Female,Never,Moderate flare
+Asthma,0,23,0,0,94,26,37.1,93,3,2,68.6,1,Female,Never,Mild/intermittent
+Asthma,0,32,0,0,93,19,36.9,93,1,1,79.3,10,Female,Never,Mild/intermittent
+Asthma,1,26,1,0,89,17,37.0,95,2,1,66.2,5,Male,Never,Moderate flare
+Asthma,1,24,0,0,80,23,37.6,92,2,2,64.0,14,Female,Never,Moderate flare
+Asthma,2,22,1,0,69,23,36.9,90,2,3,56.8,6,Male,Never,Severe flare
+Asthma,0,60,0,1,97,27,36.5,94,2,2,75.1,4,Female,Ex-smoker,Mild/intermittent
+Asthma,2,22,0,0,81,27,37.3,95,3,3,65.7,7,Female,Never,Severe flare
+Asthma,0,27,0,1,92,20,37.7,95,3,1,83.8,16,Female,Ex-smoker,Mild/intermittent
+Asthma,1,25,0,1,83,25,37.6,96,1,3,66.1,7,Female,Ex-smoker,Moderate flare
+Asthma,0,40,0,1,85,23,36.9,96,1,2,84.8,15,Female,Ex-smoker,Mild/intermittent
+Asthma,1,22,1,0,99,19,37.1,98,3,1,67.4,2,Male,Never,Moderate flare
+Asthma,0,37,0,0,95,21,36.9,95,2,2,71.9,7,Female,Never,Mild/intermittent
+Asthma,2,20,0,0,73,29,36.9,92,2,3,65.5,4,Female,Never,Severe flare
+Asthma,1,37,0,0,93,28,37.8,97,2,3,58.8,9,Female,Never,Moderate flare
+Asthma,0,29,0,2,77,26,36.8,97,3,2,69.3,11,Female,Current smoker,Mild/intermittent
+Asthma,1,50,0,1,96,18,36.9,94,1,1,71.2,12,Female,Ex-smoker,Moderate flare
+Asthma,1,20,1,0,100,22,36.9,95,3,3,65.9,4,Male,Never,Moderate flare
+Asthma,1,32,0,0,112,21,36.7,94,3,0,68.1,7,Female,Never,Moderate flare
+Asthma,0,41,0,0,101,18,36.9,96,2,1,69.8,3,Female,Never,Mild/intermittent
+Asthma,0,42,0,0,89,20,36.9,97,2,2,59.6,6,Female,Never,Mild/intermittent
+Asthma,0,42,0,0,98,18,37.8,97,2,1,81.7,12,Female,Never,Mild/intermittent
+Asthma,2,53,1,0,79,21,36.6,93,3,3,52.5,13,Male,Never,Severe flare
+Asthma,0,44,1,0,82,21,36.7,98,2,1,64.0,19,Male,Never,Mild/intermittent
+Asthma,1,41,1,0,88,28,37.0,94,3,2,68.0,1,Male,Never,Moderate flare
+Asthma,0,40,0,0,82,21,37.1,95,3,1,62.1,15,Female,Never,Mild/intermittent
+Asthma,2,44,0,0,91,30,37.4,90,3,2,68.9,6,Female,Never,Severe flare
+Asthma,0,25,0,0,96,28,37.2,94,1,2,67.4,14,Female,Never,Mild/intermittent
+Asthma,1,47,0,0,91,26,37.1,95,1,3,77.8,4,Female,Never,Moderate flare
+Asthma,1,53,0,0,102,19,37.2,95,0,1,66.2,15,Female,Never,Moderate flare
+Asthma,0,34,0,0,86,18,36.4,95,2,1,85.0,7,Female,Never,Mild/intermittent
+Asthma,0,33,0,0,85,27,37.1,95,0,2,85.0,6,Female,Never,Mild/intermittent
+Asthma,0,34,1,1,107,26,37.7,96,2,2,77.7,11,Male,Ex-smoker,Mild/intermittent
+Asthma,1,21,1,2,84,22,36.7,94,3,3,54.5,10,Male,Current smoker,Moderate flare
+Asthma,1,28,1,1,98,21,37.2,90,3,3,56.8,10,Male,Ex-smoker,Moderate flare
+Asthma,0,27,0,1,100,20,37.3,97,2,2,67.2,4,Female,Ex-smoker,Mild/intermittent
+Asthma,1,54,1,1,104,27,36.9,92,2,2,71.6,8,Male,Ex-smoker,Moderate flare
+Asthma,0,38,0,1,104,26,36.9,94,0,2,71.8,3,Female,Ex-smoker,Mild/intermittent
+Asthma,0,36,0,0,95,27,37.2,94,2,2,59.5,11,Female,Never,Mild/intermittent
+Asthma,2,32,1,0,76,24,37.1,93,3,3,57.0,6,Male,Never,Severe flare
+Asthma,0,59,0,0,88,25,36.6,94,3,2,73.2,11,Female,Never,Mild/intermittent
+Asthma,0,19,1,2,70,26,36.6,94,1,2,60.8,11,Male,Current smoker,Mild/intermittent
+Asthma,0,31,0,0,90,19,36.4,95,3,1,69.2,11,Female,Never,Mild/intermittent
+Asthma,1,54,0,1,94,28,37.5,90,3,2,51.4,4,Female,Ex-smoker,Moderate flare
+Asthma,0,38,1,1,114,26,37.0,96,1,2,79.3,15,Male,Ex-smoker,Mild/intermittent
+Asthma,1,50,1,1,109,22,36.8,91,1,2,56.3,8,Male,Ex-smoker,Moderate flare
+Asthma,2,32,1,0,99,32,36.9,92,3,3,51.3,2,Male,Never,Severe flare
+Asthma,0,59,1,1,90,27,37.1,98,1,2,76.5,13,Male,Ex-smoker,Mild/intermittent
+Asthma,1,26,1,0,99,24,37.2,96,2,1,67.0,3,Male,Never,Moderate flare
+Asthma,0,52,0,1,90,27,37.2,93,1,2,67.9,5,Female,Ex-smoker,Mild/intermittent
+Asthma,0,49,1,0,89,28,36.6,93,3,2,62.8,7,Male,Never,Mild/intermittent
+Asthma,1,28,0,1,89,28,36.8,93,3,2,71.5,5,Female,Ex-smoker,Moderate flare
+Asthma,1,38,0,2,92,30,37.0,96,0,2,70.5,7,Female,Current smoker,Moderate flare
+Asthma,1,28,1,0,69,26,36.6,94,3,2,66.2,6,Male,Never,Moderate flare
+Asthma,2,30,0,1,92,32,37.6,96,2,3,65.1,11,Female,Ex-smoker,Severe flare
+Asthma,1,34,0,1,72,26,37.3,93,2,3,59.9,15,Female,Ex-smoker,Moderate flare
+Asthma,1,42,0,1,85,13,36.7,97,1,1,67.7,10,Female,Ex-smoker,Moderate flare
+Asthma,0,30,1,0,97,19,37.4,96,0,1,71.9,3,Male,Never,Mild/intermittent
+Asthma,1,44,0,0,84,20,37.1,92,1,3,48.2,10,Female,Never,Moderate flare
+Asthma,1,41,0,0,71,22,37.2,94,2,2,58.5,8,Female,Never,Moderate flare
+Asthma,0,40,0,0,88,28,37.7,92,3,2,79.1,5,Female,Never,Mild/intermittent
+Asthma,0,41,1,1,90,20,37.6,96,2,1,77.1,7,Male,Ex-smoker,Mild/intermittent
+Asthma,1,39,0,2,95,29,36.7,93,0,2,74.6,2,Female,Current smoker,Moderate flare
+Asthma,1,40,0,1,77,28,37.1,93,1,1,73.5,7,Female,Ex-smoker,Moderate flare
+Asthma,0,19,1,1,102,19,37.5,94,2,2,55.0,17,Male,Ex-smoker,Mild/intermittent
+Asthma,2,31,0,2,92,28,36.7,92,2,3,66.0,6,Female,Current smoker,Severe flare
+Asthma,0,26,1,1,89,22,37.1,95,2,1,85.0,10,Male,Ex-smoker,Mild/intermittent
+Asthma,0,58,0,0,99,20,36.8,95,1,1,78.2,4,Female,Never,Mild/intermittent
+Asthma,1,51,1,0,91,31,36.8,94,1,3,72.7,13,Male,Never,Moderate flare
+Asthma,1,34,1,0,78,23,37.1,95,2,2,69.4,14,Male,Never,Moderate flare
+Asthma,0,32,0,1,94,23,36.8,97,1,1,67.9,5,Female,Ex-smoker,Mild/intermittent
+Asthma,1,37,1,0,84,27,37.1,94,3,2,66.2,6,Male,Never,Moderate flare
+Asthma,1,26,1,0,89,26,37.3,96,2,2,64.4,8,Male,Never,Moderate flare
+Asthma,2,40,0,2,81,23,36.8,93,2,3,61.8,20,Female,Current smoker,Severe flare
+Asthma,1,37,0,1,95,24,37.1,95,1,2,70.9,4,Female,Ex-smoker,Moderate flare
+Asthma,2,36,1,0,85,29,37.4,93,3,3,53.0,10,Male,Never,Severe flare
+Asthma,1,26,1,1,79,22,37.2,96,2,3,65.2,6,Male,Ex-smoker,Moderate flare
+Asthma,0,43,0,2,110,27,36.6,95,3,2,70.8,8,Female,Current smoker,Mild/intermittent
+Asthma,1,31,0,0,78,20,37.4,94,2,3,73.8,8,Female,Never,Moderate flare
+Asthma,0,37,0,0,88,24,37.1,91,1,2,76.0,7,Female,Never,Mild/intermittent
+Asthma,2,47,1,1,93,28,37.1,91,2,3,45.0,8,Male,Ex-smoker,Severe flare
+Asthma,2,38,1,1,77,27,37.2,97,3,3,59.6,13,Male,Ex-smoker,Severe flare
+Asthma,1,21,1,0,106,24,37.5,93,0,2,63.6,9,Male,Never,Moderate flare
+Asthma,0,44,0,0,84,24,37.0,96,1,2,72.2,14,Female,Never,Mild/intermittent
+Asthma,1,45,1,1,98,25,37.0,94,2,2,62.4,12,Male,Ex-smoker,Moderate flare
+Asthma,1,29,1,0,68,18,37.4,96,3,1,60.1,13,Male,Never,Moderate flare
+Asthma,0,41,0,1,82,24,36.9,92,3,2,73.8,6,Female,Ex-smoker,Mild/intermittent
+Asthma,2,41,0,0,87,23,37.4,92,3,3,49.9,16,Female,Never,Severe flare
+Asthma,0,39,0,0,68,25,36.5,95,3,2,63.4,12,Female,Never,Mild/intermittent
+Asthma,2,32,0,1,83,28,36.8,92,3,2,67.4,7,Female,Ex-smoker,Severe flare
+Asthma,2,53,1,0,83,22,37.3,96,3,3,49.1,15,Male,Never,Severe flare
+Asthma,0,59,0,1,94,24,36.8,95,3,3,59.8,15,Female,Ex-smoker,Mild/intermittent
+Asthma,0,35,1,0,82,26,36.4,92,3,2,69.7,12,Male,Never,Mild/intermittent
+Asthma,0,34,0,2,92,23,36.7,95,1,2,72.5,9,Female,Current smoker,Mild/intermittent
+Asthma,0,18,1,0,79,18,36.8,95,0,1,67.3,4,Male,Never,Mild/intermittent
+Asthma,1,33,0,0,88,23,37.2,96,2,1,68.1,7,Female,Never,Moderate flare
+Asthma,1,57,0,1,97,28,36.5,94,2,2,69.5,10,Female,Ex-smoker,Moderate flare
+Asthma,0,33,1,0,94,20,37.4,94,2,1,68.3,16,Male,Never,Mild/intermittent
+Asthma,2,44,1,0,95,23,37.4,91,2,3,56.1,7,Male,Never,Severe flare
+Asthma,0,43,0,0,98,22,37.4,95,2,2,79.9,2,Female,Never,Mild/intermittent
+Asthma,1,32,1,0,94,29,37.1,94,2,2,67.5,9,Male,Never,Moderate flare
+Asthma,2,27,1,0,81,24,36.3,95,3,3,51.6,7,Male,Never,Severe flare
+Asthma,1,31,0,0,70,27,36.4,95,1,2,74.3,2,Female,Never,Moderate flare
+Asthma,0,36,0,1,91,28,37.3,94,2,2,80.2,13,Female,Ex-smoker,Mild/intermittent
+Asthma,2,35,1,0,88,26,36.6,95,2,3,54.5,3,Male,Never,Severe flare
+Asthma,1,22,1,0,82,27,37.8,93,3,3,69.8,6,Male,Never,Moderate flare
+Asthma,1,58,0,0,74,21,37.0,97,1,1,61.7,5,Female,Never,Moderate flare
+Asthma,1,31,0,0,84,15,36.9,96,2,1,65.9,10,Female,Never,Moderate flare
+Asthma,0,37,0,1,87,26,36.8,94,3,1,75.6,6,Female,Ex-smoker,Mild/intermittent
+Asthma,1,35,0,0,85,23,36.4,94,2,3,60.0,23,Female,Never,Moderate flare
+Asthma,2,25,1,2,84,27,37.3,94,3,3,64.3,8,Male,Current smoker,Severe flare
+Asthma,0,50,0,1,93,25,37.4,92,2,1,62.1,20,Female,Ex-smoker,Mild/intermittent
+Asthma,1,38,0,1,81,26,36.7,93,2,3,59.1,3,Female,Ex-smoker,Moderate flare
+Asthma,1,32,1,0,66,23,37.3,94,1,2,71.9,10,Male,Never,Moderate flare
+Asthma,1,26,0,1,83,23,36.6,95,0,0,75.7,6,Female,Ex-smoker,Moderate flare
+Asthma,0,43,0,0,90,30,36.5,95,0,1,83.7,6,Female,Never,Mild/intermittent
+Asthma,1,47,1,2,85,25,37.4,93,2,3,67.1,6,Male,Current smoker,Moderate flare
+Asthma,0,39,0,1,92,25,37.3,93,1,2,72.7,2,Female,Ex-smoker,Mild/intermittent
+Asthma,0,44,1,0,82,24,36.9,94,1,2,82.9,5,Male,Never,Mild/intermittent
+Asthma,1,26,0,1,86,25,37.0,94,2,2,51.7,5,Female,Ex-smoker,Moderate flare
+Asthma,1,32,1,0,96,24,37.3,96,2,3,64.9,9,Male,Never,Moderate flare
+Asthma,0,28,0,0,92,20,36.8,97,2,2,79.2,9,Female,Never,Mild/intermittent
+Asthma,1,47,1,1,109,26,36.8,90,2,2,71.0,11,Male,Ex-smoker,Moderate flare
+Asthma,1,28,0,0,85,22,37.9,96,0,1,66.8,4,Female,Never,Moderate flare
+Asthma,0,38,0,0,74,26,37.1,97,3,1,74.9,6,Female,Never,Mild/intermittent
+Asthma,0,29,0,0,82,22,37.0,96,1,2,70.9,11,Female,Never,Mild/intermittent
+Asthma,0,42,0,2,89,18,36.5,94,3,0,72.7,4,Female,Current smoker,Mild/intermittent
+Asthma,0,29,1,0,89,27,36.6,92,3,2,66.0,9,Male,Never,Mild/intermittent
+Asthma,1,39,0,1,97,25,37.0,98,3,2,62.9,12,Female,Ex-smoker,Moderate flare
+Asthma,2,39,1,1,90,28,36.8,96,2,3,45.0,14,Male,Ex-smoker,Severe flare
+Asthma,1,38,0,0,78,26,37.3,95,3,3,58.6,6,Female,Never,Moderate flare
+Asthma,1,47,1,0,87,26,37.4,94,1,3,68.5,21,Male,Never,Moderate flare
+Asthma,2,31,0,0,81,31,37.6,95,3,3,67.2,17,Female,Never,Severe flare
+Asthma,1,51,0,0,86,23,37.4,96,3,2,69.4,13,Female,Never,Moderate flare
+Asthma,2,50,0,1,91,25,36.5,95,3,3,59.3,2,Female,Ex-smoker,Severe flare
+Asthma,1,27,1,0,102,26,36.8,94,3,3,49.9,7,Male,Never,Moderate flare
+Asthma,1,32,0,1,115,27,37.2,94,2,2,64.3,20,Female,Ex-smoker,Moderate flare
+Asthma,0,48,0,1,89,25,36.8,93,0,2,84.2,4,Female,Ex-smoker,Mild/intermittent
+Asthma,1,44,1,1,93,22,37.7,95,1,1,70.9,5,Male,Ex-smoker,Moderate flare
+Asthma,0,22,1,0,103,21,37.2,94,1,2,72.7,14,Male,Never,Mild/intermittent
+Asthma,1,42,0,1,71,21,37.2,93,2,3,72.8,8,Female,Ex-smoker,Moderate flare
+Asthma,0,39,0,0,74,18,37.1,92,2,1,67.8,3,Female,Never,Mild/intermittent
+Asthma,2,36,0,1,90,32,36.9,91,3,2,59.6,7,Female,Ex-smoker,Severe flare
+Asthma,2,39,0,0,90,23,36.9,92,3,3,61.7,10,Female,Never,Severe flare
+Asthma,1,45,0,1,84,28,36.7,93,3,3,59.0,9,Female,Ex-smoker,Moderate flare
+Asthma,1,46,1,0,81,28,37.3,98,3,2,56.9,3,Male,Never,Moderate flare
+Asthma,0,31,1,1,94,22,37.6,93,3,2,75.5,14,Male,Ex-smoker,Mild/intermittent
+Asthma,1,44,0,2,80,27,36.6,96,1,2,71.1,18,Female,Current smoker,Moderate flare
+Asthma,0,50,1,0,91,26,37.6,98,3,2,84.6,11,Male,Never,Mild/intermittent
+Asthma,1,37,0,0,73,21,37.4,94,2,1,71.2,6,Female,Never,Moderate flare
+Asthma,0,50,0,0,93,25,37.0,93,3,2,63.1,8,Female,Never,Mild/intermittent
+Asthma,1,45,0,2,84,22,37.0,95,2,3,70.5,4,Female,Current smoker,Moderate flare
+Asthma,1,41,0,2,113,24,36.6,92,2,2,72.2,18,Female,Current smoker,Moderate flare
+Asthma,1,51,1,1,85,24,36.9,94,1,1,62.3,5,Male,Ex-smoker,Moderate flare
+Asthma,0,28,0,0,94,22,36.7,97,1,2,78.1,10,Female,Never,Mild/intermittent
+Asthma,0,39,1,2,96,23,36.6,94,1,2,76.5,10,Male,Current smoker,Mild/intermittent
+Asthma,0,43,0,1,96,18,37.2,96,2,1,65.7,4,Female,Ex-smoker,Mild/intermittent
+Asthma,0,31,0,1,85,26,37.0,91,1,2,75.1,4,Female,Ex-smoker,Mild/intermittent
+Asthma,1,28,1,1,86,21,37.6,96,1,1,80.8,16,Male,Ex-smoker,Moderate flare
+Asthma,0,29,1,1,97,26,37.3,96,2,2,65.9,13,Male,Ex-smoker,Mild/intermittent
+Asthma,2,42,1,0,94,29,36.5,90,3,3,51.4,4,Male,Never,Severe flare
+Asthma,0,45,0,2,72,24,36.5,92,1,2,85.0,7,Female,Current smoker,Mild/intermittent
+Asthma,0,26,1,0,62,25,37.1,95,2,1,85.0,12,Male,Never,Mild/intermittent
+Asthma,0,45,0,0,82,23,37.1,91,1,2,68.2,11,Female,Never,Mild/intermittent
+Asthma,2,36,0,0,95,30,37.1,91,3,3,55.5,26,Female,Never,Severe flare
+Asthma,1,32,0,0,88,22,37.4,96,2,3,57.9,11,Female,Never,Moderate flare
+Asthma,1,29,1,0,77,23,37.3,92,2,2,46.6,8,Male,Never,Moderate flare
+Asthma,2,44,0,1,91,21,36.7,93,2,3,63.4,14,Female,Ex-smoker,Severe flare
+Asthma,0,45,0,0,74,20,36.9,92,3,2,75.6,17,Female,Never,Mild/intermittent
+Asthma,0,34,1,1,88,25,37.0,95,3,2,77.4,6,Male,Ex-smoker,Mild/intermittent
+Asthma,0,32,1,0,68,22,36.9,98,2,2,66.3,14,Male,Never,Mild/intermittent
+Asthma,0,41,1,0,80,27,36.7,95,2,2,64.9,11,Male,Never,Mild/intermittent
+Asthma,0,28,0,0,103,21,37.8,96,0,2,67.0,6,Female,Never,Mild/intermittent
+Asthma,2,24,0,0,67,32,37.3,95,3,3,57.9,6,Female,Never,Severe flare
+Asthma,0,19,0,0,75,15,37.4,95,3,1,77.1,7,Female,Never,Mild/intermittent
+Asthma,1,28,1,1,107,21,37.3,96,3,3,78.2,1,Male,Ex-smoker,Moderate flare
+Asthma,2,20,0,1,81,22,36.5,91,3,3,45.0,9,Female,Ex-smoker,Severe flare
+Asthma,1,43,1,0,78,17,37.4,93,3,3,59.8,12,Male,Never,Moderate flare
+Asthma,1,31,1,1,88,23,36.5,97,3,2,75.3,16,Male,Ex-smoker,Moderate flare
+Asthma,0,51,0,2,89,23,36.6,94,3,1,68.1,9,Female,Current smoker,Mild/intermittent
+Asthma,2,21,1,1,81,29,37.2,93,3,3,53.8,12,Male,Ex-smoker,Severe flare
+Asthma,2,41,0,0,76,32,37.0,93,3,2,66.6,4,Female,Never,Severe flare
+Asthma,0,50,0,1,77,17,37.8,96,3,1,63.8,2,Female,Ex-smoker,Mild/intermittent
+Asthma,2,20,1,2,85,32,37.2,96,3,2,45.0,29,Male,Current smoker,Severe flare
+Asthma,1,51,0,0,92,27,37.0,95,2,3,53.5,4,Female,Never,Moderate flare
+Asthma,1,31,0,2,77,28,37.1,93,2,3,75.0,7,Female,Current smoker,Moderate flare
+Asthma,2,45,1,2,81,30,37.0,92,2,3,60.3,9,Male,Current smoker,Severe flare
+Asthma,0,49,0,2,93,26,37.0,96,2,2,79.3,11,Female,Current smoker,Mild/intermittent
+Asthma,0,39,1,1,78,24,36.7,94,3,2,66.4,5,Male,Ex-smoker,Mild/intermittent
+Asthma,0,25,0,0,81,20,36.9,93,2,1,81.0,4,Female,Never,Mild/intermittent
+Asthma,1,34,0,2,97,25,37.1,99,2,3,72.2,6,Female,Current smoker,Moderate flare
+Asthma,0,26,0,0,77,22,37.4,98,3,2,73.7,2,Female,Never,Mild/intermittent
+Asthma,0,35,0,1,105,25,36.8,95,2,2,70.8,7,Female,Ex-smoker,Mild/intermittent
+Asthma,1,35,0,1,80,16,36.3,94,0,1,72.4,14,Female,Ex-smoker,Moderate flare
+Asthma,1,33,0,0,109,19,36.9,93,3,2,50.4,7,Female,Never,Moderate flare
+Asthma,0,37,0,2,111,26,36.8,95,1,2,84.2,7,Female,Current smoker,Mild/intermittent
+Asthma,0,24,0,0,81,18,36.2,96,2,1,85.0,5,Female,Never,Mild/intermittent
+Asthma,1,46,0,0,101,16,37.0,95,2,3,58.2,7,Female,Never,Moderate flare
+Asthma,2,35,1,0,94,27,37.2,92,2,2,49.9,8,Male,Never,Severe flare
+Asthma,0,51,0,0,94,27,36.8,96,1,2,73.9,5,Female,Never,Mild/intermittent
+Asthma,1,60,0,2,85,23,37.1,91,0,0,64.0,8,Female,Current smoker,Moderate flare
+Asthma,2,38,1,1,117,27,36.9,92,2,3,68.4,13,Male,Ex-smoker,Severe flare
+Asthma,1,57,0,0,85,22,37.1,94,1,1,73.2,9,Female,Never,Moderate flare
+Asthma,0,36,0,0,99,21,36.5,92,0,2,76.3,13,Female,Never,Mild/intermittent
+Asthma,1,35,0,1,110,21,36.9,94,0,2,60.6,4,Female,Ex-smoker,Moderate flare
+Asthma,1,31,0,2,83,28,36.7,94,2,3,70.7,4,Female,Current smoker,Moderate flare
+Asthma,1,34,0,0,87,27,37.2,97,2,3,68.9,11,Female,Never,Moderate flare
+Asthma,1,50,1,0,112,24,37.0,94,2,1,68.0,3,Male,Never,Moderate flare
+Asthma,1,51,0,1,78,28,37.0,94,2,2,61.4,4,Female,Ex-smoker,Moderate flare
+Asthma,0,40,0,0,116,26,36.8,95,1,2,82.3,16,Female,Never,Mild/intermittent
+Asthma,1,25,1,2,90,25,37.4,95,3,3,52.8,4,Male,Current smoker,Moderate flare
+Asthma,0,59,1,1,84,19,37.1,96,2,1,69.9,4,Male,Ex-smoker,Mild/intermittent
+Asthma,1,23,0,0,104,26,37.3,93,1,3,52.5,7,Female,Never,Moderate flare
+Asthma,1,31,1,2,97,21,36.6,95,1,1,71.6,9,Male,Current smoker,Moderate flare
+Asthma,2,55,0,1,80,29,37.3,93,2,3,52.4,11,Female,Ex-smoker,Severe flare
+Asthma,2,26,0,1,81,28,37.2,93,3,3,68.2,4,Female,Ex-smoker,Severe flare
+Asthma,1,55,0,0,93,25,36.7,97,2,2,57.3,11,Female,Never,Moderate flare
+Asthma,2,44,1,1,80,25,36.8,93,3,2,54.7,5,Male,Ex-smoker,Severe flare
+Asthma,1,43,0,0,100,21,36.7,95,3,0,69.7,3,Female,Never,Moderate flare
+Asthma,1,22,0,0,106,27,37.2,95,1,2,68.2,10,Female,Never,Moderate flare
+Asthma,0,42,0,1,108,23,36.8,95,1,0,68.9,20,Female,Ex-smoker,Mild/intermittent
+Asthma,1,34,0,2,79,27,36.4,93,2,2,56.2,6,Female,Current smoker,Moderate flare
+Asthma,0,32,1,2,107,22,37.1,93,2,1,66.6,3,Male,Current smoker,Mild/intermittent
+Asthma,2,39,1,2,99,28,37.4,90,3,3,48.8,15,Male,Current smoker,Severe flare
+Asthma,2,50,0,1,85,25,37.0,92,2,3,61.6,4,Female,Ex-smoker,Severe flare
+Asthma,2,31,0,0,98,30,37.0,90,2,3,54.8,19,Female,Never,Severe flare
+Asthma,1,27,0,0,80,25,37.3,93,2,2,73.7,11,Female,Never,Moderate flare
+Asthma,1,53,0,0,78,27,36.9,92,1,3,57.7,19,Female,Never,Moderate flare
+Asthma,2,39,0,1,100,25,37.5,91,3,3,58.2,5,Female,Ex-smoker,Severe flare
+Asthma,1,44,0,0,100,26,37.2,96,1,1,69.0,4,Female,Never,Moderate flare
+Asthma,2,51,1,0,113,28,37.5,95,2,3,56.6,9,Male,Never,Severe flare
+Asthma,1,18,0,1,85,22,36.7,97,3,1,68.6,4,Female,Ex-smoker,Moderate flare
+Asthma,1,28,0,2,75,26,36.9,92,2,3,72.4,5,Female,Current smoker,Moderate flare
+Asthma,1,21,0,0,106,22,36.6,92,1,1,69.9,9,Female,Never,Moderate flare
+Asthma,1,45,0,2,97,21,37.1,93,1,2,62.4,4,Female,Current smoker,Moderate flare
+Asthma,1,47,0,0,104,22,37.0,91,0,0,75.5,11,Female,Never,Moderate flare
+Asthma,0,48,0,0,79,24,36.8,96,1,2,61.7,12,Female,Never,Mild/intermittent
+Asthma,2,24,0,2,88,24,36.9,90,3,3,55.7,4,Female,Current smoker,Severe flare
+Asthma,2,22,1,1,76,28,37.0,96,3,3,45.0,6,Male,Ex-smoker,Severe flare
+Asthma,0,57,1,2,88,27,37.1,95,1,2,77.1,2,Male,Current smoker,Mild/intermittent
+Asthma,0,56,0,1,96,23,36.4,98,3,2,70.6,6,Female,Ex-smoker,Mild/intermittent
+Asthma,1,39,1,0,84,28,37.2,92,0,2,77.5,8,Male,Never,Moderate flare
+Asthma,1,49,0,0,100,24,37.2,91,1,2,67.1,4,Female,Never,Moderate flare
+Asthma,1,36,1,1,85,27,36.8,99,2,2,66.2,13,Male,Ex-smoker,Moderate flare
+Asthma,1,52,0,1,74,22,37.0,96,1,1,60.6,8,Female,Ex-smoker,Moderate flare
+Asthma,0,31,1,0,86,25,37.3,97,2,0,67.2,7,Male,Never,Mild/intermittent
+Asthma,1,40,0,0,85,23,36.8,96,3,3,55.4,7,Female,Never,Moderate flare
+Asthma,1,33,0,1,110,26,37.4,94,2,3,70.1,9,Female,Ex-smoker,Moderate flare
+Asthma,2,35,1,0,107,25,36.4,95,2,3,75.1,11,Male,Never,Severe flare
+Asthma,2,39,1,2,92,32,36.8,91,3,2,67.4,10,Male,Current smoker,Severe flare
+Asthma,0,23,1,0,99,29,36.9,95,2,2,81.1,12,Male,Never,Mild/intermittent
+Asthma,0,26,0,0,93,20,36.6,98,2,2,70.2,8,Female,Never,Mild/intermittent
+Asthma,2,35,0,0,84,21,37.2,94,3,3,52.3,12,Female,Never,Severe flare
+Asthma,2,28,0,0,81,29,36.4,98,3,3,60.8,18,Female,Never,Severe flare
+Asthma,0,46,1,0,82,25,36.6,98,2,2,70.3,6,Male,Never,Mild/intermittent
+Asthma,2,42,0,2,81,23,37.3,91,3,3,63.8,18,Female,Current smoker,Severe flare
+Asthma,2,44,0,0,91,30,37.2,94,3,3,63.6,4,Female,Never,Severe flare
+Asthma,0,58,1,1,114,23,37.0,94,2,2,85.0,4,Male,Ex-smoker,Mild/intermittent
+Asthma,1,54,0,0,100,18,37.6,94,3,1,71.0,18,Female,Never,Moderate flare
+Asthma,1,38,1,0,72,21,36.8,90,0,1,71.0,7,Male,Never,Moderate flare
+Asthma,1,34,1,0,97,16,36.7,95,3,2,51.4,9,Male,Never,Moderate flare
+Asthma,2,33,0,0,93,28,37.4,91,2,3,47.7,5,Female,Never,Severe flare
+Asthma,0,38,0,1,89,28,37.0,97,1,2,71.2,6,Female,Ex-smoker,Mild/intermittent
+Asthma,1,40,0,2,80,24,37.3,98,2,1,71.7,1,Female,Current smoker,Moderate flare
+Asthma,0,39,0,0,75,24,37.2,96,1,2,71.3,12,Female,Never,Mild/intermittent
+Asthma,2,19,1,0,63,25,36.9,95,2,3,56.0,10,Male,Never,Severe flare
+Asthma,0,25,0,0,87,24,36.4,95,2,2,59.1,4,Female,Never,Mild/intermittent
+Asthma,0,35,0,2,90,27,37.1,93,1,2,76.6,6,Female,Current smoker,Mild/intermittent
+Asthma,1,58,1,1,82,31,37.2,96,3,3,58.5,4,Male,Ex-smoker,Moderate flare
+Asthma,2,23,0,0,85,31,36.9,93,2,3,61.5,7,Female,Never,Severe flare
+Asthma,2,47,0,0,80,21,37.3,95,3,3,64.8,8,Female,Never,Severe flare
+Asthma,1,41,0,0,95,22,36.6,95,2,3,56.2,4,Female,Never,Moderate flare
+Asthma,2,30,1,1,85,26,36.8,97,3,3,51.2,8,Male,Ex-smoker,Severe flare
+Asthma,1,45,0,0,96,25,36.6,94,1,3,70.2,12,Female,Never,Moderate flare
+Asthma,0,38,0,0,83,26,37.3,94,1,2,81.2,8,Female,Never,Mild/intermittent
+Asthma,2,38,0,0,82,27,36.9,93,3,3,54.7,7,Female,Never,Severe flare
+Asthma,2,18,0,0,95,20,37.3,94,3,3,62.3,13,Female,Never,Severe flare
+Asthma,0,27,0,2,79,26,36.6,97,2,2,82.1,24,Female,Current smoker,Mild/intermittent
+Asthma,0,43,0,0,82,27,36.5,97,1,2,75.6,11,Female,Never,Mild/intermittent
+Asthma,1,56,0,0,83,19,36.3,94,3,3,54.4,6,Female,Never,Moderate flare
+Asthma,1,42,0,2,78,26,36.8,93,3,0,74.5,9,Female,Current smoker,Moderate flare
+Asthma,0,57,0,0,90,21,37.1,97,0,2,70.6,6,Female,Never,Mild/intermittent
+Asthma,1,49,0,2,99,25,37.3,94,2,2,63.6,2,Female,Current smoker,Moderate flare
+Asthma,1,26,0,0,76,24,37.1,92,2,3,58.1,11,Female,Never,Moderate flare
+Asthma,1,26,1,0,91,22,37.1,97,3,3,78.1,9,Male,Never,Moderate flare
+Asthma,1,21,0,0,74,20,37.4,95,2,1,71.6,11,Female,Never,Moderate flare
+Asthma,1,23,0,0,64,27,37.4,94,3,2,61.3,6,Female,Never,Moderate flare
+Asthma,0,56,1,0,84,27,37.3,92,3,2,77.4,7,Male,Never,Mild/intermittent
+Asthma,0,40,0,0,88,16,37.1,93,2,1,85.0,5,Female,Never,Mild/intermittent
+Asthma,2,21,1,2,84,30,37.2,97,3,2,67.2,4,Male,Current smoker,Severe flare
+Asthma,1,36,1,2,94,27,37.3,98,2,3,67.8,13,Male,Current smoker,Moderate flare
+Asthma,0,35,1,2,86,20,37.1,96,1,2,85.0,2,Male,Current smoker,Mild/intermittent
+Asthma,0,38,1,1,70,22,37.0,95,2,1,85.0,11,Male,Ex-smoker,Mild/intermittent
+Asthma,0,37,1,0,78,23,36.9,98,3,2,78.2,22,Male,Never,Mild/intermittent
+Asthma,0,48,1,0,68,26,37.2,95,2,2,70.1,10,Male,Never,Mild/intermittent
+Asthma,2,32,1,0,91,28,36.9,93,2,3,45.0,9,Male,Never,Severe flare
+Asthma,0,45,1,0,93,27,37.0,92,0,2,68.6,13,Male,Never,Mild/intermittent
+Asthma,1,35,0,0,73,28,37.3,98,1,2,68.9,12,Female,Never,Moderate flare
+Asthma,2,37,0,0,87,32,36.7,90,2,3,69.5,9,Female,Never,Severe flare
+Asthma,2,55,1,0,105,27,37.3,90,3,3,55.8,8,Male,Never,Severe flare
+Asthma,1,21,0,1,91,19,37.2,96,1,1,68.1,7,Female,Ex-smoker,Moderate flare
+Asthma,1,56,1,1,101,20,36.8,97,1,1,63.4,16,Male,Ex-smoker,Moderate flare
+Asthma,1,34,0,0,87,25,37.2,97,2,3,46.7,19,Female,Never,Moderate flare
+Asthma,1,31,0,0,92,25,36.2,96,2,2,79.3,15,Female,Never,Moderate flare
+Asthma,1,56,0,1,93,30,37.5,96,2,1,64.8,7,Female,Ex-smoker,Moderate flare
+Asthma,0,46,0,0,103,23,36.7,94,3,2,75.7,3,Female,Never,Mild/intermittent
+Asthma,2,26,0,2,79,25,37.4,92,2,3,62.8,7,Female,Current smoker,Severe flare
+Asthma,0,49,0,1,91,23,36.8,91,3,1,75.4,14,Female,Ex-smoker,Mild/intermittent
+Asthma,0,19,0,0,78,21,36.9,94,1,2,64.9,5,Female,Never,Mild/intermittent
+Asthma,0,32,0,1,73,22,36.8,96,2,2,70.1,1,Female,Ex-smoker,Mild/intermittent
+Asthma,2,40,0,0,84,21,36.8,94,3,2,61.7,5,Female,Never,Severe flare
+Asthma,1,50,0,0,86,27,37.2,94,1,1,61.6,10,Female,Never,Moderate flare
+Asthma,0,24,1,1,72,23,36.8,95,2,2,70.8,6,Male,Ex-smoker,Mild/intermittent
+Asthma,1,21,1,0,96,25,36.9,95,1,2,61.2,13,Male,Never,Moderate flare
+Asthma,2,39,0,0,70,28,37.0,93,3,3,45.1,10,Female,Never,Severe flare
+Asthma,1,47,1,1,94,27,36.9,93,3,2,55.6,16,Male,Ex-smoker,Moderate flare
+Asthma,0,47,0,0,92,23,36.7,99,2,0,70.4,16,Female,Never,Mild/intermittent
+Asthma,2,27,1,1,90,27,37.0,90,3,3,53.4,20,Male,Ex-smoker,Severe flare
+Asthma,0,52,1,2,95,16,36.9,93,3,1,76.2,9,Male,Current smoker,Mild/intermittent
+Asthma,0,25,0,1,95,23,36.7,92,3,0,85.0,4,Female,Ex-smoker,Mild/intermittent
+Asthma,1,34,1,0,109,24,36.6,91,2,1,60.1,6,Male,Never,Moderate flare
+Asthma,2,25,1,1,90,24,36.3,97,2,3,45.0,6,Male,Ex-smoker,Severe flare
+Asthma,1,52,0,0,94,31,37.2,94,2,2,72.6,11,Female,Never,Moderate flare
+Asthma,1,49,1,1,83,25,36.9,96,1,2,62.1,16,Male,Ex-smoker,Moderate flare
+Asthma,1,29,1,2,80,25,36.9,92,3,3,58.8,18,Male,Current smoker,Moderate flare
+Asthma,1,24,0,0,91,21,36.8,95,1,2,60.4,6,Female,Never,Moderate flare
+Asthma,1,45,0,1,105,22,37.1,96,1,2,76.3,20,Female,Ex-smoker,Moderate flare
+Asthma,2,41,0,1,86,27,37.8,93,2,3,68.6,6,Female,Ex-smoker,Severe flare
+Asthma,1,33,0,0,106,29,37.3,97,2,1,71.5,13,Female,Never,Moderate flare
+Asthma,0,23,1,1,89,17,36.9,96,2,1,85.0,5,Male,Ex-smoker,Mild/intermittent
+Asthma,1,27,0,1,96,12,37.0,94,3,1,69.1,5,Female,Ex-smoker,Moderate flare
+Asthma,0,42,0,2,98,29,37.5,94,1,2,65.0,3,Female,Current smoker,Mild/intermittent
+Asthma,2,28,1,0,71,26,37.0,96,3,3,48.9,9,Male,Never,Severe flare
+Asthma,1,32,0,1,96,28,36.6,97,1,2,73.7,8,Female,Ex-smoker,Moderate flare
+Asthma,0,33,1,0,90,21,37.1,95,1,1,81.0,5,Male,Never,Mild/intermittent
+Asthma,1,21,1,2,77,28,36.3,97,2,2,53.7,12,Male,Current smoker,Moderate flare
+Asthma,0,45,1,1,97,29,37.2,96,3,0,73.4,18,Male,Ex-smoker,Mild/intermittent
+Asthma,1,56,1,0,67,27,37.3,94,2,3,64.2,9,Male,Never,Moderate flare
+Asthma,1,40,0,0,74,24,37.0,97,2,2,75.2,5,Female,Never,Moderate flare
+Asthma,1,39,0,0,90,28,37.3,94,2,2,79.7,5,Female,Never,Moderate flare
+Asthma,0,41,0,2,100,24,37.3,97,1,2,65.2,3,Female,Current smoker,Mild/intermittent
+Asthma,0,23,0,1,74,17,36.8,93,1,0,76.3,20,Female,Ex-smoker,Mild/intermittent
+Asthma,1,41,0,1,95,31,37.2,95,2,3,83.1,5,Female,Ex-smoker,Moderate flare
+Asthma,1,55,1,0,75,23,37.6,99,2,2,59.6,11,Male,Never,Moderate flare
+Asthma,0,24,0,0,81,27,36.7,94,2,2,72.0,16,Female,Never,Mild/intermittent
+Asthma,1,31,0,0,92,21,37.4,96,1,1,73.7,10,Female,Never,Moderate flare
+Asthma,0,21,0,0,107,25,37.3,92,1,2,73.4,3,Female,Never,Mild/intermittent
+Asthma,0,33,1,0,80,24,37.3,95,1,2,85.0,4,Male,Never,Mild/intermittent
+Asthma,2,49,1,0,89,23,36.8,92,3,3,53.7,8,Male,Never,Severe flare
+Asthma,1,41,0,0,80,21,36.6,94,0,3,71.9,7,Female,Never,Moderate flare
+Asthma,2,21,0,0,76,27,37.3,96,3,3,58.2,8,Female,Never,Severe flare
+Asthma,2,19,1,0,87,22,36.8,93,2,3,68.6,4,Male,Never,Severe flare
+Asthma,1,41,1,1,94,23,36.6,93,3,3,78.4,9,Male,Ex-smoker,Moderate flare
+Asthma,1,21,1,1,104,26,36.8,96,2,3,60.0,4,Male,Ex-smoker,Moderate flare
+Asthma,0,31,1,0,83,25,36.4,96,2,2,69.3,8,Male,Never,Mild/intermittent
+Asthma,2,41,1,0,94,28,36.8,92,2,3,62.9,11,Male,Never,Severe flare
+Asthma,0,51,0,1,77,22,37.1,94,2,2,74.0,12,Female,Ex-smoker,Mild/intermittent
+Asthma,0,54,0,0,76,28,37.1,93,2,2,80.9,10,Female,Never,Mild/intermittent
+Asthma,2,23,1,0,72,31,36.8,90,2,2,70.7,2,Male,Never,Severe flare
+Asthma,1,21,0,1,76,23,36.7,95,2,2,61.5,14,Female,Ex-smoker,Moderate flare
+Asthma,0,31,1,1,86,28,36.6,95,2,1,75.8,9,Male,Ex-smoker,Mild/intermittent
+Asthma,1,26,1,1,100,17,37.1,97,1,1,74.4,10,Male,Ex-smoker,Moderate flare
+Asthma,2,41,0,0,72,25,37.0,91,3,2,59.8,20,Female,Never,Severe flare
+Asthma,0,36,0,0,101,28,36.3,94,3,1,76.8,14,Female,Never,Mild/intermittent
+Asthma,1,31,1,0,84,27,37.5,95,2,3,78.1,8,Male,Never,Moderate flare
+Asthma,1,60,1,0,83,24,37.3,95,2,0,76.7,6,Male,Never,Moderate flare
+Asthma,1,28,0,1,102,26,37.2,92,2,3,50.1,10,Female,Ex-smoker,Moderate flare
+Asthma,1,50,0,0,100,21,36.5,95,2,0,68.1,9,Female,Never,Moderate flare
+Asthma,1,45,1,2,86,29,36.7,96,2,3,65.8,10,Male,Current smoker,Moderate flare
+Asthma,2,45,0,0,109,29,36.9,95,3,2,63.0,27,Female,Never,Severe flare
+Asthma,1,27,1,0,106,20,37.1,95,2,1,65.4,9,Male,Never,Moderate flare
+Asthma,1,52,0,1,108,25,37.2,93,1,2,79.1,9,Female,Ex-smoker,Moderate flare
+Asthma,2,53,0,0,81,28,37.1,98,3,3,54.7,8,Female,Never,Severe flare
+Asthma,1,19,1,1,75,23,37.5,92,2,2,70.7,11,Male,Ex-smoker,Moderate flare
+Asthma,2,48,1,1,100,29,37.1,94,3,3,67.7,14,Male,Ex-smoker,Severe flare
+Asthma,1,46,0,0,68,26,37.7,95,3,2,60.1,15,Female,Never,Moderate flare
+Asthma,1,48,0,1,96,25,37.0,93,1,2,64.0,8,Female,Ex-smoker,Moderate flare
+Asthma,0,53,1,0,109,23,36.7,95,3,2,75.4,4,Male,Never,Mild/intermittent
+Asthma,0,34,0,1,73,25,37.1,95,2,2,63.7,13,Female,Ex-smoker,Mild/intermittent
+Asthma,0,26,0,2,104,25,37.3,93,3,2,63.0,4,Female,Current smoker,Mild/intermittent
+Asthma,1,49,0,2,84,22,36.8,96,1,2,61.3,7,Female,Current smoker,Moderate flare
+Asthma,1,46,1,0,77,28,36.7,93,2,3,78.2,5,Male,Never,Moderate flare
+Asthma,1,45,0,0,69,26,36.9,93,1,3,66.2,5,Female,Never,Moderate flare
+Asthma,1,31,1,1,86,28,36.5,96,3,1,63.0,11,Male,Ex-smoker,Moderate flare
+Asthma,2,25,1,1,109,26,36.7,90,2,3,54.6,4,Male,Ex-smoker,Severe flare
+Asthma,1,40,1,0,100,22,37.4,93,1,2,65.1,10,Male,Never,Moderate flare
+Asthma,0,43,0,0,88,17,37.6,93,1,0,67.5,14,Female,Never,Mild/intermittent
+Asthma,1,51,0,0,81,18,36.6,97,1,2,51.3,9,Female,Never,Moderate flare
+Asthma,0,45,0,1,94,25,37.4,97,2,1,72.7,3,Female,Ex-smoker,Mild/intermittent
+Asthma,1,55,1,0,87,27,36.9,94,1,3,66.4,17,Male,Never,Moderate flare
+Asthma,2,51,0,0,65,26,36.4,94,3,3,49.9,8,Female,Never,Severe flare
+Asthma,1,34,1,1,97,24,37.2,93,2,3,54.5,6,Male,Ex-smoker,Moderate flare
+Asthma,1,19,0,0,107,24,36.7,93,3,1,82.5,9,Female,Never,Moderate flare
+Asthma,0,49,0,0,97,13,37.1,97,2,1,71.2,8,Female,Never,Mild/intermittent
+Asthma,0,48,0,0,85,27,36.6,93,2,1,77.0,17,Female,Never,Mild/intermittent
+Asthma,1,53,1,1,103,28,37.1,93,1,2,61.7,4,Male,Ex-smoker,Moderate flare
+Asthma,1,52,0,1,79,17,37.3,94,2,3,56.1,8,Female,Ex-smoker,Moderate flare
+Asthma,1,52,0,0,77,20,37.2,92,1,1,65.5,6,Female,Never,Moderate flare
+Asthma,1,19,0,0,102,24,37.7,96,2,2,64.0,10,Female,Never,Moderate flare
+Asthma,2,23,1,2,75,22,37.2,94,2,3,64.2,13,Male,Current smoker,Severe flare
+Asthma,0,31,1,1,101,18,36.9,95,0,1,65.8,21,Male,Ex-smoker,Mild/intermittent
+Asthma,2,41,0,0,86,26,36.9,93,3,3,54.0,12,Female,Never,Severe flare
+Asthma,0,54,0,1,88,23,37.0,90,3,1,72.9,8,Female,Ex-smoker,Mild/intermittent
+Asthma,1,46,0,1,88,21,37.2,94,2,2,73.9,3,Female,Ex-smoker,Moderate flare
+Asthma,2,30,0,1,100,28,36.8,94,2,3,73.7,5,Female,Ex-smoker,Severe flare
+Asthma,1,40,1,0,87,27,37.1,97,1,3,63.4,5,Male,Never,Moderate flare
+Asthma,0,38,1,1,97,23,36.8,96,2,3,59.1,17,Male,Ex-smoker,Mild/intermittent
+Asthma,1,48,0,1,95,28,36.8,93,2,3,63.9,12,Female,Ex-smoker,Moderate flare
+Asthma,0,29,0,0,86,15,37.4,97,0,1,81.0,9,Female,Never,Mild/intermittent
+Asthma,1,21,0,0,71,20,37.8,93,2,1,63.6,9,Female,Never,Moderate flare
+Asthma,0,24,0,0,97,25,36.6,92,1,2,68.1,5,Female,Never,Mild/intermittent
+Asthma,1,40,0,0,85,25,37.1,92,2,2,61.5,17,Female,Never,Moderate flare
+Asthma,2,54,0,2,93,27,37.1,95,3,3,48.9,5,Female,Current smoker,Severe flare
+Asthma,0,47,1,2,110,18,37.8,98,2,1,77.3,9,Male,Current smoker,Mild/intermittent
+Asthma,0,25,1,0,100,21,37.1,91,1,2,76.1,4,Male,Never,Mild/intermittent
+Asthma,1,58,1,0,93,19,36.6,96,2,1,71.6,5,Male,Never,Moderate flare
+Asthma,2,22,0,0,93,32,37.1,94,3,3,54.1,7,Female,Never,Severe flare
+Asthma,1,36,0,2,102,26,37.0,95,2,3,69.4,6,Female,Current smoker,Moderate flare
+Asthma,1,36,1,0,100,22,37.2,97,3,2,61.7,4,Male,Never,Moderate flare
+Asthma,0,29,0,0,99,22,36.6,96,1,1,64.0,6,Female,Never,Mild/intermittent
+Asthma,2,39,1,0,86,25,37.2,91,3,3,55.3,21,Male,Never,Severe flare
+Asthma,1,38,1,1,73,28,37.1,97,2,2,65.5,16,Male,Ex-smoker,Moderate flare
+Asthma,2,19,0,0,108,32,37.1,92,3,3,51.9,16,Female,Never,Severe flare
+Asthma,1,56,0,0,85,17,37.2,96,2,3,53.9,7,Female,Never,Moderate flare
+Asthma,0,37,0,0,94,24,37.0,96,2,2,73.7,5,Female,Never,Mild/intermittent
+Asthma,1,34,1,2,93,27,37.0,98,3,3,68.3,12,Male,Current smoker,Moderate flare
+Asthma,1,30,1,0,86,20,37.8,95,0,2,74.0,13,Male,Never,Moderate flare
+Asthma,0,50,1,0,84,27,36.3,90,1,2,81.4,13,Male,Never,Mild/intermittent
+Asthma,1,40,0,0,90,26,36.7,94,2,3,58.7,4,Female,Never,Moderate flare
+Asthma,2,28,1,0,92,26,37.1,92,3,3,60.5,6,Male,Never,Severe flare
+Asthma,1,55,0,0,76,25,36.9,95,1,0,62.9,11,Female,Never,Moderate flare
+Asthma,0,43,0,1,99,23,37.3,97,2,2,67.5,8,Female,Ex-smoker,Mild/intermittent
+Asthma,2,33,0,1,86,27,37.3,93,3,3,72.0,6,Female,Ex-smoker,Severe flare
+Asthma,1,35,0,0,99,26,37.1,94,1,2,69.4,10,Female,Never,Moderate flare
+Asthma,0,21,1,2,88,14,36.7,94,1,0,84.1,25,Male,Current smoker,Mild/intermittent
+Asthma,0,46,0,1,104,26,36.3,91,1,2,70.2,6,Female,Ex-smoker,Mild/intermittent
+Asthma,2,40,0,0,72,22,36.4,93,3,2,63.2,6,Female,Never,Severe flare
+Asthma,2,49,0,0,79,30,36.7,94,3,3,54.2,26,Female,Never,Severe flare
+Asthma,0,35,0,0,102,23,37.4,93,3,2,59.2,8,Female,Never,Mild/intermittent
+Asthma,1,30,1,2,101,22,37.4,97,2,2,55.1,10,Male,Current smoker,Moderate flare
+Asthma,2,55,0,0,93,25,37.5,90,3,3,54.7,8,Female,Never,Severe flare
+Asthma,0,24,0,0,97,22,37.2,95,3,2,85.0,8,Female,Never,Mild/intermittent
+Asthma,1,48,1,1,82,23,36.7,93,3,3,59.6,13,Male,Ex-smoker,Moderate flare
+Asthma,1,29,0,0,105,28,37.1,95,1,2,71.6,12,Female,Never,Moderate flare
+Asthma,1,22,0,1,101,21,37.1,93,1,3,72.3,2,Female,Ex-smoker,Moderate flare
+Asthma,1,26,0,1,83,23,36.9,95,2,3,63.9,7,Female,Ex-smoker,Moderate flare
+Asthma,0,19,1,1,85,27,37.2,96,2,2,64.5,9,Male,Ex-smoker,Mild/intermittent
+Asthma,1,44,1,0,94,28,37.1,92,1,3,57.6,7,Male,Never,Moderate flare
+Asthma,1,28,1,0,87,26,37.2,95,3,2,73.6,11,Male,Never,Moderate flare
+Asthma,1,54,0,0,73,20,36.7,96,2,1,71.4,8,Female,Never,Moderate flare
+Asthma,0,44,1,1,85,27,37.1,95,2,0,70.9,5,Male,Ex-smoker,Mild/intermittent
+Asthma,1,55,0,1,107,26,37.2,98,1,3,64.6,2,Female,Ex-smoker,Moderate flare
+Pneumonia,1,67,0,1,105,24,39.3,91,3,3,85.9,7,Female,Ex-smoker,Moderate
+Pneumonia,2,41,0,2,113,28,38.9,92,3,3,71.4,1,Female,Current smoker,Severe
+Pneumonia,1,57,0,1,107,28,38.7,91,2,2,71.9,2,Female,Ex-smoker,Moderate
+Pneumonia,1,39,1,2,88,23,38.4,93,2,2,64.4,6,Male,Current smoker,Moderate
+Pneumonia,1,63,0,0,109,23,38.5,92,3,1,71.7,5,Female,Never,Moderate
+Pneumonia,0,57,0,1,93,18,38.2,93,3,2,76.9,7,Female,Ex-smoker,Mild
+Pneumonia,1,41,0,2,121,21,39.0,92,2,3,78.6,3,Female,Current smoker,Moderate
+Pneumonia,1,22,0,0,120,30,40.1,89,3,3,79.5,2,Female,Never,Moderate
+Pneumonia,0,27,0,1,108,21,38.6,94,3,2,81.4,2,Female,Ex-smoker,Mild
+Pneumonia,1,38,1,0,106,27,39.0,91,0,2,79.7,8,Male,Never,Moderate
+Pneumonia,0,59,0,1,106,21,38.6,93,3,2,77.5,4,Female,Ex-smoker,Mild
+Pneumonia,1,36,1,1,102,24,37.7,93,2,3,82.1,1,Male,Ex-smoker,Moderate
+Pneumonia,0,50,1,0,105,16,39.5,94,2,1,69.1,6,Male,Never,Mild
+Pneumonia,0,35,1,0,126,24,38.2,95,3,2,68.3,6,Male,Never,Mild
+Pneumonia,0,53,0,0,87,26,38.2,92,3,2,74.6,6,Female,Never,Mild
+Pneumonia,0,72,1,2,87,27,37.5,95,3,2,71.8,2,Male,Current smoker,Mild
+Pneumonia,1,30,1,0,102,30,39.5,90,2,3,66.5,4,Male,Never,Moderate
+Pneumonia,2,44,1,1,105,27,39.1,90,2,3,72.8,9,Male,Ex-smoker,Severe
+Pneumonia,1,44,1,2,121,32,38.3,89,2,3,64.1,13,Male,Current smoker,Moderate
+Pneumonia,1,47,1,2,105,31,39.4,89,2,3,71.6,8,Male,Current smoker,Moderate
+Pneumonia,1,48,1,0,94,24,38.9,92,2,2,66.3,6,Male,Never,Moderate
+Pneumonia,1,39,1,0,115,25,39.9,95,2,2,89.8,7,Male,Never,Moderate
+Pneumonia,1,26,1,0,124,25,39.2,93,3,3,83.5,9,Male,Never,Moderate
+Pneumonia,2,71,0,0,85,35,38.4,91,2,3,75.7,5,Female,Never,Severe
+Pneumonia,2,63,0,0,130,31,39.4,89,2,3,69.1,6,Female,Never,Severe
+Pneumonia,2,67,1,2,117,31,39.3,90,2,3,72.4,4,Male,Current smoker,Severe
+Pneumonia,0,60,0,1,97,24,37.7,92,0,2,78.0,2,Female,Ex-smoker,Mild
+Pneumonia,1,59,1,2,118,28,39.7,90,2,3,78.8,2,Male,Current smoker,Moderate
+Pneumonia,2,53,0,0,105,35,39.2,87,2,3,71.3,11,Female,Never,Severe
+Pneumonia,1,61,1,2,99,30,37.7,88,1,3,72.2,4,Male,Current smoker,Moderate
+Pneumonia,1,45,0,2,93,20,38.5,93,2,3,67.8,3,Female,Current smoker,Moderate
+Pneumonia,1,47,1,0,105,28,38.1,91,3,3,72.5,2,Male,Never,Moderate
+Pneumonia,2,55,1,0,111,36,39.0,93,3,3,74.3,13,Male,Never,Severe
+Pneumonia,2,76,1,2,100,29,39.1,86,3,3,80.0,3,Male,Current smoker,Severe
+Pneumonia,1,58,0,2,117,28,39.7,95,3,0,83.8,6,Female,Current smoker,Moderate
+Pneumonia,2,75,1,1,109,25,38.8,90,2,3,77.2,5,Male,Ex-smoker,Severe
+Pneumonia,0,76,0,1,101,22,38.9,91,2,3,81.8,5,Female,Ex-smoker,Mild
+Pneumonia,1,74,1,0,100,28,38.2,90,2,3,74.6,12,Male,Never,Moderate
+Pneumonia,1,32,0,0,107,19,39.2,92,3,2,82.5,6,Female,Never,Moderate
+Pneumonia,1,45,0,1,107,25,38.3,94,3,1,74.1,4,Female,Ex-smoker,Moderate
+Pneumonia,1,52,0,0,108,24,38.0,94,2,3,77.9,6,Female,Never,Moderate
+Pneumonia,1,52,0,1,116,27,38.7,92,2,2,65.9,3,Female,Ex-smoker,Moderate
+Pneumonia,0,41,0,1,107,24,38.1,97,1,2,75.6,8,Female,Ex-smoker,Mild
+Pneumonia,2,81,1,0,97,32,38.6,88,3,2,80.5,2,Male,Never,Severe
+Pneumonia,1,45,0,0,94,25,38.2,92,0,2,73.5,3,Female,Never,Moderate
+Pneumonia,2,48,1,2,101,28,38.1,90,3,3,75.2,8,Male,Current smoker,Severe
+Pneumonia,0,62,1,2,111,22,37.3,93,2,0,70.1,6,Male,Current smoker,Mild
+Pneumonia,1,75,0,0,120,30,39.1,91,2,3,85.2,5,Female,Never,Moderate
+Pneumonia,1,37,0,1,120,25,39.2,93,2,2,80.0,3,Female,Ex-smoker,Moderate
+Pneumonia,0,70,0,1,106,28,37.5,95,1,3,80.5,11,Female,Ex-smoker,Mild
+Pneumonia,1,25,1,1,87,31,38.7,88,3,3,82.5,5,Male,Ex-smoker,Moderate
+Pneumonia,1,62,0,2,119,26,39.6,94,3,1,76.6,4,Female,Current smoker,Moderate
+Pneumonia,2,54,1,1,105,25,39.3,96,3,2,75.9,16,Male,Ex-smoker,Severe
+Pneumonia,2,48,1,0,111,26,38.7,89,3,3,78.7,4,Male,Never,Severe
+Pneumonia,1,51,0,2,89,27,38.7,93,3,3,71.3,5,Female,Current smoker,Moderate
+Pneumonia,2,57,1,2,112,28,39.2,92,2,3,80.7,6,Male,Current smoker,Severe
+Pneumonia,1,55,0,2,114,26,37.9,90,2,3,79.3,8,Female,Current smoker,Moderate
+Pneumonia,1,25,1,0,106,25,39.3,87,2,3,74.1,6,Male,Never,Moderate
+Pneumonia,0,66,0,1,80,21,38.7,91,2,3,67.4,1,Female,Ex-smoker,Mild
+Pneumonia,2,83,0,1,109,27,38.3,90,3,3,72.6,5,Female,Ex-smoker,Severe
+Pneumonia,0,66,1,1,87,24,38.9,91,1,3,82.4,8,Male,Ex-smoker,Mild
+Pneumonia,1,52,0,2,112,33,38.7,95,2,3,70.4,10,Female,Current smoker,Moderate
+Pneumonia,1,32,1,2,111,24,38.1,90,2,3,75.2,6,Male,Current smoker,Moderate
+Pneumonia,1,50,1,1,90,28,38.7,94,2,1,74.3,3,Male,Ex-smoker,Moderate
+Pneumonia,1,67,0,1,108,26,38.8,92,3,1,82.3,7,Female,Ex-smoker,Moderate
+Pneumonia,1,63,1,0,115,28,39.2,93,2,2,78.8,8,Male,Never,Moderate
+Pneumonia,2,47,1,2,100,30,38.7,93,2,3,66.0,6,Male,Current smoker,Severe
+Pneumonia,0,82,1,1,112,30,38.3,91,2,2,73.5,7,Male,Ex-smoker,Mild
+Pneumonia,0,52,1,2,104,26,38.5,87,3,3,73.4,4,Male,Current smoker,Mild
+Pneumonia,2,55,0,1,115,28,39.4,88,2,3,86.4,11,Female,Ex-smoker,Severe
+Pneumonia,1,35,0,2,97,24,38.7,93,3,3,81.5,10,Female,Current smoker,Moderate
+Pneumonia,1,71,1,1,93,29,38.9,90,3,3,83.7,9,Male,Ex-smoker,Moderate
+Pneumonia,2,63,1,2,106,22,39.6,95,2,3,81.4,4,Male,Current smoker,Severe
+Pneumonia,1,33,0,1,97,18,38.9,92,0,2,84.9,2,Female,Ex-smoker,Moderate
+Pneumonia,1,45,1,2,89,30,38.8,88,0,3,74.3,3,Male,Current smoker,Moderate
+Pneumonia,1,52,0,0,118,26,39.6,89,2,3,70.6,7,Female,Never,Moderate
+Pneumonia,1,44,0,0,104,36,37.6,90,1,2,75.5,3,Female,Never,Moderate
+Pneumonia,1,29,0,0,96,25,37.8,92,2,2,82.3,7,Female,Never,Moderate
+Pneumonia,0,34,0,0,112,25,37.9,94,2,1,83.8,7,Female,Never,Mild
+Pneumonia,1,58,0,2,120,34,38.2,89,2,3,73.9,8,Female,Current smoker,Moderate
+Pneumonia,1,71,0,0,109,26,38.6,93,2,2,84.1,8,Female,Never,Moderate
+Pneumonia,1,48,0,2,84,28,38.0,91,1,2,83.9,10,Female,Current smoker,Moderate
+Pneumonia,1,53,1,0,108,26,38.5,96,1,2,74.2,9,Male,Never,Moderate
+Pneumonia,0,32,1,0,126,26,38.5,97,2,1,80.6,6,Male,Never,Mild
+Pneumonia,1,64,1,2,99,29,38.7,89,2,3,87.3,5,Male,Current smoker,Moderate
+Pneumonia,0,40,0,0,97,32,38.2,89,2,3,75.2,2,Female,Never,Mild
+Pneumonia,0,54,1,0,106,29,39.0,88,2,3,84.1,4,Male,Never,Mild
+Pneumonia,0,36,0,1,92,19,38.5,93,3,2,71.1,7,Female,Ex-smoker,Mild
+Pneumonia,0,49,1,1,102,26,38.3,91,2,2,71.0,3,Male,Ex-smoker,Mild
+Pneumonia,0,57,1,2,95,31,38.4,88,1,3,73.1,11,Male,Current smoker,Mild
+Pneumonia,1,63,1,0,115,32,39.2,94,3,2,84.2,2,Male,Never,Moderate
+Pneumonia,0,42,1,0,96,26,37.0,91,1,2,86.6,6,Male,Never,Mild
+Pneumonia,0,68,1,0,79,18,37.7,92,3,3,82.5,1,Male,Never,Mild
+Pneumonia,1,44,0,1,113,30,38.0,90,2,2,80.0,10,Female,Ex-smoker,Moderate
+Pneumonia,0,32,1,0,103,26,38.0,90,2,3,78.7,2,Male,Never,Mild
+Pneumonia,0,58,1,0,94,23,37.8,95,0,1,69.9,13,Male,Never,Mild
+Pneumonia,0,21,0,0,90,27,37.9,94,3,2,77.6,7,Female,Never,Mild
+Pneumonia,2,53,0,0,119,35,38.6,85,2,3,82.4,13,Female,Never,Severe
+Pneumonia,1,47,0,2,109,20,38.8,91,3,3,78.4,4,Female,Current smoker,Moderate
+Pneumonia,1,55,1,2,86,28,37.7,90,2,3,77.3,4,Male,Current smoker,Moderate
+Pneumonia,0,35,0,1,119,18,38.9,95,3,3,81.2,6,Female,Ex-smoker,Mild
+Pneumonia,2,46,1,0,108,19,38.2,92,3,3,76.6,11,Male,Never,Severe
+Pneumonia,1,46,1,2,100,36,38.4,90,2,3,79.0,5,Male,Current smoker,Moderate
+Pneumonia,0,65,0,2,125,31,38.4,91,1,3,87.7,10,Female,Current smoker,Mild
+Pneumonia,1,65,1,2,113,20,39.4,94,2,1,78.3,6,Male,Current smoker,Moderate
+Pneumonia,1,25,1,2,93,25,37.7,91,2,3,72.2,3,Male,Current smoker,Moderate
+Pneumonia,1,66,1,1,100,26,38.5,93,2,2,80.2,14,Male,Ex-smoker,Moderate
+Pneumonia,0,47,1,0,108,31,37.3,89,3,3,79.3,4,Male,Never,Mild
+Pneumonia,1,74,0,1,120,25,38.7,94,3,1,74.3,12,Female,Ex-smoker,Moderate
+Pneumonia,0,42,0,0,104,31,38.4,90,2,3,74.4,7,Female,Never,Mild
+Pneumonia,2,52,0,1,119,29,39.4,90,3,3,78.0,7,Female,Ex-smoker,Severe
+Pneumonia,0,83,1,1,101,16,38.2,93,2,3,75.1,5,Male,Ex-smoker,Mild
+Pneumonia,0,43,1,0,97,31,38.5,88,2,3,80.5,8,Male,Never,Mild
+Pneumonia,2,63,0,2,94,33,38.5,92,3,3,80.6,2,Female,Current smoker,Severe
+Pneumonia,2,43,0,0,119,30,40.0,89,2,3,83.0,10,Female,Never,Severe
+Pneumonia,1,53,0,2,90,29,38.3,85,1,3,74.2,4,Female,Current smoker,Moderate
+Pneumonia,0,36,0,0,106,29,38.7,90,0,3,76.4,3,Female,Never,Mild
+Pneumonia,1,53,0,0,125,31,38.2,89,2,3,74.4,1,Female,Never,Moderate
+Pneumonia,0,61,1,0,89,25,37.9,93,1,2,77.1,5,Male,Never,Mild
+Pneumonia,1,31,1,0,115,24,39.0,93,2,1,73.0,4,Male,Never,Moderate
+Pneumonia,1,39,1,0,79,28,38.8,94,3,3,85.0,5,Male,Never,Moderate
+Pneumonia,1,37,0,1,101,28,38.2,90,0,2,75.8,3,Female,Ex-smoker,Moderate
+Pneumonia,2,38,0,0,93,33,38.8,91,3,3,63.5,6,Female,Never,Severe
+Pneumonia,2,46,0,2,110,31,39.2,88,3,3,72.9,4,Female,Current smoker,Severe
+Pneumonia,1,40,1,1,105,22,38.3,91,2,3,82.6,4,Male,Ex-smoker,Moderate
+Pneumonia,0,41,0,2,100,30,37.6,92,2,2,82.1,10,Female,Current smoker,Mild
+Pneumonia,1,75,1,0,101,23,38.4,91,2,1,72.7,6,Male,Never,Moderate
+Pneumonia,2,33,0,0,128,26,38.6,89,3,2,78.6,12,Female,Never,Severe
+Pneumonia,0,52,0,1,100,32,38.5,90,1,3,72.0,2,Female,Ex-smoker,Mild
+Pneumonia,0,26,0,0,82,28,38.2,90,3,3,69.2,6,Female,Never,Mild
+Pneumonia,0,24,1,0,117,25,39.4,94,2,2,70.0,10,Male,Never,Mild
+Pneumonia,1,57,0,1,115,28,38.4,95,1,3,72.9,5,Female,Ex-smoker,Moderate
+Pneumonia,0,64,1,0,99,27,37.9,95,2,1,71.1,8,Male,Never,Mild
+Pneumonia,2,39,1,1,101,21,38.4,91,3,3,82.4,8,Male,Ex-smoker,Severe
+Pneumonia,2,37,1,2,104,28,38.4,91,3,3,74.9,4,Male,Current smoker,Severe
+Pneumonia,2,31,1,0,114,27,39.2,94,3,2,73.1,3,Male,Never,Severe
+Pneumonia,0,68,0,0,99,20,38.8,94,3,3,72.4,8,Female,Never,Mild
+Pneumonia,1,51,1,0,116,27,39.1,86,1,3,74.7,8,Male,Never,Moderate
+Pneumonia,1,44,0,0,94,32,38.9,92,3,3,75.7,1,Female,Never,Moderate
+Pneumonia,0,32,0,2,106,21,38.8,94,3,3,78.7,2,Female,Current smoker,Mild
+Pneumonia,1,77,0,0,112,29,38.1,90,2,3,78.5,5,Female,Never,Moderate
+Pneumonia,2,73,0,0,108,28,39.0,89,3,3,73.5,2,Female,Never,Severe
+Pneumonia,2,45,1,0,110,31,39.1,90,3,3,86.1,7,Male,Never,Severe
+Pneumonia,1,54,0,2,112,27,39.3,93,1,3,78.3,3,Female,Current smoker,Moderate
+Pneumonia,1,60,1,0,107,28,38.9,86,2,3,73.9,10,Male,Never,Moderate
+Pneumonia,1,66,1,2,114,28,39.3,88,1,3,78.6,3,Male,Current smoker,Moderate
+Pneumonia,2,24,1,0,105,31,39.5,88,3,3,83.1,20,Male,Never,Severe
+Pneumonia,0,37,1,0,97,27,38.3,90,2,3,75.1,2,Male,Never,Mild
+Pneumonia,0,67,0,2,88,31,38.2,90,2,3,76.8,1,Female,Current smoker,Mild
+Pneumonia,1,67,1,0,110,31,39.3,88,3,3,67.6,2,Male,Never,Moderate
+Pneumonia,1,70,0,1,122,19,38.6,92,0,2,67.7,3,Female,Ex-smoker,Moderate
+Pneumonia,0,55,0,0,106,23,37.6,92,1,2,76.8,5,Female,Never,Mild
+Pneumonia,0,50,1,2,117,24,39.0,91,1,2,84.2,7,Male,Current smoker,Mild
+Pneumonia,2,70,1,2,109,28,39.2,90,2,3,78.8,2,Male,Current smoker,Severe
+Pneumonia,0,72,1,2,107,27,38.4,94,2,2,79.0,7,Male,Current smoker,Mild
+Pneumonia,2,48,0,1,89,27,38.7,95,3,3,86.0,5,Female,Ex-smoker,Severe
+Pneumonia,0,68,0,0,105,29,38.4,89,2,3,77.2,8,Female,Never,Mild
+Pneumonia,1,70,1,0,84,22,38.5,91,2,3,75.8,4,Male,Never,Moderate
+Pneumonia,1,45,1,2,84,29,37.5,91,2,3,78.0,3,Male,Current smoker,Moderate
+Pneumonia,2,72,0,1,94,32,38.7,92,3,3,76.4,6,Female,Ex-smoker,Severe
+Pneumonia,2,29,1,0,112,30,38.7,92,3,3,79.7,3,Male,Never,Severe
+Pneumonia,1,67,1,0,106,24,37.4,93,1,2,73.2,5,Male,Never,Moderate
+Pneumonia,1,58,0,0,100,20,38.5,92,3,1,88.8,1,Female,Never,Moderate
+Pneumonia,0,63,0,1,88,23,38.2,91,2,2,85.7,3,Female,Ex-smoker,Mild
+Pneumonia,1,37,1,0,118,25,39.5,92,2,2,74.8,5,Male,Never,Moderate
+Pneumonia,0,58,0,2,109,26,39.1,96,2,2,74.4,5,Female,Current smoker,Mild
+Pneumonia,0,52,1,2,96,22,38.0,98,2,2,62.8,13,Male,Current smoker,Mild
+Pneumonia,0,45,1,2,89,23,38.2,95,1,2,71.6,8,Male,Current smoker,Mild
+Pneumonia,0,21,0,1,96,21,38.6,93,1,3,79.7,5,Female,Ex-smoker,Mild
+Pneumonia,0,65,0,0,106,26,38.7,93,2,3,72.9,2,Female,Never,Mild
+Pneumonia,2,62,1,0,93,28,38.5,90,2,3,81.9,3,Male,Never,Severe
+Pneumonia,1,63,1,0,115,28,38.8,93,3,3,72.2,10,Male,Never,Moderate
+Pneumonia,1,67,1,2,117,28,38.5,94,2,0,75.6,4,Male,Current smoker,Moderate
+Pneumonia,0,65,1,2,81,27,38.1,89,1,3,89.0,14,Male,Current smoker,Mild
+Pneumonia,0,65,0,1,114,24,38.3,93,2,1,76.3,12,Female,Ex-smoker,Mild
+Pneumonia,2,54,1,1,102,31,38.8,88,3,3,72.0,12,Male,Ex-smoker,Severe
+Pneumonia,0,41,1,2,93,31,38.1,88,2,3,83.8,8,Male,Current smoker,Mild
+Pneumonia,0,48,1,0,129,32,38.4,90,1,3,78.2,9,Male,Never,Mild
+Pneumonia,1,68,1,2,101,27,40.0,89,3,3,82.7,7,Male,Current smoker,Moderate
+Pneumonia,1,84,0,0,101,28,39.0,89,2,3,76.8,9,Female,Never,Moderate
+Pneumonia,0,24,1,1,115,22,37.8,92,2,2,82.0,10,Male,Ex-smoker,Mild
+Pneumonia,0,68,0,0,102,18,38.7,92,2,3,73.7,13,Female,Never,Mild
+Pneumonia,2,44,0,2,121,27,38.9,89,3,3,79.5,8,Female,Current smoker,Severe
+Pneumonia,0,48,1,2,90,19,38.7,94,3,1,80.2,5,Male,Current smoker,Mild
+Pneumonia,0,64,1,0,82,30,37.7,89,2,3,74.3,8,Male,Never,Mild
+Pneumonia,1,50,1,0,110,22,38.2,93,3,2,79.2,3,Male,Never,Moderate
+Pneumonia,1,71,1,2,102,26,38.5,93,2,1,70.7,4,Male,Current smoker,Moderate
+Pneumonia,0,23,1,1,97,21,38.2,94,0,3,79.4,3,Male,Ex-smoker,Mild
+Pneumonia,2,59,0,2,103,27,38.8,91,3,3,71.6,4,Female,Current smoker,Severe
+Pneumonia,0,84,0,0,83,24,37.9,93,2,2,83.1,2,Female,Never,Mild
+Pneumonia,1,65,0,0,107,32,39.2,86,2,3,79.0,9,Female,Never,Moderate
+Pneumonia,0,27,1,1,102,22,38.4,91,3,2,73.4,1,Male,Ex-smoker,Mild
+Pneumonia,0,36,1,1,115,25,38.6,92,3,2,82.4,8,Male,Ex-smoker,Mild
+Pneumonia,1,22,0,0,89,29,38.2,91,3,2,68.1,3,Female,Never,Moderate
+Pneumonia,2,75,1,1,109,24,39.5,92,3,2,81.0,6,Male,Ex-smoker,Severe
+Pneumonia,2,43,1,0,111,32,39.5,89,2,3,73.4,15,Male,Never,Severe
+Pneumonia,1,69,1,2,110,26,39.3,90,1,3,73.1,1,Male,Current smoker,Moderate
+Pneumonia,1,43,1,0,105,26,38.5,90,3,3,83.0,2,Male,Never,Moderate
+Pneumonia,2,71,1,1,119,32,39.4,90,3,3,64.3,2,Male,Ex-smoker,Severe
+Pneumonia,1,57,0,0,96,19,38.7,92,2,2,89.9,3,Female,Never,Moderate
+Pneumonia,1,70,1,2,112,32,38.3,88,2,3,69.4,5,Male,Current smoker,Moderate
+Pneumonia,1,42,0,0,93,31,38.6,90,2,2,84.4,4,Female,Never,Moderate
+Pneumonia,0,64,0,0,104,21,38.4,95,2,0,78.3,3,Female,Never,Mild
+Pneumonia,2,43,0,1,116,29,40.1,88,3,3,80.0,11,Female,Ex-smoker,Severe
+Pneumonia,2,54,1,1,113,29,39.1,90,3,3,79.3,5,Male,Ex-smoker,Severe
+Pneumonia,1,67,1,1,111,26,38.7,92,2,3,75.9,5,Male,Ex-smoker,Moderate
+Pneumonia,1,58,1,2,103,19,38.0,95,1,1,72.6,3,Male,Current smoker,Moderate
+Pneumonia,0,58,1,2,105,28,37.7,89,2,3,78.1,3,Male,Current smoker,Mild
+Pneumonia,1,64,0,0,107,35,39.0,90,1,3,79.1,6,Female,Never,Moderate
+Pneumonia,1,44,0,1,109,26,38.6,91,1,3,80.6,4,Female,Ex-smoker,Moderate
+Pneumonia,1,63,0,0,102,33,39.0,87,3,3,70.8,13,Female,Never,Moderate
+Pneumonia,1,46,1,1,112,30,39.3,90,3,3,66.9,5,Male,Ex-smoker,Moderate
+Pneumonia,1,60,1,1,115,27,39.7,89,3,2,76.1,3,Male,Ex-smoker,Moderate
+Pneumonia,1,64,1,2,111,31,39.1,88,0,3,80.2,10,Male,Current smoker,Moderate
+Pneumonia,1,74,1,0,119,26,39.0,93,2,1,84.6,7,Male,Never,Moderate
+Pneumonia,1,50,1,0,123,28,39.0,92,3,2,73.6,6,Male,Never,Moderate
+Pneumonia,0,30,1,0,89,20,37.8,91,2,3,70.2,3,Male,Never,Mild
+Pneumonia,0,41,0,0,100,25,37.9,90,2,3,77.2,1,Female,Never,Mild
+Pneumonia,1,22,1,0,95,21,38.8,93,2,3,71.9,5,Male,Never,Moderate
+Pneumonia,0,64,1,2,92,29,38.6,90,3,3,78.7,2,Male,Current smoker,Mild
+Pneumonia,0,29,1,1,112,26,38.6,91,2,2,72.0,9,Male,Ex-smoker,Mild
+Pneumonia,1,48,1,2,88,28,37.8,90,2,3,83.1,6,Male,Current smoker,Moderate
+Pneumonia,0,36,1,0,117,21,38.8,92,1,3,84.0,6,Male,Never,Mild
+Pneumonia,0,61,1,2,114,19,38.0,98,1,3,80.4,3,Male,Current smoker,Mild
+Pneumonia,1,77,1,1,126,32,39.7,89,3,3,82.0,6,Male,Ex-smoker,Moderate
+Pneumonia,1,48,1,0,101,29,38.4,87,2,3,74.7,4,Male,Never,Moderate
+Pneumonia,0,52,0,2,114,24,39.3,92,2,1,77.6,6,Female,Current smoker,Mild
+Pneumonia,0,33,1,2,93,25,38.8,95,3,1,80.5,6,Male,Current smoker,Mild
+Pneumonia,1,64,1,1,130,26,39.1,93,2,2,87.2,3,Male,Ex-smoker,Moderate
+Pneumonia,1,53,1,0,93,26,38.1,95,2,3,75.7,8,Male,Never,Moderate
+Pneumonia,1,35,0,2,92,25,37.9,93,3,2,81.5,8,Female,Current smoker,Moderate
+Pneumonia,2,66,1,2,120,31,39.0,89,3,3,67.0,5,Male,Current smoker,Severe
+Pneumonia,1,82,1,2,86,24,38.5,92,2,2,79.8,11,Male,Current smoker,Moderate
+Pneumonia,0,28,1,1,108,21,39.0,91,1,3,73.9,4,Male,Ex-smoker,Mild
+Pneumonia,1,26,1,1,109,24,38.9,90,3,3,74.7,12,Male,Ex-smoker,Moderate
+Pneumonia,2,51,1,1,123,35,39.0,91,3,3,83.2,14,Male,Ex-smoker,Severe
+Pneumonia,0,43,1,1,122,19,39.6,93,3,2,84.5,7,Male,Ex-smoker,Mild
+Pneumonia,1,24,1,0,98,32,37.9,87,2,3,72.7,7,Male,Never,Moderate
+Pneumonia,1,56,0,2,120,31,38.1,91,2,3,82.5,6,Female,Current smoker,Moderate
+Pneumonia,0,70,1,0,121,31,38.4,94,2,2,71.6,3,Male,Never,Mild
+Pneumonia,0,45,0,1,119,31,38.7,89,2,3,85.6,21,Female,Ex-smoker,Mild
+Pneumonia,1,20,1,0,107,28,38.2,89,1,3,71.3,1,Male,Never,Moderate
+Pneumonia,2,42,0,1,100,30,38.9,89,2,3,74.6,15,Female,Ex-smoker,Severe
+Pneumonia,0,69,0,0,112,28,39.3,94,0,1,68.6,5,Female,Never,Mild
+Pneumonia,1,68,1,1,99,33,38.8,92,3,1,68.3,2,Male,Ex-smoker,Moderate
+Pneumonia,2,78,0,1,115,25,39.6,85,2,3,73.0,11,Female,Ex-smoker,Severe
+Pneumonia,2,41,0,0,96,29,38.8,92,3,3,77.8,3,Female,Never,Severe
+Pneumonia,1,64,0,0,118,27,39.1,91,3,3,64.3,9,Female,Never,Moderate
+Pneumonia,1,50,1,0,86,18,38.9,92,3,2,72.4,7,Male,Never,Moderate
+Pneumonia,0,59,1,2,94,21,38.4,92,3,3,69.0,3,Male,Current smoker,Mild
+Pneumonia,1,64,1,0,90,31,37.5,90,1,3,78.0,5,Male,Never,Moderate
+Pneumonia,1,62,1,0,113,24,40.0,90,2,3,77.1,5,Male,Never,Moderate
+Pneumonia,1,22,1,0,103,28,38.9,91,3,2,79.2,10,Male,Never,Moderate
+Pneumonia,0,57,1,0,99,22,38.9,95,1,3,70.9,4,Male,Never,Mild
+Pneumonia,1,46,0,2,105,25,39.0,89,3,3,72.7,2,Female,Current smoker,Moderate
+Pneumonia,1,77,0,1,112,28,39.0,95,3,3,86.9,5,Female,Ex-smoker,Moderate
+Pneumonia,2,32,1,0,104,25,39.9,91,3,3,72.0,6,Male,Never,Severe
+Pneumonia,1,44,1,2,107,22,38.8,93,0,2,76.5,6,Male,Current smoker,Moderate
+Pneumonia,1,36,0,0,106,31,39.2,89,3,3,73.0,2,Female,Never,Moderate
+Pneumonia,0,40,1,0,72,21,37.9,93,1,3,73.3,1,Male,Never,Mild
+Pneumonia,0,68,0,0,88,17,38.2,97,0,2,75.2,3,Female,Never,Mild
+Pneumonia,1,49,0,0,106,26,39.1,89,3,3,83.8,2,Female,Never,Moderate
+Pneumonia,1,47,0,1,124,24,39.1,90,1,3,87.2,4,Female,Ex-smoker,Moderate
+Pneumonia,1,36,1,1,104,23,38.0,94,3,3,75.5,16,Male,Ex-smoker,Moderate
+Pneumonia,1,26,1,0,107,25,38.3,89,1,3,83.5,6,Male,Never,Moderate
+Pneumonia,1,59,1,2,106,31,37.5,95,3,1,73.2,3,Male,Current smoker,Moderate
+Pneumonia,1,80,1,1,93,26,37.3,93,1,2,77.9,5,Male,Ex-smoker,Moderate
+Pneumonia,1,73,1,0,107,31,37.9,91,3,1,85.4,2,Male,Never,Moderate
+Pneumonia,2,47,0,0,97,32,37.8,91,2,3,71.6,4,Female,Never,Severe
+Pneumonia,0,56,0,0,113,23,39.2,94,3,1,79.4,11,Female,Never,Mild
+Pneumonia,1,80,1,0,113,28,39.0,89,2,3,79.4,11,Male,Never,Moderate
+Pneumonia,0,50,0,2,116,22,37.4,93,2,2,67.2,3,Female,Current smoker,Mild
+Pneumonia,2,31,1,2,116,19,39.2,93,3,3,76.1,9,Male,Current smoker,Severe
+Pneumonia,1,54,0,0,108,28,37.9,96,0,1,80.0,3,Female,Never,Moderate
+Pneumonia,1,23,1,0,109,18,38.1,93,3,2,87.2,6,Male,Never,Moderate
+Pneumonia,1,48,1,1,116,32,39.2,92,3,2,79.1,2,Male,Ex-smoker,Moderate
+Pneumonia,0,53,1,0,94,30,37.6,90,2,3,73.6,3,Male,Never,Mild
+Pneumonia,2,52,1,1,107,31,39.3,92,3,3,73.5,7,Male,Ex-smoker,Severe
+Pneumonia,2,40,1,1,98,33,37.9,90,3,3,83.2,3,Male,Ex-smoker,Severe
+Pneumonia,0,59,1,1,116,31,39.0,93,0,2,80.0,2,Male,Ex-smoker,Mild
+Pneumonia,1,50,1,1,101,33,38.4,89,3,3,82.2,2,Male,Ex-smoker,Moderate
+Pneumonia,0,62,1,2,100,18,38.5,91,2,3,74.8,3,Male,Current smoker,Mild
+Pneumonia,0,67,1,1,111,21,37.9,94,3,1,67.9,13,Male,Ex-smoker,Mild
+Pneumonia,1,53,0,1,91,26,38.6,92,1,1,72.0,4,Female,Ex-smoker,Moderate
+Pneumonia,1,39,0,0,118,30,39.0,86,3,3,70.6,4,Female,Never,Moderate
+Pneumonia,1,56,1,0,91,18,38.6,91,1,2,71.5,2,Male,Never,Moderate
+Pneumonia,1,51,0,2,107,31,38.8,90,3,3,78.7,6,Female,Current smoker,Moderate
+Pneumonia,0,34,0,0,88,24,38.3,91,3,3,72.2,3,Female,Never,Mild
+Pneumonia,2,67,1,0,120,30,38.7,89,3,3,68.8,7,Male,Never,Severe
+Pneumonia,0,40,1,1,86,27,38.6,93,3,2,85.2,3,Male,Ex-smoker,Mild
+Pneumonia,1,81,0,2,81,29,38.4,94,3,3,69.3,2,Female,Current smoker,Moderate
+Pneumonia,1,69,0,0,80,27,38.5,91,3,2,84.5,7,Female,Never,Moderate
+Pneumonia,0,44,1,0,96,24,37.7,96,2,2,79.4,6,Male,Never,Mild
+Pneumonia,1,48,0,2,96,25,38.1,95,2,0,74.1,5,Female,Current smoker,Moderate
+Pneumonia,0,62,0,2,96,22,38.1,93,2,0,85.0,2,Female,Current smoker,Mild
+Pneumonia,1,29,0,2,117,27,38.5,87,3,3,67.7,3,Female,Current smoker,Moderate
+Pneumonia,1,48,0,1,100,27,38.9,92,3,2,75.7,9,Female,Ex-smoker,Moderate
+Pneumonia,1,22,0,1,104,27,40.0,93,2,2,67.1,3,Female,Ex-smoker,Moderate
+Pneumonia,2,46,0,0,130,28,39.1,87,3,3,88.6,6,Female,Never,Severe
+Pneumonia,2,58,0,2,122,31,39.2,88,3,3,70.3,8,Female,Current smoker,Severe
+Pneumonia,0,78,1,0,87,24,38.8,89,2,2,66.4,3,Male,Never,Mild
+Pneumonia,0,70,0,1,107,19,38.6,95,2,3,68.8,11,Female,Ex-smoker,Mild
+Pneumonia,1,43,1,2,82,30,38.3,90,2,3,71.4,9,Male,Current smoker,Moderate
+Pneumonia,1,68,0,2,129,27,38.7,91,1,2,74.9,11,Female,Current smoker,Moderate
+Pneumonia,1,70,0,2,78,29,37.9,88,3,3,72.2,3,Female,Current smoker,Moderate
+Pneumonia,0,45,0,0,115,19,39.0,93,0,3,87.7,1,Female,Never,Mild
+Pneumonia,1,70,1,0,114,29,39.1,90,1,3,84.3,10,Male,Never,Moderate
+Pneumonia,1,68,0,0,111,28,38.3,87,1,3,75.4,3,Female,Never,Moderate
+Pneumonia,1,55,0,1,116,27,39.1,86,1,3,71.7,2,Female,Ex-smoker,Moderate
+Pneumonia,0,70,1,0,106,30,38.6,89,3,3,79.3,6,Male,Never,Mild
+Pneumonia,0,31,0,0,93,28,37.6,94,2,2,71.3,1,Female,Never,Mild
+Pneumonia,2,48,1,1,102,27,39.4,89,3,3,74.5,4,Male,Ex-smoker,Severe
+Pneumonia,0,51,1,1,94,28,37.8,88,3,3,75.2,5,Male,Ex-smoker,Mild
+Pneumonia,0,35,1,2,103,24,39.3,93,2,3,82.3,13,Male,Current smoker,Mild
+Pneumonia,2,79,0,0,106,33,39.2,96,3,3,83.1,9,Female,Never,Severe
+Pneumonia,1,58,1,1,102,22,38.5,91,3,3,72.1,5,Male,Ex-smoker,Moderate
+Pneumonia,1,52,1,0,100,29,38.6,90,3,3,81.9,4,Male,Never,Moderate
+Pneumonia,1,73,0,2,108,28,39.3,93,2,2,75.3,8,Female,Current smoker,Moderate
+Pneumonia,1,59,0,1,120,32,39.8,92,3,2,83.6,4,Female,Ex-smoker,Moderate
+Pneumonia,0,58,1,2,81,19,37.4,92,2,2,81.8,3,Male,Current smoker,Mild
+Pneumonia,2,54,1,0,124,32,39.8,89,2,3,89.3,4,Male,Never,Severe
+Pneumonia,2,66,0,1,76,29,38.4,95,2,3,80.5,4,Female,Ex-smoker,Severe
+Pneumonia,0,54,1,0,92,23,38.0,95,2,2,77.4,6,Male,Never,Mild
+Pneumonia,1,21,1,0,117,25,39.2,87,2,3,71.0,4,Male,Never,Moderate
+Pneumonia,2,58,0,1,120,19,38.3,91,3,3,88.9,5,Female,Ex-smoker,Severe
+Pneumonia,1,45,1,1,91,20,38.9,91,3,2,74.6,2,Male,Ex-smoker,Moderate
+Pneumonia,1,44,0,0,88,21,38.4,91,3,3,78.1,13,Female,Never,Moderate
+Pneumonia,2,63,1,0,115,36,39.0,92,3,3,80.0,8,Male,Never,Severe
+Pneumonia,1,45,1,0,81,24,37.9,87,1,3,69.4,4,Male,Never,Moderate
+Pneumonia,1,60,1,2,80,33,37.7,91,3,2,68.1,7,Male,Current smoker,Moderate
+Pneumonia,0,60,0,2,86,24,38.5,95,1,3,84.5,5,Female,Current smoker,Mild
+Pneumonia,0,41,1,2,92,27,37.7,90,1,3,83.0,2,Male,Current smoker,Mild
+Pneumonia,1,69,1,0,79,30,38.2,91,2,3,75.1,8,Male,Never,Moderate
+Pneumonia,1,34,0,0,112,28,39.3,88,2,3,81.5,3,Female,Never,Moderate
+Pneumonia,1,30,0,0,109,31,38.7,88,2,2,70.6,4,Female,Never,Moderate
+Pneumonia,0,34,0,1,116,26,39.5,89,0,3,71.8,2,Female,Ex-smoker,Mild
+Pneumonia,0,61,0,0,106,21,38.0,95,1,2,74.9,2,Female,Never,Mild
+Pneumonia,0,54,1,2,113,24,39.2,94,3,1,82.2,6,Male,Current smoker,Mild
+Pneumonia,0,73,1,1,87,29,37.8,90,3,3,83.0,5,Male,Ex-smoker,Mild
+Pneumonia,1,42,1,0,108,26,40.2,91,2,3,79.0,16,Male,Never,Moderate
+Pneumonia,2,39,0,2,96,29,38.4,89,3,3,81.5,10,Female,Current smoker,Severe
+Pneumonia,1,34,1,2,130,30,39.3,90,1,3,78.7,4,Male,Current smoker,Moderate
+Pneumonia,0,19,1,0,111,17,37.4,95,1,0,71.5,8,Male,Never,Mild
+Pneumonia,1,54,1,1,116,29,38.6,88,2,3,79.9,4,Male,Ex-smoker,Moderate
+Pneumonia,1,75,0,0,100,29,38.5,92,0,2,72.8,14,Female,Never,Moderate
+Pneumonia,1,64,0,2,103,28,39.2,89,2,3,84.1,6,Female,Current smoker,Moderate
+Pneumonia,1,60,0,0,101,28,39.2,91,2,2,65.2,9,Female,Never,Moderate
+Pneumonia,0,84,0,0,92,22,37.5,91,3,3,75.4,12,Female,Never,Mild
+Pneumonia,0,54,1,1,120,29,39.6,93,2,1,75.2,8,Male,Ex-smoker,Mild
+Pneumonia,1,55,1,2,78,29,38.5,90,2,3,79.6,6,Male,Current smoker,Moderate
+Pneumonia,1,25,1,1,89,22,38.6,91,3,3,79.4,1,Male,Ex-smoker,Moderate
+Pneumonia,0,44,0,0,104,25,38.5,92,2,0,69.3,2,Female,Never,Mild
+Pneumonia,0,18,1,0,102,22,38.9,93,2,1,70.5,14,Male,Never,Mild
+Pneumonia,1,65,1,1,100,30,39.2,92,1,0,79.9,6,Male,Ex-smoker,Moderate
+Pneumonia,2,42,1,1,103,28,38.6,91,3,2,85.9,11,Male,Ex-smoker,Severe
+Pneumonia,1,47,0,0,124,30,38.0,89,2,3,71.6,2,Female,Never,Moderate
+Pneumonia,1,34,0,0,114,30,38.1,90,1,3,86.6,3,Female,Never,Moderate
+Pneumonia,2,51,0,0,105,22,38.5,96,3,2,82.8,6,Female,Never,Severe
+Pneumonia,0,45,1,0,89,28,37.6,91,0,3,71.3,2,Male,Never,Mild
+Pneumonia,1,37,1,0,109,29,38.5,88,1,3,80.4,3,Male,Never,Moderate
+Pneumonia,2,57,1,0,124,31,38.1,89,3,3,76.3,2,Male,Never,Severe
+Pneumonia,1,63,1,2,110,23,39.3,93,1,3,77.5,4,Male,Current smoker,Moderate
+Pneumonia,2,38,0,1,112,31,37.6,90,2,3,77.0,4,Female,Ex-smoker,Severe
+Pneumonia,0,51,1,2,99,31,38.8,86,1,3,74.7,8,Male,Current smoker,Mild
+Pneumonia,0,62,0,1,106,21,37.7,91,3,2,77.0,3,Female,Ex-smoker,Mild
+Pneumonia,1,44,1,0,117,24,39.1,94,1,1,81.4,6,Male,Never,Moderate
+Pneumonia,1,69,0,2,120,29,39.0,90,0,3,67.2,5,Female,Current smoker,Moderate
+Pneumonia,1,23,0,2,122,30,37.8,95,3,3,84.7,1,Female,Current smoker,Moderate
+Pneumonia,0,58,0,2,117,26,38.8,90,1,3,74.5,5,Female,Current smoker,Mild
+Pneumonia,0,67,1,0,83,24,38.7,90,3,3,79.2,1,Male,Never,Mild
+Pneumonia,1,67,0,2,116,24,39.4,91,2,3,76.2,2,Female,Current smoker,Moderate
+Pneumonia,1,30,1,0,106,26,38.5,90,1,3,76.4,11,Male,Never,Moderate
+Pneumonia,1,63,0,0,106,25,38.3,92,2,3,62.8,8,Female,Never,Moderate
+Pneumonia,1,52,0,1,104,31,38.2,89,2,2,80.4,8,Female,Ex-smoker,Moderate
+Pneumonia,1,48,0,2,90,20,38.9,91,1,3,74.3,11,Female,Current smoker,Moderate
+Pneumonia,0,22,0,0,116,30,38.9,89,3,3,78.6,5,Female,Never,Mild
+Pneumonia,1,70,0,0,111,25,38.3,94,3,3,81.7,4,Female,Never,Moderate
+Pneumonia,1,25,0,1,101,22,39.0,93,2,1,74.5,3,Female,Ex-smoker,Moderate
+Pneumonia,0,43,0,1,97,28,38.8,95,3,3,74.4,9,Female,Ex-smoker,Mild
+Pneumonia,1,72,0,1,106,21,38.4,94,1,1,76.6,8,Female,Ex-smoker,Moderate
+Pneumonia,0,37,1,2,72,29,37.9,89,3,2,76.3,4,Male,Current smoker,Mild
+Pneumonia,2,68,0,0,98,24,38.9,91,3,3,78.7,8,Female,Never,Severe
+Pneumonia,2,64,0,0,110,29,38.8,89,3,3,78.3,3,Female,Never,Severe
+Pneumonia,1,19,1,0,119,31,40.0,94,0,2,72.9,8,Male,Never,Moderate
+Pneumonia,0,52,0,0,117,29,39.7,96,3,2,67.8,4,Female,Never,Mild
+Pneumonia,1,35,1,0,84,31,38.4,88,1,2,74.0,5,Male,Never,Moderate
+Pneumonia,1,35,1,2,111,25,37.5,89,2,3,75.2,7,Male,Current smoker,Moderate
+Pneumonia,2,55,0,0,107,30,39.1,89,3,3,77.5,12,Female,Never,Severe
+Pneumonia,1,62,0,0,96,24,37.9,97,2,3,72.4,15,Female,Never,Moderate
+Pneumonia,1,33,0,2,85,26,38.6,92,0,2,62.9,4,Female,Current smoker,Moderate
+Pneumonia,2,30,1,0,111,36,39.0,89,3,3,83.5,1,Male,Never,Severe
+Pneumonia,1,58,1,2,116,17,37.9,91,3,3,71.7,6,Male,Current smoker,Moderate
+Pneumonia,1,59,1,1,119,31,39.3,90,2,2,69.3,4,Male,Ex-smoker,Moderate
+Pneumonia,0,79,1,1,102,26,38.3,91,2,3,84.3,7,Male,Ex-smoker,Mild
+Pneumonia,1,50,1,2,111,30,38.4,90,2,3,73.0,10,Male,Current smoker,Moderate
+Pneumonia,2,58,1,1,110,31,39.9,85,3,3,75.7,6,Male,Ex-smoker,Severe
+Pneumonia,1,48,0,2,115,25,39.1,90,1,3,86.9,13,Female,Current smoker,Moderate
+Pneumonia,0,36,1,0,95,21,38.5,91,2,2,76.0,3,Male,Never,Mild
+Pneumonia,1,56,0,2,97,29,38.9,90,1,3,79.5,6,Female,Current smoker,Moderate
+Pneumonia,2,47,1,0,107,32,38.8,90,3,3,83.4,3,Male,Never,Severe
+Pneumonia,0,65,1,1,83,29,38.5,90,2,3,79.0,6,Male,Ex-smoker,Mild
+Pneumonia,1,33,1,2,93,31,38.8,92,1,3,76.6,5,Male,Current smoker,Moderate
+Pneumonia,0,50,1,0,103,25,38.8,93,0,2,83.4,7,Male,Never,Mild
+Pneumonia,0,41,1,0,95,28,37.8,91,3,3,81.8,5,Male,Never,Mild
+Pneumonia,0,37,1,0,99,26,37.8,93,1,2,74.4,9,Male,Never,Mild
+Pneumonia,2,30,1,2,116,28,38.9,91,3,2,76.1,3,Male,Current smoker,Severe
+Pneumonia,0,58,1,0,119,22,38.7,91,2,3,73.4,12,Male,Never,Mild
+Pneumonia,1,78,0,2,101,30,38.1,91,2,3,73.0,6,Female,Current smoker,Moderate
+Pneumonia,1,39,0,0,121,32,38.5,90,2,3,89.7,5,Female,Never,Moderate
+Pneumonia,1,69,1,2,106,24,37.9,88,2,2,80.7,12,Male,Current smoker,Moderate
+Pneumonia,0,45,0,2,93,30,37.1,87,0,3,75.0,4,Female,Current smoker,Mild
+Pneumonia,0,76,0,2,97,26,38.8,93,3,1,81.8,6,Female,Current smoker,Mild
+Pneumonia,2,64,0,1,124,30,39.6,91,3,2,67.2,9,Female,Ex-smoker,Severe
+Pneumonia,1,76,1,2,79,27,38.2,90,3,3,84.8,4,Male,Current smoker,Moderate
+Pneumonia,1,56,0,2,116,27,39.0,89,3,3,79.1,6,Female,Current smoker,Moderate
+Pneumonia,2,45,1,0,119,28,38.6,92,3,3,72.7,10,Male,Never,Severe
+Pneumonia,1,63,0,0,90,29,38.2,89,3,3,69.9,4,Female,Never,Moderate
+Pneumonia,1,53,1,1,106,30,38.6,89,1,3,73.3,3,Male,Ex-smoker,Moderate
+Pneumonia,0,53,0,1,83,18,38.2,91,2,3,76.5,2,Female,Ex-smoker,Mild
+Pneumonia,1,62,1,1,106,33,39.2,93,2,2,77.7,7,Male,Ex-smoker,Moderate
+Pneumonia,0,26,1,2,88,28,38.2,88,2,3,84.4,7,Male,Current smoker,Mild
+Pneumonia,1,50,1,0,86,26,38.0,91,2,3,74.8,7,Male,Never,Moderate
+Pneumonia,0,51,0,1,83,31,38.1,89,2,2,75.9,5,Female,Ex-smoker,Mild
+Pneumonia,1,41,0,2,87,18,38.4,91,3,3,79.4,3,Female,Current smoker,Moderate
+Pneumonia,1,51,0,0,118,23,39.2,94,1,3,71.1,8,Female,Never,Moderate
+Pneumonia,1,55,0,1,88,25,38.5,93,2,0,71.6,8,Female,Ex-smoker,Moderate
+Pneumonia,2,79,0,0,107,29,38.8,94,3,2,68.4,5,Female,Never,Severe
+Pneumonia,0,67,0,0,103,24,38.6,91,3,2,69.5,5,Female,Never,Mild
+Pneumonia,2,44,0,0,113,31,39.0,88,3,3,81.1,1,Female,Never,Severe
+Pneumonia,1,64,1,0,92,31,37.4,89,1,3,68.1,3,Male,Never,Moderate
+Pneumonia,2,63,0,1,116,25,39.1,94,2,3,77.9,9,Female,Ex-smoker,Severe
+Pneumonia,1,52,1,1,100,28,38.6,93,3,2,76.2,2,Male,Ex-smoker,Moderate
+Pneumonia,1,62,1,0,96,25,38.9,95,3,3,83.7,9,Male,Never,Moderate
+Pneumonia,2,70,0,1,119,24,39.5,87,3,3,73.9,4,Female,Ex-smoker,Severe
+Pneumonia,2,68,1,2,108,34,38.7,89,3,3,82.0,6,Male,Current smoker,Severe
+Pneumonia,1,43,1,1,82,28,37.5,87,2,3,71.0,18,Male,Ex-smoker,Moderate
+Pneumonia,2,37,0,0,107,32,39.1,89,3,3,74.5,9,Female,Never,Severe
+Pneumonia,2,49,0,1,106,28,39.2,93,3,3,78.8,6,Female,Ex-smoker,Severe
+Pneumonia,1,69,0,2,92,29,38.6,90,1,3,80.2,7,Female,Current smoker,Moderate
+Pneumonia,2,25,1,0,111,30,38.7,96,3,2,82.1,6,Male,Never,Severe
+Pneumonia,0,36,1,0,100,23,38.8,92,1,3,69.1,6,Male,Never,Mild
+Pneumonia,1,52,1,0,91,29,38.7,95,2,2,68.4,6,Male,Never,Moderate
+Pneumonia,2,80,0,0,128,36,37.8,91,2,3,69.1,2,Female,Never,Severe
+Pneumonia,0,66,0,1,95,26,38.3,90,2,3,72.2,7,Female,Ex-smoker,Mild
+Pneumonia,0,56,0,1,117,23,38.6,92,2,3,82.1,6,Female,Ex-smoker,Mild
+Pneumonia,1,43,0,0,93,27,38.4,93,2,3,84.9,5,Female,Never,Moderate
+Pneumonia,1,67,1,1,112,26,39.2,93,3,3,67.1,7,Male,Ex-smoker,Moderate
+Pneumonia,1,59,1,0,119,22,39.5,94,2,3,83.9,7,Male,Never,Moderate
+Pneumonia,1,54,1,2,99,28,38.9,94,2,1,72.6,1,Male,Current smoker,Moderate
+Pneumonia,0,46,1,0,109,20,37.8,92,3,2,79.3,7,Male,Never,Mild
+Pneumonia,1,58,0,0,124,31,38.9,91,2,3,77.2,7,Female,Never,Moderate
+Pneumonia,0,58,0,1,73,30,37.6,90,3,2,71.2,3,Female,Ex-smoker,Mild
+Pneumonia,0,40,1,1,115,20,39.9,94,3,0,67.9,2,Male,Ex-smoker,Mild
+Pneumonia,1,36,1,0,99,28,38.0,88,2,2,73.0,9,Male,Never,Moderate
+Pneumonia,0,26,1,1,78,28,38.5,88,2,3,70.8,1,Male,Ex-smoker,Mild
+Pneumonia,2,39,1,1,114,30,39.4,93,3,3,84.7,4,Male,Ex-smoker,Severe
+Pneumonia,1,58,1,0,114,31,38.6,90,2,3,76.6,1,Male,Never,Moderate
+Pneumonia,1,45,1,0,108,25,39.4,89,3,3,77.3,3,Male,Never,Moderate
+Pneumonia,1,50,1,1,103,26,39.9,91,2,3,72.0,9,Male,Ex-smoker,Moderate
+Pneumonia,1,80,1,1,110,29,38.9,96,0,0,68.8,14,Male,Ex-smoker,Moderate
+Pneumonia,2,50,0,2,93,24,38.6,91,2,3,64.8,5,Female,Current smoker,Severe
+Pneumonia,0,62,1,1,103,29,39.1,95,3,0,75.5,15,Male,Ex-smoker,Mild
+Pneumonia,1,62,1,0,113,28,38.8,91,3,2,70.1,3,Male,Never,Moderate
+Pneumonia,0,45,0,2,106,17,38.6,95,3,2,74.0,8,Female,Current smoker,Mild
+Pneumonia,0,51,1,2,114,21,38.4,91,2,2,66.6,7,Male,Current smoker,Mild
+Pneumonia,1,28,1,1,102,30,37.1,88,2,3,68.9,3,Male,Ex-smoker,Moderate
+Pneumonia,0,33,0,2,79,19,37.9,92,3,1,77.6,6,Female,Current smoker,Mild
+Pneumonia,1,45,1,0,105,26,38.3,87,2,3,81.6,3,Male,Never,Moderate
+Pneumonia,2,72,0,2,103,25,39.0,89,2,3,78.7,2,Female,Current smoker,Severe
+Pneumonia,0,78,0,2,112,21,37.9,93,3,3,82.5,2,Female,Current smoker,Mild
+Pneumonia,2,29,0,2,114,28,39.9,95,2,3,79.6,4,Female,Current smoker,Severe
+Pneumonia,1,30,1,0,99,28,38.8,88,2,3,78.4,2,Male,Never,Moderate
+Pneumonia,1,39,0,2,122,27,39.8,93,3,3,84.5,4,Female,Current smoker,Moderate
+Pneumonia,1,31,1,0,111,32,39.0,89,3,3,78.1,5,Male,Never,Moderate
+Pneumonia,2,50,0,2,115,30,38.1,91,2,2,76.5,5,Female,Current smoker,Severe
+Pneumonia,1,69,1,1,113,20,39.0,91,3,2,82.5,1,Male,Ex-smoker,Moderate
+Pneumonia,1,80,1,1,116,24,39.3,93,2,3,76.7,1,Male,Ex-smoker,Moderate
+Pneumonia,1,48,0,1,104,27,39.6,92,1,1,81.4,13,Female,Ex-smoker,Moderate
+Pneumonia,2,82,1,0,98,34,38.5,95,3,2,77.2,4,Male,Never,Severe
+Pneumonia,0,39,0,1,103,27,37.0,93,2,2,75.1,6,Female,Ex-smoker,Mild
+Pneumonia,1,44,0,0,96,25,38.9,94,3,3,70.2,10,Female,Never,Moderate
+Pneumonia,0,64,1,2,114,23,38.8,92,3,1,82.0,15,Male,Current smoker,Mild
+Pneumonia,0,58,1,0,100,19,38.8,95,2,3,67.7,7,Male,Never,Mild
+Pneumonia,0,48,0,2,85,23,37.2,93,2,2,69.5,3,Female,Current smoker,Mild
+Pneumonia,0,59,1,0,102,24,38.5,93,2,2,68.1,2,Male,Never,Mild
+Pneumonia,1,42,0,1,130,32,38.6,93,2,2,78.5,7,Female,Ex-smoker,Moderate
+Pneumonia,1,66,1,2,130,21,38.2,93,2,3,67.3,6,Male,Current smoker,Moderate
+Pneumonia,1,70,0,0,104,31,37.3,90,2,3,74.2,6,Female,Never,Moderate
+Pneumonia,0,71,0,0,117,26,38.7,93,1,3,84.6,6,Female,Never,Mild
+Pneumonia,0,76,0,0,98,31,38.4,90,2,3,85.5,4,Female,Never,Mild
+Pneumonia,1,74,1,1,121,28,39.1,94,3,1,78.2,4,Male,Ex-smoker,Moderate
+Pneumonia,1,51,1,1,111,27,39.1,97,2,1,68.7,5,Male,Ex-smoker,Moderate
+Pneumonia,1,59,0,1,98,26,38.3,92,2,2,70.8,8,Female,Ex-smoker,Moderate
+Pneumonia,0,64,1,2,89,28,38.4,94,3,2,69.7,9,Male,Current smoker,Mild
+Pneumonia,2,56,1,2,116,31,38.6,90,3,3,82.8,5,Male,Current smoker,Severe
+Pneumonia,0,36,0,0,104,27,37.2,87,3,2,75.0,6,Female,Never,Mild
+Pneumonia,0,63,0,2,76,28,37.9,90,3,3,78.0,16,Female,Current smoker,Mild
+Pneumonia,0,69,0,1,82,27,37.8,88,1,3,75.1,5,Female,Ex-smoker,Mild
+Pneumonia,1,49,1,2,83,23,37.5,91,2,3,76.4,6,Male,Current smoker,Moderate
+Pneumonia,0,58,0,0,112,20,38.9,96,3,3,77.4,11,Female,Never,Mild
+Pneumonia,1,58,0,1,130,25,38.7,91,2,1,72.9,6,Female,Ex-smoker,Moderate
+Pneumonia,1,33,1,2,98,32,38.3,96,3,1,77.5,8,Male,Current smoker,Moderate
+Pneumonia,2,65,1,2,116,32,39.0,91,3,3,72.5,13,Male,Current smoker,Severe
+Pneumonia,2,65,1,0,115,27,39.3,93,2,3,68.7,7,Male,Never,Severe
+Pneumonia,2,56,1,0,113,33,38.5,89,3,3,75.5,7,Male,Never,Severe
+Pneumonia,1,50,1,2,105,26,38.0,92,2,2,69.3,3,Male,Current smoker,Moderate
+Pneumonia,0,30,0,1,90,30,37.7,94,2,1,87.2,6,Female,Ex-smoker,Mild
+Pneumonia,2,54,1,0,126,31,39.2,95,3,3,85.3,6,Male,Never,Severe
+Pneumonia,1,60,1,0,89,31,38.3,88,2,3,80.2,5,Male,Never,Moderate
+Pneumonia,2,77,1,2,98,27,38.4,93,2,3,83.3,2,Male,Current smoker,Severe
+Pneumonia,0,65,1,0,107,27,39.0,92,3,2,69.7,2,Male,Never,Mild
+Pneumonia,1,80,0,2,102,18,38.1,91,2,2,84.8,8,Female,Current smoker,Moderate
+Pneumonia,2,63,1,0,109,24,39.1,88,3,3,70.7,4,Male,Never,Severe
+Pneumonia,0,70,0,1,111,19,38.6,93,2,2,81.5,6,Female,Ex-smoker,Mild
+Pneumonia,2,42,1,1,114,22,39.2,93,3,3,73.2,4,Male,Ex-smoker,Severe
+Pneumonia,0,71,0,0,76,29,37.8,89,3,2,63.5,4,Female,Never,Mild
+Pneumonia,1,21,0,2,106,22,39.4,92,1,1,78.6,4,Female,Current smoker,Moderate
+Pneumonia,2,38,0,0,114,32,39.4,89,2,3,65.8,4,Female,Never,Severe
+Pneumonia,0,62,0,0,86,28,38.1,90,3,3,80.8,8,Female,Never,Mild
+Pneumonia,2,38,1,2,93,32,38.9,87,3,3,77.4,1,Male,Current smoker,Severe
+Pneumonia,1,51,0,1,97,22,38.0,95,0,1,76.1,4,Female,Ex-smoker,Moderate
+Pneumonia,1,40,0,2,118,32,39.1,89,2,3,77.4,4,Female,Current smoker,Moderate
+Pneumonia,1,57,0,0,111,27,38.8,89,2,3,83.1,11,Female,Never,Moderate
+Pneumonia,0,31,1,0,103,23,37.9,92,1,2,77.3,2,Male,Never,Mild
+Pneumonia,1,71,1,2,106,32,39.0,93,3,2,83.2,10,Male,Current smoker,Moderate
+Pneumonia,0,39,0,1,107,20,37.7,91,2,2,73.2,8,Female,Ex-smoker,Mild
+Pneumonia,1,35,0,2,111,27,38.1,96,2,3,62.9,13,Female,Current smoker,Moderate
+Pneumonia,0,48,1,0,115,29,39.1,97,3,1,83.5,4,Male,Never,Mild
+Pneumonia,1,52,1,1,114,28,39.0,95,2,2,75.1,6,Male,Ex-smoker,Moderate
+Pneumonia,1,80,0,1,97,32,37.5,96,2,2,74.8,7,Female,Ex-smoker,Moderate
+Pneumonia,1,58,1,2,93,31,38.6,95,2,0,78.0,3,Male,Current smoker,Moderate
+Pneumonia,2,52,0,2,111,27,38.9,94,3,2,86.3,6,Female,Current smoker,Severe
+Pneumonia,0,43,0,0,111,21,38.2,92,1,2,83.0,7,Female,Never,Mild
+Pneumonia,2,42,0,0,112,25,39.4,92,3,2,78.0,10,Female,Never,Severe
+Pneumonia,1,30,0,1,114,27,38.1,96,2,2,81.5,7,Female,Ex-smoker,Moderate
+Pneumonia,1,45,1,2,94,24,38.3,91,3,3,75.0,4,Male,Current smoker,Moderate
+Pneumonia,1,56,0,2,101,29,38.9,91,2,3,72.0,3,Female,Current smoker,Moderate
+Pneumonia,1,71,1,0,80,27,38.7,91,2,2,75.3,12,Male,Never,Moderate
+Pneumonia,1,51,1,0,100,19,38.1,94,2,1,75.0,2,Male,Never,Moderate
+Pneumonia,0,37,1,1,115,20,37.8,92,2,2,75.8,5,Male,Ex-smoker,Mild
+Pneumonia,0,66,1,1,117,25,38.6,92,2,3,85.0,11,Male,Ex-smoker,Mild
+Pneumonia,0,42,1,2,106,26,38.1,93,3,3,79.6,7,Male,Current smoker,Mild
+Pneumonia,2,67,1,1,87,31,38.3,96,3,3,75.1,4,Male,Ex-smoker,Severe
+Pneumonia,2,39,1,0,108,27,38.0,93,2,3,82.5,5,Male,Never,Severe
+Pneumonia,2,79,0,0,124,28,39.3,91,3,3,81.4,6,Female,Never,Severe
+Pneumonia,2,36,1,0,122,28,38.0,89,3,3,77.8,5,Male,Never,Severe
+Pneumonia,1,51,0,1,86,23,38.0,91,2,2,70.8,8,Female,Ex-smoker,Moderate
+Pneumonia,1,25,0,2,91,20,38.6,92,3,3,79.9,8,Female,Current smoker,Moderate
+Pneumonia,2,49,0,1,107,33,39.5,87,3,3,77.9,4,Female,Ex-smoker,Severe
+Pneumonia,1,49,1,1,106,23,38.8,92,0,2,77.6,5,Male,Ex-smoker,Moderate
+Pneumonia,1,67,1,0,112,33,38.8,92,2,2,79.9,4,Male,Never,Moderate
+Pneumonia,1,67,0,1,116,26,39.5,91,1,3,72.3,12,Female,Ex-smoker,Moderate
+Pneumonia,2,48,0,2,116,30,39.5,94,3,3,77.5,1,Female,Current smoker,Severe
+Pneumonia,1,44,0,1,106,21,38.1,94,2,3,83.4,7,Female,Ex-smoker,Moderate
+Pneumonia,1,58,1,0,122,26,39.2,91,2,3,75.2,1,Male,Never,Moderate
+Pneumonia,0,20,1,0,122,18,38.8,91,3,3,82.2,2,Male,Never,Mild
+Pneumonia,2,58,1,1,82,31,38.0,87,2,3,69.9,4,Male,Ex-smoker,Severe
+Pneumonia,2,80,1,0,113,26,39.0,89,3,3,81.5,6,Male,Never,Severe
+Pneumonia,1,41,0,2,101,31,38.9,90,2,3,65.7,4,Female,Current smoker,Moderate
+Pneumonia,1,40,0,2,110,27,38.2,95,3,1,67.8,3,Female,Current smoker,Moderate
+Pneumonia,2,60,0,2,115,33,39.1,90,3,3,77.9,1,Female,Current smoker,Severe
+Pneumonia,1,64,1,0,109,30,39.4,89,3,3,78.2,13,Male,Never,Moderate
+Pneumonia,1,27,1,2,106,32,39.0,90,3,3,84.9,2,Male,Current smoker,Moderate
+Pneumonia,1,29,1,2,105,33,38.9,93,3,3,75.9,7,Male,Current smoker,Moderate
+Pneumonia,1,53,0,0,96,30,38.7,87,1,2,80.8,5,Female,Never,Moderate
+Pneumonia,1,49,1,2,110,21,39.0,92,2,3,86.1,5,Male,Current smoker,Moderate
+Pneumonia,0,50,1,1,105,25,37.6,92,2,1,72.0,2,Male,Ex-smoker,Mild
+Pneumonia,0,32,1,1,112,20,38.7,92,2,1,72.1,6,Male,Ex-smoker,Mild
+Pneumonia,1,40,0,0,79,29,37.7,89,3,3,73.7,5,Female,Never,Moderate
+Pneumonia,2,80,1,1,120,27,38.8,94,3,3,82.6,3,Male,Ex-smoker,Severe
+Pneumonia,1,43,0,0,116,33,39.7,93,2,2,76.0,4,Female,Never,Moderate
+Pneumonia,1,38,0,0,108,32,39.0,90,0,3,69.9,5,Female,Never,Moderate
+Pneumonia,0,63,0,2,93,23,38.0,92,3,2,82.9,4,Female,Current smoker,Mild
+Pneumonia,2,59,1,2,113,30,38.3,93,3,3,74.4,4,Male,Current smoker,Severe
+Pneumonia,1,26,1,0,119,28,38.8,91,3,2,66.7,13,Male,Never,Moderate
+Pneumonia,0,61,0,2,75,31,38.1,90,3,3,66.7,6,Female,Current smoker,Mild
+Pneumonia,1,52,1,1,99,33,38.6,94,2,2,85.2,3,Male,Ex-smoker,Moderate
+Pneumonia,1,74,1,0,81,30,38.1,88,3,3,75.1,4,Male,Never,Moderate
+Pneumonia,1,48,1,0,101,23,39.3,93,3,3,76.7,6,Male,Never,Moderate
+Pneumonia,2,49,1,1,104,27,38.9,90,3,3,82.4,2,Male,Ex-smoker,Severe
+Pneumonia,0,52,0,0,105,19,37.2,93,0,2,73.7,7,Female,Never,Mild
+Pneumonia,1,67,1,0,103,29,37.9,96,2,2,71.5,5,Male,Never,Moderate
+Pneumonia,1,66,0,2,91,25,38.3,92,1,2,66.7,5,Female,Current smoker,Moderate
+Pneumonia,1,55,1,0,91,24,38.6,96,3,1,80.3,5,Male,Never,Moderate
+Pneumonia,0,35,1,1,104,21,37.9,95,3,3,82.2,10,Male,Ex-smoker,Mild
+Pneumonia,1,45,1,1,103,24,37.9,88,3,3,74.9,14,Male,Ex-smoker,Moderate
+Pneumonia,0,75,0,2,103,29,38.9,93,2,2,85.9,4,Female,Current smoker,Mild
+Pneumonia,1,61,1,2,110,21,38.5,93,3,3,84.2,5,Male,Current smoker,Moderate
+Pneumonia,2,52,1,2,116,23,39.0,91,2,3,78.6,9,Male,Current smoker,Severe
+Pneumonia,1,49,0,0,118,28,37.7,95,1,3,77.7,4,Female,Never,Moderate
+Pneumonia,0,61,0,2,105,28,39.2,90,3,3,86.7,4,Female,Current smoker,Mild
+Pneumonia,0,66,0,1,114,25,39.1,93,3,3,76.9,8,Female,Ex-smoker,Mild
+Pneumonia,0,37,1,2,97,24,38.9,93,2,3,71.7,2,Male,Current smoker,Mild
+Pneumonia,2,72,0,0,114,28,39.8,93,3,2,70.7,4,Female,Never,Severe
+Pneumonia,1,59,1,0,98,29,38.9,91,1,1,74.0,6,Male,Never,Moderate
+Pneumonia,0,44,1,2,85,22,38.3,91,2,2,81.3,3,Male,Current smoker,Mild
+Pneumonia,1,61,1,1,112,26,39.6,90,2,3,76.7,11,Male,Ex-smoker,Moderate
+Pneumonia,2,44,1,1,111,26,39.2,88,3,2,73.4,3,Male,Ex-smoker,Severe
+Pneumonia,1,48,1,1,117,29,39.2,89,3,3,81.9,7,Male,Ex-smoker,Moderate
+Pneumonia,0,46,1,0,92,26,37.4,89,3,3,79.9,9,Male,Never,Mild
+Pneumonia,0,59,0,0,77,28,38.4,91,3,2,78.7,5,Female,Never,Mild
+Pneumonia,2,76,0,2,105,33,38.2,87,3,3,76.4,8,Female,Current smoker,Severe
+Pneumonia,1,63,1,1,117,30,39.6,94,3,1,83.0,12,Male,Ex-smoker,Moderate
+Pneumonia,0,54,1,1,113,29,38.5,90,2,3,73.8,4,Male,Ex-smoker,Mild
+Pneumonia,1,49,0,0,119,21,40.1,94,2,1,77.2,4,Female,Never,Moderate
+Pneumonia,1,33,1,0,119,30,38.7,90,2,3,78.4,1,Male,Never,Moderate
+Pneumonia,1,60,1,1,88,24,38.6,92,1,3,81.6,6,Male,Ex-smoker,Moderate
+Pneumonia,1,51,0,2,101,26,39.0,92,2,2,64.7,4,Female,Current smoker,Moderate
+Pneumonia,2,71,1,2,81,35,38.5,92,2,3,64.3,5,Male,Current smoker,Severe
+Pneumonia,0,51,1,2,87,22,38.9,94,3,3,72.3,5,Male,Current smoker,Mild
+Pneumonia,1,32,0,1,102,21,38.7,92,3,1,73.9,9,Female,Ex-smoker,Moderate
+Pneumonia,0,49,0,0,90,24,37.2,91,1,3,78.2,7,Female,Never,Mild
+Pneumonia,1,53,1,1,100,19,38.0,94,3,2,82.0,7,Male,Ex-smoker,Moderate
+Pneumonia,0,72,1,2,109,20,38.1,91,1,3,78.7,2,Male,Current smoker,Mild
+Pneumonia,1,44,1,2,104,31,38.3,88,3,3,79.9,3,Male,Current smoker,Moderate
+Pneumonia,0,68,1,1,104,21,39.0,92,1,2,72.4,4,Male,Ex-smoker,Mild
+Pneumonia,1,24,1,0,122,26,38.6,96,3,2,76.6,4,Male,Never,Moderate
+Pneumonia,0,30,1,1,121,32,38.8,97,2,1,69.1,5,Male,Ex-smoker,Mild
+Pneumonia,2,66,1,0,106,21,39.7,95,3,3,76.9,8,Male,Never,Severe
+Pneumonia,2,30,0,1,109,27,39.1,96,2,3,74.0,6,Female,Ex-smoker,Severe
+Pneumonia,0,69,1,1,101,26,38.1,91,3,2,83.8,6,Male,Ex-smoker,Mild
+Pneumonia,0,63,0,1,110,27,38.8,91,3,1,76.7,13,Female,Ex-smoker,Mild
+Pneumonia,1,56,0,1,109,17,37.8,97,3,2,78.9,4,Female,Ex-smoker,Moderate
+Pneumonia,1,73,0,0,120,26,39.1,88,2,2,80.7,10,Female,Never,Moderate
+Pneumonia,0,56,1,0,87,30,38.9,93,2,2,79.1,1,Male,Never,Mild
+Pneumonia,1,49,1,1,118,27,39.2,94,2,2,84.2,1,Male,Ex-smoker,Moderate
+Pneumonia,1,62,1,2,97,25,38.9,94,2,2,79.9,5,Male,Current smoker,Moderate
+Pneumonia,0,32,0,0,99,24,38.8,91,2,3,81.5,7,Female,Never,Mild
+Pneumonia,1,78,0,0,94,21,38.4,92,1,2,74.0,3,Female,Never,Moderate
+Pneumonia,1,55,1,1,99,20,37.9,93,2,3,80.7,4,Male,Ex-smoker,Moderate
+Pneumonia,2,56,1,2,98,32,38.5,90,2,3,84.1,2,Male,Current smoker,Severe
+Pneumonia,2,30,1,2,113,31,38.0,86,3,3,74.3,3,Male,Current smoker,Severe
+Pneumonia,1,52,0,0,120,21,39.4,93,2,2,70.9,8,Female,Never,Moderate
+Pneumonia,1,67,0,0,130,24,38.1,89,2,3,78.4,4,Female,Never,Moderate
+Pneumonia,2,75,1,1,101,36,38.6,93,2,3,69.6,4,Male,Ex-smoker,Severe
+Pneumonia,1,81,0,1,119,34,39.0,88,1,2,85.2,14,Female,Ex-smoker,Moderate
+Pneumonia,1,35,1,0,102,28,38.9,96,2,3,77.5,12,Male,Never,Moderate
+Pneumonia,0,76,0,1,108,21,38.2,91,2,3,85.9,11,Female,Ex-smoker,Mild
+Pneumonia,1,23,1,1,92,30,38.5,89,1,3,69.2,3,Male,Ex-smoker,Moderate
+Pneumonia,1,25,0,2,112,30,38.0,89,3,3,78.7,5,Female,Current smoker,Moderate
+Pneumonia,2,39,0,0,97,34,38.4,88,3,3,71.5,5,Female,Never,Severe
+Pneumonia,1,26,1,1,94,28,38.6,89,2,3,79.3,2,Male,Ex-smoker,Moderate
+Pneumonia,1,22,0,0,88,31,38.7,90,3,3,85.5,5,Female,Never,Moderate
+Pneumonia,1,54,0,2,94,23,38.3,94,2,3,87.6,4,Female,Current smoker,Moderate
+Pneumonia,0,45,1,0,100,25,37.0,94,1,1,86.8,8,Male,Never,Mild
+Pneumonia,1,60,0,1,107,25,39.1,87,2,2,78.0,8,Female,Ex-smoker,Moderate
+Pneumonia,1,45,0,0,110,25,38.7,94,3,2,86.3,6,Female,Never,Moderate
+Pneumonia,1,79,1,1,79,24,38.6,93,3,2,80.2,3,Male,Ex-smoker,Moderate
+Pneumonia,2,50,1,2,109,28,40.2,94,3,2,89.2,7,Male,Current smoker,Severe
+Pneumonia,1,78,1,0,107,32,38.7,90,1,3,69.7,3,Male,Never,Moderate
+Pneumonia,2,47,1,1,104,28,39.7,90,2,3,71.5,6,Male,Ex-smoker,Severe
+Pneumonia,1,33,0,2,91,27,37.9,93,3,2,77.0,7,Female,Current smoker,Moderate
+Pneumonia,1,49,0,0,117,29,38.9,90,2,3,76.5,5,Female,Never,Moderate
+Pneumonia,0,32,0,0,91,35,38.2,95,2,3,71.0,3,Female,Never,Mild
+Pneumonia,1,34,0,1,130,26,38.3,91,1,3,73.0,2,Female,Ex-smoker,Moderate
+Pneumonia,0,59,0,0,102,32,37.8,90,2,2,88.3,2,Female,Never,Mild
+Pneumonia,1,26,1,1,106,25,38.6,90,2,3,81.1,11,Male,Ex-smoker,Moderate
+Pneumonia,2,45,0,0,112,27,39.0,86,3,3,78.1,7,Female,Never,Severe
+Pneumonia,1,44,1,2,108,28,37.9,88,1,3,77.5,3,Male,Current smoker,Moderate
+Pneumonia,1,68,1,2,103,34,38.9,90,3,3,81.9,5,Male,Current smoker,Moderate
+Pneumonia,0,68,0,2,104,30,37.8,90,3,3,81.0,12,Female,Current smoker,Mild
+Pneumonia,0,77,1,0,79,20,38.4,92,3,3,75.4,8,Male,Never,Mild
+Pneumonia,0,34,0,2,104,28,38.4,88,2,3,71.7,6,Female,Current smoker,Mild
+Pneumonia,2,43,1,0,77,29,38.3,90,3,3,85.7,6,Male,Never,Severe
+Pneumonia,0,42,0,0,107,27,38.7,93,2,2,79.3,7,Female,Never,Mild
+Pneumonia,1,50,1,0,107,32,38.6,87,2,2,76.8,3,Male,Never,Moderate
+Pneumonia,1,24,0,1,104,24,38.3,93,3,1,79.6,7,Female,Ex-smoker,Moderate
+Pneumonia,0,52,1,1,104,26,39.2,90,2,3,83.4,9,Male,Ex-smoker,Mild
+Pneumonia,2,81,0,2,117,23,38.4,94,2,3,73.4,2,Female,Current smoker,Severe
+Pneumonia,1,21,1,1,95,31,37.9,90,2,3,79.3,11,Male,Ex-smoker,Moderate
+Pneumonia,1,65,1,1,120,35,38.9,92,3,2,64.3,5,Male,Ex-smoker,Moderate
+Pneumonia,2,38,1,2,114,33,39.1,93,3,3,75.5,6,Male,Current smoker,Severe
+Pneumonia,1,71,1,0,108,31,39.0,90,2,3,74.0,15,Male,Never,Moderate
+Pneumonia,1,34,1,0,106,25,38.5,93,2,2,68.5,3,Male,Never,Moderate
+Pneumonia,1,34,1,0,103,32,39.4,97,2,2,81.2,2,Male,Never,Moderate
+Pneumonia,1,70,1,0,95,17,37.4,92,2,2,68.2,3,Male,Never,Moderate
+Pneumonia,1,49,0,2,85,34,37.7,88,2,3,72.3,5,Female,Current smoker,Moderate
+Pneumonia,1,20,0,0,93,26,38.3,87,1,3,79.9,7,Female,Never,Moderate
+Pneumonia,1,73,0,0,106,29,39.3,89,3,3,77.6,4,Female,Never,Moderate
+Pneumonia,2,63,1,2,88,26,38.9,91,3,3,72.6,8,Male,Current smoker,Severe
+Pneumonia,0,54,1,0,95,22,38.7,91,3,2,85.3,2,Male,Never,Mild
+Pneumonia,1,31,1,1,109,20,38.3,91,3,3,73.2,1,Male,Ex-smoker,Moderate
+Pneumonia,2,35,1,0,110,31,38.6,90,3,3,67.2,3,Male,Never,Severe
+Pneumonia,0,31,1,2,119,27,39.3,96,3,3,72.3,3,Male,Current smoker,Mild
+Pneumonia,0,36,1,2,114,26,38.1,94,2,1,81.7,4,Male,Current smoker,Mild
+Pneumonia,1,40,1,2,105,26,38.9,93,3,2,71.7,1,Male,Current smoker,Moderate
+Pneumonia,1,54,0,1,108,32,38.4,94,2,2,84.9,10,Female,Ex-smoker,Moderate
+Pneumonia,0,76,0,2,87,31,38.0,91,2,3,72.4,5,Female,Current smoker,Mild
+Pneumonia,1,71,1,1,113,28,39.3,95,2,2,88.0,9,Male,Ex-smoker,Moderate
+Pneumonia,0,51,1,1,98,27,37.8,90,2,3,72.0,20,Male,Ex-smoker,Mild
+Pneumonia,1,34,0,2,101,31,38.7,97,3,2,81.0,3,Female,Current smoker,Moderate
+Pneumonia,1,48,0,0,103,29,38.4,92,3,1,74.7,6,Female,Never,Moderate
+Pneumonia,0,62,0,0,81,21,38.5,94,3,1,67.9,12,Female,Never,Mild
+Pneumonia,1,47,0,0,115,36,39.1,94,3,2,69.0,7,Female,Never,Moderate
+Pneumonia,1,62,1,2,96,21,38.2,95,1,2,75.8,21,Male,Current smoker,Moderate
+Pneumonia,0,60,1,2,93,31,37.5,89,3,3,74.3,3,Male,Current smoker,Mild
+Pneumonia,0,57,1,0,105,18,37.6,93,2,1,73.6,13,Male,Never,Mild
+Pneumonia,1,43,1,1,116,30,39.3,88,3,2,82.2,5,Male,Ex-smoker,Moderate
+Pneumonia,1,62,1,2,111,25,38.7,94,3,1,76.6,10,Male,Current smoker,Moderate
+Pneumonia,1,49,0,1,99,30,38.8,91,2,3,86.0,1,Female,Ex-smoker,Moderate
